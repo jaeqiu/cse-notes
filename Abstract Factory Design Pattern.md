@@ -1,0 +1,1 @@
+**Abstract Factory:** Allows the production of object families without specifying concretes.

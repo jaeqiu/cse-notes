@@ -1,0 +1,1 @@
+**Adapter:** Allows objects with incompatible interfaces to collaborate by providing a different interface to the wrapped object.

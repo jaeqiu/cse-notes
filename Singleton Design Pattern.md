@@ -1,0 +1,1 @@
+**Singleton:** Ensures that a class has only one instance.

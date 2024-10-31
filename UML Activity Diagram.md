@@ -1,5 +1,5 @@
 #### UML Activity Diagram
-
+u need to be able to read this but not make this
   Useful for eliciting requirements and implementing functionalities:
 
   - Highlights functions.

@@ -1,0 +1,1 @@
+ **Observer:** Allows two objects to collaborate despite incompatible interfaces.

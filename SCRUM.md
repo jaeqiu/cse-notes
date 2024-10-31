@@ -1,0 +1,1 @@
+identified through: timeboxed iterative delivery, predefined events, prescribed roles and artifacts

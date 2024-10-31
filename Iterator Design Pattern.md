@@ -1,0 +1,1 @@
+**Iterator Pattern:** Traverses elements of a collection without exposing the underlying representation. Solves the problem of different collections supporting different iteration orders.

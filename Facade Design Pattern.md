@@ -1,0 +1,1 @@
+**Facade:** Provides a simplified interface to a complex library/framework, enhancing the interface of the wrapped object.

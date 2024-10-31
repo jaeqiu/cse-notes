@@ -1,0 +1,1 @@
+- **Chain of Responsibility A:** Pass requests along a chain of handlers, all of which need to greenlight.

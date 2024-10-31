@@ -1,0 +1,4 @@
+**Composite Pattern:** Composes various objects into a tree structure.
+	example
+	Consider a game where the game world consists of many different blocks that the player can interact with. Different blocks have different properties and traits, and this is represented in the code by different classes and interfaces (Interactable, Breakable, …).
+	You are making a plugin for this game where you can make miniature versions of things. With this plugin a whole 16x16x16 region of blocks can be shrunk to the size of a single block. Any action performed on this block should be replicated to all of the tiny blocks inside of it.
