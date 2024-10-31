@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"c2ff1c942e6ae313","type":"text","text":"monkeyless","x":-216,"y":9,"width":286,"height":50},
+		{"id":"8ebe0d60fe2eb31b","type":"file","file":"ethos.md","x":-216,"y":-280,"width":250,"height":60},
+		{"id":"849773754b5ade6d","x":-1520,"y":-650,"width":400,"height":400,"type":"link","url":"https://www.figma.com/design/BVrvB4cGWw4YKh4SkQob50/monkeyless?node-id=363-10&node-type=frame&t=u6yNt30OEKJDv4Ye-0"},
+		{"id":"f7144be7ce206c2a","type":"link","url":"https://github.com/WingToh/monkeyless","x":-1680,"y":340,"width":400,"height":400},
+		{"id":"969feb3e53086353","type":"link","url":"https://drive.google.com/drive/folders/1jPydA__oiFd48wDT_YFrn70aZuXK8Gyh","x":-846,"y":960,"width":400,"height":400},
+		{"id":"3d78704b90d1ad2c","x":140,"y":960,"width":400,"height":400,"type":"link","url":"https://onesignal.com/"},
+		{"id":"9474e9d72c2f5b03","x":-846,"y":-1120,"width":400,"height":400,"type":"link","url":"https://mobbin.com/"},
+		{"id":"b5e144cba24a0ca3","x":1200,"y":140,"width":400,"height":400,"type":"link","url":"https://api.flutter.dev/flutter/material/TextTheme-class.html"}
+	],
+	"edges":[
+		{"id":"130bde391cb3a55f","fromNode":"c2ff1c942e6ae313","fromSide":"bottom","toNode":"969feb3e53086353","toSide":"left"},
+		{"id":"9a89f73ee69d09c7","fromNode":"c2ff1c942e6ae313","fromSide":"bottom","toNode":"f7144be7ce206c2a","toSide":"right"},
+		{"id":"870ad5d97dfc69d0","fromNode":"c2ff1c942e6ae313","fromSide":"top","toNode":"8ebe0d60fe2eb31b","toSide":"bottom"},
+		{"id":"660b4561453e8238","fromNode":"c2ff1c942e6ae313","fromSide":"right","toNode":"b5e144cba24a0ca3","toSide":"left"},
+		{"id":"b1a9dd66ab821ce3","fromNode":"c2ff1c942e6ae313","fromSide":"left","toNode":"849773754b5ade6d","toSide":"right"},
+		{"id":"b3c322083c495a00","fromNode":"c2ff1c942e6ae313","fromSide":"bottom","toNode":"3d78704b90d1ad2c","toSide":"top"},
+		{"id":"5cac384faebcbda5","fromNode":"c2ff1c942e6ae313","fromSide":"top","toNode":"9474e9d72c2f5b03","toSide":"bottom"}
+	]
+}

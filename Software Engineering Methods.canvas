@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"15696abdd63d7f54","type":"file","file":"Design.md","x":1579,"y":-638,"width":940,"height":348},
+		{"id":"e5e2cdffe6d2a4a9","type":"file","file":"Software Engineering Methods.canvas","x":781,"y":267,"width":940,"height":627},
+		{"id":"bff71092ddd36890","type":"file","file":"Planning.md","x":-960,"y":650,"width":931,"height":348},
+		{"id":"6e98a48d94743274","type":"file","file":"Implementation.md","x":2473,"y":650,"width":931,"height":348},
+		{"id":"0e3b1cab2a5dcd7a","type":"file","file":"Maintenance.md","x":649,"y":1753,"width":931,"height":348},
+		{"id":"38ee10d05d18ffab","type":"file","file":"Discover stakeholders, Elicit Requirements.md","x":-641,"y":-1293,"width":587,"height":139},
+		{"id":"40a5326a4b8ed8bb","type":"file","file":"Requirement Analysis.md","x":-665,"y":-986,"width":636,"height":229},
+		{"id":"beb803cb682bed81","type":"file","file":"Specify Requirements.md","x":-1561,"y":-872,"width":587,"height":139},
+		{"id":"b274e47cf10e2f70","type":"file","file":"Classify Requirements.md","x":462,"y":-872,"width":587,"height":139},
+		{"id":"bfee3df47473e84e","type":"file","file":"Prioritize requirements.md","x":-640,"y":-533,"width":587,"height":139},
+		{"id":"632939bbc225195c","type":"file","file":"UML knowledge.md","x":720,"y":-2248,"width":602,"height":88},
+		{"id":"76b6675b2fa28078","type":"file","file":"Class Diagram.md","x":1595,"y":-2442,"width":445,"height":72},
+		{"id":"3de43a8383c15372","type":"file","file":"Use Case Diagram in requirement elicitation.md","x":-383,"y":-2105,"width":783,"height":105},
+		{"id":"915dc0e1c1bc96f8","type":"file","file":"Architectural View.md","x":1669,"y":-1215,"width":545,"height":129},
+		{"id":"5bff77686aaffc50","type":"file","file":"Architectural Pattern.md","x":970,"y":-1151,"width":609,"height":136},
+		{"id":"650fbef3417820d1","type":"file","file":"Design Pattern.md","x":2360,"y":-1222,"width":620,"height":143},
+		{"id":"074148d5099f9d92","type":"file","file":"CAP theorem.md","x":3040,"y":-1015,"width":513,"height":119},
+		{"id":"e577c6de4043dadc","type":"file","file":"Scale Cube.md","x":4040,"y":40,"width":1038,"height":223}
+	],
+	"edges":[
+		{"id":"f67c5350390b10d3","fromNode":"6e98a48d94743274","fromSide":"bottom","toNode":"0e3b1cab2a5dcd7a","toSide":"right"},
+		{"id":"4219a31281631585","fromNode":"0e3b1cab2a5dcd7a","fromSide":"left","toNode":"bff71092ddd36890","toSide":"bottom"},
+		{"id":"98a24a98722d90d8","fromNode":"15696abdd63d7f54","fromSide":"right","toNode":"6e98a48d94743274","toSide":"top"},
+		{"id":"b2077388b5264a37","fromNode":"b274e47cf10e2f70","fromSide":"bottom","toNode":"bfee3df47473e84e","toSide":"right"},
+		{"id":"43b027bc33b953da","fromNode":"bfee3df47473e84e","fromSide":"left","toNode":"beb803cb682bed81","toSide":"bottom"},
+		{"id":"f691435627e46311","fromNode":"beb803cb682bed81","fromSide":"top","toNode":"38ee10d05d18ffab","toSide":"left"},
+		{"id":"a32a9ef619a0b1a3","fromNode":"38ee10d05d18ffab","fromSide":"right","toNode":"b274e47cf10e2f70","toSide":"top"},
+		{"id":"fa21680959b104f9","fromNode":"40a5326a4b8ed8bb","fromSide":"bottom","toNode":"15696abdd63d7f54","toSide":"left"},
+		{"id":"6cbb29cf7f0b9f7a","fromNode":"15696abdd63d7f54","fromSide":"top","toNode":"5bff77686aaffc50","toSide":"bottom"},
+		{"id":"4fefbccaa09ea98c","fromNode":"15696abdd63d7f54","fromSide":"top","toNode":"915dc0e1c1bc96f8","toSide":"bottom"},
+		{"id":"9608ecfd858d1a7f","fromNode":"15696abdd63d7f54","fromSide":"top","toNode":"650fbef3417820d1","toSide":"bottom"},
+		{"id":"e717d7a833856d53","fromNode":"632939bbc225195c","fromSide":"right","toNode":"76b6675b2fa28078","toSide":"bottom"},
+		{"id":"1193a819fa232493","fromNode":"38ee10d05d18ffab","fromSide":"top","toNode":"3de43a8383c15372","toSide":"bottom"},
+		{"id":"1809c824611fed34","fromNode":"15696abdd63d7f54","fromSide":"top","toNode":"074148d5099f9d92","toSide":"bottom"}
+	]
+}
