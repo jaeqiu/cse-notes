@@ -1,0 +1,1 @@
+- The user sees the view; the controller forwards actions; the model verifies data.

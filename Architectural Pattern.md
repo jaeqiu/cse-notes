@@ -12,39 +12,32 @@ Choosing an architectural pattern is a tradeoff. Each pattern differs in the fol
 
 ### Client and Server
 
-- The server provides resources so the user can consume.
+[[Client and Server]]
 
 ### Layered Architecture
 
-- Layering provides abstraction.
-- Easy to maintain.
+[[Layered]]
 
 ### Model-View-Controller
 
-- The user sees the view; the controller forwards actions; the model verifies data.
+[[MVC]]
 
 ### Pipe-and-Filter
 
-- Used for systems that produce a stream of data.
-- **Source:** provides data.
-- **Pipes:** move unaltered streams.
-- **Filters:** define input/output constraints.
-- **Sinks:** receive final data.
-- Good for data-intensive applications, buffering, and syncing.
-- Easy to reuse.
+[[Pipe and Filter]]
 
 ### Microservices
 
-- Rearranges the application as a collection of microservices.
+[[Microservices]]
 
 ### Publish-Subscribe Pattern
 
-- The publisher provides an event to the event bus, which delivers the event to subscribers.
+[[Publish Subscribe]]
 
 ### Event-Driven Architecture
 
-- Agents detect and transfer events to an event queue; the event queue decides which sink to transfer to.
+[[Event Driven]]
 
 ### Peer-to-Peer Pattern
 
-- Offers good performance.
+[[Peer to Peer]]

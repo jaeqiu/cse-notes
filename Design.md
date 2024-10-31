@@ -8,7 +8,6 @@ An architectural pattern is a high-level structure of the system.
 
 ## Architectural Views to Display Your Architectural Pattern
 
-
 [[Architectural View]]
 
 ## Design Patterns

@@ -1,0 +1,2 @@
+- Layering provides abstraction.
+- Easy to maintain.

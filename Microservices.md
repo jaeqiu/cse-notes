@@ -1,0 +1,1 @@
+- Rearranges the application as a collection of microservices.

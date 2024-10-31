@@ -1,1 +1,1 @@
-Class Diagram
+Class Diagram (Behavior focused)
