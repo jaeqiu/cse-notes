@@ -1,0 +1,1 @@
+**Strategy Pattern:** Defines a family of algorithms. Supports dependency inversion and open-close principles. Separate classes for different implementations.

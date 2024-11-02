@@ -1,0 +1,1 @@
+**Proxy:** Provides a substitute placeholder for the wrapped object with the same interface.

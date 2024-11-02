@@ -1,0 +1,1 @@
+**Builder:** Constructs a complex object step-by-step, allowing various types/representations of an object from the same construction code.
