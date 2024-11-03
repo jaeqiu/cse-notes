@@ -1,3 +1,5 @@
+, solutions, fewshot prompting
+
 AI tools integrated in IDEs tend to improve productivity
 The programming language of a project can have a large influence on vulnerabilities in code suggestions from AI tools
 
