@@ -24,7 +24,7 @@
 		{"id":"6dfbe1a87378131f","type":"group","x":800,"y":1146,"width":600,"height":100,"color":"4","label":"software dimension "},
 		{"id":"886c72e2a9f94573","type":"file","file":"Computer Science/Y2/Q1/Software Engineering Methods/Publish Subscribe.md","x":740,"y":-1655,"width":466,"height":50,"color":"3"},
 		{"id":"074148d5099f9d92","type":"file","file":"Computer Science/Y2/Q1/Software Engineering Methods/CAP theorem.md","x":260,"y":-1600,"width":304,"height":50,"color":"3"},
-		{"id":"1d2278ec83e61aa2","type":"file","file":"Computer Science/Y2/Q1/Software Engineering Methods/Event Driven.md","x":740,"y":-1566,"width":466,"height":50,"color":"3"},
+		{"id":"1d2278ec83e61aa2","type":"file","file":"Computer Science/Y2/Q1/Software Engineering Methods/EDA Event Driven Architecture.md","x":740,"y":-1566,"width":466,"height":50,"color":"3"},
 		{"id":"414e4fcfeb0e8779","type":"file","file":"Computer Science/Y2/Q1/Software Engineering Methods/Peer to Peer.md","x":740,"y":-1477,"width":466,"height":50,"color":"3"},
 		{"id":"930a042ee6422ab7","type":"file","file":"Computer Science/Y2/Q1/Software Engineering Methods/MVC.md","x":740,"y":-1922,"width":466,"height":50,"color":"3"},
 		{"id":"e2d9bd16305d5e5a","type":"file","file":"Computer Science/Y2/Q1/Software Engineering Methods/Layered.md","x":740,"y":-2011,"width":466,"height":50,"color":"3"},

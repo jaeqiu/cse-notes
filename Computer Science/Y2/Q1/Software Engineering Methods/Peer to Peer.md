@@ -1,2 +1,1 @@
-
 - Offers good performance.
