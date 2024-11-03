@@ -3,7 +3,7 @@
 - Internal build of components.
 - Reusable solution to localized problems.
 
-### OOP Design Principles → SOLID
+### OOP Design Principles follow SOLID
 
 [[SOLID principle]]
 

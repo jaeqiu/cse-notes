@@ -20,3 +20,4 @@
 	definitely not a dealbreaker:
 	how polished ux is
 	complex setting up
+copyleft

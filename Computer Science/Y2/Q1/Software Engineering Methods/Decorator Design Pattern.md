@@ -1,1 +1,1 @@
-**Decorator:** Attaches new behavior to objects by wrapping them, enhancing the interface of the wrapped object.
+**Decorator:** Attaches new behavior to objects by wrapping them, enhancing the interface of the wrapped object.![[Pasted image 20241103110344.png]]

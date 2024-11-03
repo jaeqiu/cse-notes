@@ -128,6 +128,6 @@ System Language
 - Retract: An applicant deleting their application before it is accepted or rejected by a lecturer
 
 Domain relations
-	you can make a class diagram for this [[detailed class diagram example]] [[Class Diagram]]
+	you can make a class diagram for this [[detailed class diagram example]] [[UML Class Diagram]]
 
 	

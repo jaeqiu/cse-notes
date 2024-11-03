@@ -1,1 +1,9 @@
-**Iterator Pattern:** Traverses elements of a collection without exposing the underlying representation. Solves the problem of different collections supporting different iteration orders.
+**Iterator Pattern:** Traverses elements of a collection. Problem: no default iterator per collection
+
+In short: iterator interface
+
+
+
+solution: many iterators per collection (more practically: one iterator interface with concrete implementations)
+![[Pasted image 20241103111519.png]]
+![[Pasted image 20241103105816.png]]

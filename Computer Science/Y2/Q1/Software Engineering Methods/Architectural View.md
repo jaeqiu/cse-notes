@@ -21,7 +21,7 @@ System scope, responsibilities, and externals (API).
 ### Informational
 - Storage, manipulation, management, and distribution of information.
 [[UML Activity Diagram]]
-[[Class Diagram]]
+[[UML Class Diagram]]
 [[UML ERD]]
 
 ### Concurrency

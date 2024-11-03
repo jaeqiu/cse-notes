@@ -1,3 +1,4 @@
+![[Pasted image 20241101170845.png]]
 ```@startuml
 
 ' NOTE: We also show a less detailed version below.
