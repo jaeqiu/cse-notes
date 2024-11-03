@@ -1,2 +1,1 @@
-
-- The server provides resources so the user can consume.
+The server provides resources so the user can consume.
