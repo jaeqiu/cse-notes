@@ -1,9 +1,11 @@
-+ close to customers
-+ shorter iterations
-+ validation (what is customer value)
-+ deliver most-valuable first
-+ constantly deliver a DONE product (stable)
-+ competent cross-functional (various spanning skilled) teams
-+ a lot of intense human interaction
-+ safe environment where experimentation, discovery, learning are allowed
-+ coordination of work using visual management
+Prerequisite for agile at scale: Bi-directional line from teams (execution) to management (strategy) about workflow and decision making
+
++ Together with customer -> build context
++ 
++ Validate -> what is customer value
++ Deliver most-valuable first
++ [[Frequent delivery]]
++ Competence -> A cross-functional team (wide skills)
++ Intense human interaction
++ [[CLC continuous learning culture]]
++ Consensus: Visual management to coordinate work.

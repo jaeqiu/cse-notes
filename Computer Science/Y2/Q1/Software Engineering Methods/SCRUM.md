@@ -1,3 +1,8 @@
+Short-cycled sprints
++ transparency: the entire project is clear to all
++ inspection: checking project progression, quality
++ adaptation: changes allowed. This directly combats VUCA, because adaptation allows a high-level steering towards a more suitable solution for the changing VUCA setting.
+
 identified through: timeboxed iterative delivery, predefined events, prescribed roles and artifacts
 
 The Product Owner (PO) is responsible for maximizing the value of the product resulting from the team’s work. They bridge the gap between the development team and stakeholders, ensuring that the team’s efforts align with customer and business needs. The PO adjusts priorities of tasks based on the stakeholder’s constantly adjusting requirements.

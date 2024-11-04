@@ -1,3 +1,5 @@
+Team autonomy. Squads, tribes, chapters, and guilds
+
 People from the same tribe share an office (~100 people)
 A squad, which is like a scrum team, is autonomous and reports to the PO
 A chapter is a community based on a specific skill, where the chapter lead is the line manager

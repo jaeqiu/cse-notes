@@ -1,3 +1,6 @@
+Work is pulled as capacity allows, focus on value rewarding tasks
+
+
 1. Visualize work with a KanBan board
 2. Limit the amount of things that are WIP at the same time
 3. Manage and analyze the KanBan board's flow to spot bottlenecks

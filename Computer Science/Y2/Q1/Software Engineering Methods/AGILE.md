@@ -1,1 +1,0 @@
-Important prerequisite for executing large scale agile: establishing a bi-directional line of: workflow and decision making from teams (execution) to top management (strategy)

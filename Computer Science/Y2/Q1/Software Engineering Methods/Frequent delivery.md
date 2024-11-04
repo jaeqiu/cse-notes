@@ -1,0 +1,1 @@
+Frequent delivery of stable releases allows for rapid feedback, quick validation from customers.
