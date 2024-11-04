@@ -1,1 +1,1 @@
-Feature Envy: a method in once class accesses the methods/fields of another class more often than its own. This is unmaintainable and unclear
+Feature Envy: a method in once class accesses the methods or fields of another class more often than its own. This is unmaintainable and unclear
