@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"a01c1efeb32837dd","type":"group","x":-5932,"y":-219,"width":6763,"height":2379,"color":"6","label":"Supervised Learning"},
-		{"id":"7da3b5bfe12157f9","type":"group","x":1219,"y":-80,"width":3022,"height":2240,"color":"3","label":"Unsupervised Learning"},
+		{"id":"a01c1efeb32837dd","type":"group","x":-5932,"y":-219,"width":6763,"height":2699,"color":"6","label":"Supervised Learning"},
+		{"id":"7da3b5bfe12157f9","type":"group","x":1219,"y":-219,"width":3022,"height":2699,"color":"3","label":"Unsupervised Learning"},
 		{"id":"bf2bf7ffa869ba32","type":"text","text":"# Dimensionality Reduction\nMany features -> less features","x":3254,"y":831,"width":532,"height":380},
 		{"id":"c91b0210b0c09403","type":"file","file":"Pasted image 20241107022254.png","x":3840,"y":921,"width":400,"height":197},
 		{"id":"123ffee56299924e","type":"file","file":"Pasted image 20241107031856.png","x":2324,"y":831,"width":352,"height":287},
@@ -25,7 +25,7 @@
 		{"id":"39dfb42d1bc081fc","type":"file","file":"Computer Science/Y2/Q1/Machine Learning/Classifier.md","x":-2959,"y":-107,"width":1059,"height":256},
 		{"id":"fde53313097a34c3","type":"file","file":"Computer Science/Y2/Q1/Machine Learning/Generative Classifier.md","x":-4634,"y":926,"width":805,"height":80},
 		{"id":"a824e4a9df0d84ab","type":"file","file":"Computer Science/Y2/Q1/Machine Learning/K-NN.md","x":-3223,"y":1630,"width":235,"height":80,"color":"2"},
-		{"id":"778ac329bb20e4da","type":"file","file":"Computer Science/Y2/Q1/Machine Learning/Naive Bayes Classifier.md","x":-4164,"y":1630,"width":843,"height":80,"color":"5"},
+		{"id":"778ac329bb20e4da","type":"file","file":"Computer Science/Y2/Q1/Machine Learning/Naive Bayes Classifier.md","x":-4164,"y":1630,"width":843,"height":850,"color":"5"},
 		{"id":"8c2683308d128f4a","type":"file","file":"attachments/Classification 2024-10-23 13.41.00.excalidraw.md","x":-3829,"y":-107,"width":824,"height":469},
 		{"id":"19177798f47f1ce6","type":"file","file":"Computer Science/Y2/Q1/Machine Learning/Non-linear Generative Classifier.md","x":-3653,"y":1346,"width":795,"height":80,"color":"1"},
 		{"id":"bcb4be460e119849","type":"file","file":"Computer Science/Y2/Q1/Machine Learning/QDA.md","x":-4452,"y":1630,"width":219,"height":80,"color":"5"},
@@ -34,7 +34,7 @@
 		{"id":"2687b6e6183ab541","type":"file","file":"Computer Science/Y2/Q1/Machine Learning/Nearest Mean Classifier.md","x":-5900,"y":1630,"width":546,"height":80,"color":"5"},
 		{"id":"4aac9b77fc283f54","type":"file","file":"Pasted image 20241107000904.png","x":-80,"y":-1040,"width":400,"height":302},
 		{"id":"c3e5f207acb9de0f","type":"file","file":"Computer Science/Y2/Q1/Machine Learning/Ethics.md","x":680,"y":-1640,"width":1040,"height":902},
-		{"id":"6f440a12169a2abb","type":"text","text":"# K-means Clustering\nDataset -> Cluster\n\nk is a parameter we choose\n- Select k random points\n- remaining points get agglomerated over these points using a distance measure","x":1540,"y":1585,"width":443,"height":506,"color":"5"},
+		{"id":"6f440a12169a2abb","type":"text","text":"# K-means Clustering\nDataset -> Cluster\n\nk is a parameter we choose\n- Select k random points\n- remaining points get agglomerated over these points using a distance measure","x":1540,"y":1585,"width":520,"height":506,"color":"5"},
 		{"id":"944de1661b472990","type":"text","text":"# Hierarchical Clustering\nDataset -> Dissimilarity Matrix -> Dendogram -> Clustering\n---------------------------Clustering-------Cut\n\nSelecting k is difficult.\nAlternative: find hierachy\n###### Agglomerative: \n- Bottom-up\n- Each point as cluster\n- Merge closest clusters\n- Repeat until condition (like \\#clusters<1)\n\nWhat is \"closest\"?\n- point vs point: just compare distance (euclidean, manhattan, etc)\n- cluster vs * : represent the cluster with the \n\t- furthest in-cluster object (linkage=single)\n\t- closest in-cluster object (linkage=complete)\n\t- average in-cluster object (linkage=mean)\n\n![[Pasted image 20241107030608.png]]\n\n\n###### Divisive: \n- Top-down\n- all points in one cluster\n- split clusters\n- repeat until condition\n\nImplementation: apply k means, for each of k clusters, apply k means (keep splitting)","x":2144,"y":1585,"width":940,"height":506,"color":"2"},
 		{"id":"9a63993af04620e5","type":"text","text":"# PCA\nMap data onto linear subspace, maximising projected dataset variance\n\nDefine Principal components (new vectors):\n- PC1: Direction of greatest variability\n- PC2: Out of perpendicular directions, direction of greatest variability\nThe first m components become m new dimensions\n\nChange coordinates of each data point to new dimensions\n\n## Zero-mean data\n- Find mean of feature, shift data to zero-mean \nThis does not affect the calculation of variance:\n![[Pasted image 20241107033216.png]]\n(Average squared deviation)\n\nBut it makes the covariance matrix calculation simpler:\n![[Pasted image 20241107034435.png]] to\n![[Pasted image 20241107033341.png]]\n\n## PCA optimization\n![[Pasted image 20241107034810.png]]\n![[Pasted image 20241107034803.png]]\n![[Pasted image 20241107034818.png]]","x":3240,"y":1585,"width":800,"height":506,"color":"5"}
 	],

@@ -29,7 +29,7 @@ Probability Theory Rules
 		$p(X, Y) = p(Y\mid X) \space p(X)$
 		Joint = conditional * marginal 
 ##### Misclassification
-![[Pasted image 20241023135739.png|400]]
+![[Pasted image 20241023135739.png|800]]
 False negative error: $\varepsilon_1$
 	$\varepsilon_1 = \int_{\mathcal{R}_2} p(\mathbf{x} | y_1) d\mathbf{x}$
 False positive error: $\varepsilon_2$
@@ -38,6 +38,7 @@ Classification Error:
 	Total probability of misclassifying. 
 	It sums up the error for each class prior 
 	$p(\text{error}) = \sum_{i=1}^{C} p(\text{error} | y_i) p(y_i)$
+	Note: the error here is not the false positive but the false negative error(orange area over green area)
 Misclass cost: $\lambda_{true, predicted}$
 
 ##### Risk
