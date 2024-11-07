@@ -15,7 +15,7 @@ Deontology: focus on duty/principle, not self-interest
 Utilitarianism: consequence, "for the greater good"
 Virtue ethics: agent-focused, about character development
 
-
+Duty Ethics: Always act in such a way that you treat everyone as an end in themselves, with respect for their basic rights, and not merely as a means to your own ends. What matters are the reasons for which you act, the right reason for any action being that it is done for the sake of duty alone.
 
 Engineers are moral agents
 Moral agents can be held accountable for their actions because they have the ability to tell right from wrong.
@@ -65,4 +65,8 @@ Disparity: unfair difference
 
 ROC Receiver Operating Characteristic curve: model performance across all thresholds
 AUC Area Under roc Curve: probability that the model will rank a positive example higher than the negative example
+
+False, Independence and Separation only tell us something about the statistics of the group.  
+Individual decisions can still be unfair, e.g. hiring someone just to fill a quota. There is no single metric that would allow us to capture all facets of fairness, and moreover statistical notions of fairness are typically inherently contradictory.
+
 ![[Pasted image 20241106160220.png|200]]![[Pasted image 20241106160213.png|200]]
