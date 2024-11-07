@@ -1,4 +1,5 @@
 Classification: map features to a label
+Feature vector => single value hypothesis
 ##### Curse of Dimensionality:
 Intuitively, adding more features should make for a better classifier since there will be more features to distinguish objects. In reality, each additional feature has it’s own underlying true distribution, which we also need to estimate. In order to estimate those parameters accurately, we need even more objects in the training data set. Therefore there is an optimal amount of features to use on a given dataset.
 ##### Nomenclature and Prior Knowledge
