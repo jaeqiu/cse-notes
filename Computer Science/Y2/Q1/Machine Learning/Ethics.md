@@ -2,8 +2,12 @@ Engineers need to design without being prejudiced.
 ![[Ethics 2024-11-06 15.14.10.excalidraw]]Ethics: reflection on "normal"
 
 Morality
-Descriptive morality: created codes of conduct
-Normative morality: "normal" code of conduct (normal meaning all rational people would independently come to this conclusion)
+Descriptive morality: 
+	- explaining and understanding existing moral systems
+created codes of conduct
+Normative morality: 
+- how people should act
+"normal" code of conduct (normal meaning all rational people would independently come to this conclusion)
 
 Focal points:
 Agent: people as outcome
@@ -26,7 +30,7 @@ Passive responsibility: meet basic standards
 Active responsibility: take initiative
 
 Algorithmic ethics:
-Epistemic values:
+Epistemic values: (scientific values)
 Knowledge
 Objectivity
 Accuracy
