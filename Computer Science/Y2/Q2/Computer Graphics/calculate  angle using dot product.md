@@ -1,0 +1,1 @@
+![[calculate  angle using dot product 2024-11-12 14.27.52.excalidraw]]

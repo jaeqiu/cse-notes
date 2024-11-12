@@ -17,3 +17,5 @@
     10. **Simplicity is essential**
     11. **Self-organizing teams**
     12. **Reflect at regular intervals**
+
+	https://www.youtube.com/watch?v=1iccpf2eN1Q&t=17s
