@@ -1,6 +1,21 @@
 {
 	"nodes":[
-		{"id":"983065da52a5b7de","x":-217,"y":-143,"width":277,"height":60,"type":"text","text":"Algorithm Design"}
+		{"id":"01b677551314a40f","type":"file","file":"Computer Science/Y2/Q2/Algorithm Design/Network Flow.md","x":-434,"y":-26,"width":250,"height":60},
+		{"id":"c7b17f5ce042c72d","type":"file","file":"Computer Science/Y2/Q2/Algorithm Design/Divide & Conquer.md","x":-434,"y":-253,"width":250,"height":60},
+		{"id":"bb75a47c7dc6d385","type":"file","file":"Computer Science/Y2/Q2/Algorithm Design/Dynamic Programming.md","x":-434,"y":200,"width":250,"height":60},
+		{"id":"983065da52a5b7de","type":"text","text":"Algorithm Design","x":-860,"y":-80,"width":277,"height":60},
+		{"id":"bb10645b7a9f526d","type":"file","file":"Computer Science/Y2/Q2/Algorithm Design/Greedy Algorithm.md","x":-434,"y":-480,"width":250,"height":60},
+		{"id":"2dad53d7a2bad283","type":"file","file":"pdfs/lecture63.pdf","x":-100,"y":-820,"width":189,"height":280},
+		{"id":"374152b5100ab589","type":"file","file":"pdfs/lecture62.pdf","x":108,"y":-820,"width":189,"height":280},
+		{"id":"0db68090f5bf47f2","type":"file","file":"pdfs/lecture64.pdf","x":317,"y":-820,"width":189,"height":280},
+		{"id":"95905fe8dd984dfc","type":"file","file":"pdfs/lecture65.pdf","x":525,"y":-820,"width":189,"height":280},
+		{"id":"c790fab9da6f4e4a","type":"file","file":"pdfs/Algorithms-to-Live-By-Brian-Christian.pdf","x":-2224,"y":-419,"width":720,"height":453},
+		{"id":"42cc9a0dbdb58fc3","x":-1704,"y":-226,"width":664,"height":506,"type":"file","file":"Algorithm Design, Kleinberg, Tardos.pdf"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"792a168f2ead73f6","fromNode":"983065da52a5b7de","fromSide":"right","toNode":"bb10645b7a9f526d","toSide":"left"},
+		{"id":"0d78e178d705fd54","fromNode":"983065da52a5b7de","fromSide":"right","toNode":"c7b17f5ce042c72d","toSide":"left"},
+		{"id":"79770cd5f2b774b8","fromNode":"983065da52a5b7de","fromSide":"right","toNode":"01b677551314a40f","toSide":"left"},
+		{"id":"4b4520a58cf8553f","fromNode":"983065da52a5b7de","fromSide":"right","toNode":"bb75a47c7dc6d385","toSide":"left"}
+	]
 }

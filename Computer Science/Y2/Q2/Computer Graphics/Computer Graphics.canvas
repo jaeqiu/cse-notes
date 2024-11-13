@@ -1,12 +1,15 @@
 {
 	"nodes":[
-		{"id":"08f81ee1b5274c05","x":977,"y":-2430,"width":523,"height":390,"type":"file","file":"Computer Science/Y2/Q2/Computer Graphics/Normal form of plane.md"},
+		{"id":"b7fefc770bea77f0","x":-160,"y":-2920,"width":433,"height":438,"type":"file","file":"Computer Science/Y2/Q2/Computer Graphics/Basis Completion.md"},
+		{"id":"08f81ee1b5274c05","type":"file","file":"Computer Science/Y2/Q2/Computer Graphics/Normal form of plane.md","x":977,"y":-2430,"width":523,"height":390},
 		{"id":"7daab924b97c7181","type":"link","url":"https://brightspace.tudelft.nl/d2l/le/content/680719/Home","x":-200,"y":-200,"width":400,"height":400},
 		{"id":"5c01561c3e16b05c","type":"file","file":"pdfs/Fundamentals of Computer Graphics, Fourth Edition ( PDFDrive ).pdf","x":-520,"y":-120,"width":400,"height":400},
 		{"id":"c5cc9589981eb425","type":"file","file":"Computer Science/Y2/Q2/Computer Graphics/calculate  angle using dot product.md","x":388,"y":-81,"width":752,"height":461},
 		{"id":"eb991aec7cfaaeae","type":"file","file":"Computer Science/Y2/Q2/Computer Graphics/Are vectors linearly independent.md","x":444,"y":-793,"width":641,"height":593},
 		{"id":"307799136df31956","type":"file","file":"Computer Science/Y2/Q2/Computer Graphics/Find vector to make vector set basis of Rn.md","x":160,"y":-1560,"width":703,"height":610},
-		{"id":"42f63dc86483a4ba","x":1280,"y":-1903,"width":812,"height":686,"type":"file","file":"Computer Science/Y2/Q2/Computer Graphics/Inverse of 3x3 matrix.md"}
+		{"id":"42f63dc86483a4ba","type":"file","file":"Computer Science/Y2/Q2/Computer Graphics/Inverse of 3x3 matrix.md","x":1280,"y":-1903,"width":812,"height":686},
+		{"id":"f6adb54600052710","x":172,"y":-2249,"width":691,"height":548,"type":"file","file":"Computer Science/Y2/Q2/Computer Graphics/Cross Product.md"},
+		{"id":"81ab390c5415bf11","x":-680,"y":-2189,"width":587,"height":488,"type":"file","file":"Computer Science/Y2/Q2/Computer Graphics/Set of Vectors to basis of subspace W.md"}
 	],
 	"edges":[]
 }
