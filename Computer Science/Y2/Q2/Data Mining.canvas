@@ -8,12 +8,20 @@
 		{"id":"db293a934e8563cf","type":"link","url":"https://mattermost.tudelft.nl/select_team","x":-646,"y":48,"width":381,"height":323},
 		{"id":"b3665979e1f47b3a","type":"link","url":"https://www.kaggle.com/","x":-1200,"y":-351,"width":400,"height":400},
 		{"id":"a6a9566eb9948406","type":"link","url":"https://queue.tudelft.nl/","x":140,"y":249,"width":381,"height":288},
-		{"id":"a8026b68cca84ea5","x":810,"y":407,"width":610,"height":813,"type":"file","file":"Computer Science/Y2/Q2/NOT ON EXAM.md"},
+		{"id":"a8026b68cca84ea5","type":"file","file":"Computer Science/Y2/Q2/NOT ON EXAM.md","x":810,"y":407,"width":610,"height":813},
 		{"id":"d6074c54ce077a12","type":"link","url":"https://weblab.tudelft.nl/","x":915,"y":-151,"width":400,"height":400},
-		{"id":"60085a80f9dcf993","x":1307,"y":-930,"width":250,"height":60,"type":"text","text":""},
-		{"id":"057a6cf7695737ed","x":1585,"y":-944,"width":250,"height":60,"type":"text","text":""},
-		{"id":"a9b1da38ea2e8eb9","x":1904,"y":-982,"width":250,"height":60,"type":"text","text":""},
-		{"id":"71978c8d20ceb704","x":1620,"y":-232,"width":1140,"height":1046,"type":"file","file":"Computer Science/Y2/Q2/Data Mining.md"}
+		{"id":"71978c8d20ceb704","type":"file","file":"Computer Science/Y2/Q2/Data Mining.md","x":1620,"y":-220,"width":1140,"height":1046},
+		{"id":"99b6dead42c7b6f0","type":"file","file":"Computer Science/Y2/Q2/Cosine similarity.md","x":2820,"y":-1448,"width":383,"height":268},
+		{"id":"1375529670ba679f","type":"text","text":"small /#dimensions -> use euclidean distance\n\nhuge amount of dimensions => use e.g. cosine","x":3380,"y":-1808,"width":427,"height":380},
+		{"id":"0ae807517dc89449","type":"file","file":"Computer Science/Y2/Q2/Jaccard Similarity Distance.md","x":3700,"y":-1228,"width":544,"height":553},
+		{"id":"61d149e11a923374","type":"file","file":"Computer Science/Y2/Q2/KL-divergence measure.md","x":1868,"y":-1125,"width":802,"height":698},
+		{"id":"743d697f09d124fe","type":"text","text":"# Heterogeneous data types\n\nNumerical values\nCategorical data\ntext","x":1700,"y":-2043,"width":896,"height":831},
+		{"id":"5c383bdcb82e0faa","type":"file","file":"Pasted image 20241118144734.png","x":2900,"y":-1108,"width":676,"height":681},
+		{"id":"3faa3b7cc7a42ce2","type":"text","text":"# Cross entropy\n\n![[Pasted image 20241118150757.png]]","x":1144,"y":-1125,"width":476,"height":597},
+		{"id":"d64d0d7c8016e259","type":"file","file":"Computer Science/Y2/Q2/Distance Metric.md","x":4150,"y":-352,"width":587,"height":585},
+		{"id":"1d2915e7c0033a27","type":"file","file":"DM2024_lecture1_Introduction.pdf","x":2838,"y":-167,"width":400,"height":400},
+		{"id":"676912ea3dce1a91","x":96,"y":-1499,"width":704,"height":185,"type":"text","text":"Prosecutor's fallacy:\nP(A|B) != P(B|A)\n"},
+		{"id":"5638eb86c506b802","x":240,"y":-2440,"width":904,"height":509,"type":"text","text":"Data dredging:\nYou will expect to find correlations (From any data set)\nyou will find what you want to find if you try hard enough\nthe data will confess to anything if tortured long enough\n\nAVOID USING CROSS VALIDATION (FIND OUT MEANINGLESSNESS)\n\nhow tf we gon do cross validation if we have no ground truth"}
 	],
 	"edges":[]
 }

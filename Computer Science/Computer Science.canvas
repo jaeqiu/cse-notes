@@ -1,23 +1,23 @@
 {
 	"nodes":[
-		{"id":"7caa9da354c80e82","type":"text","text":"Computer Science","x":-230,"y":-635,"width":250,"height":60},
-		{"id":"01e1f76acb69dd8f","type":"file","file":"Computer Science/Y2/Q1/Machine Learning/Machine Learning.canvas","x":1206,"y":-440,"width":271,"height":50},
-		{"id":"d96e83cae33f63cc","type":"file","file":"Computer Science/Y2/Q1/Software Engineering Methods/Software Engineering Methods.canvas","x":880,"y":-130,"width":271,"height":50},
-		{"id":"59d518ba0e5cef63","type":"file","file":"Computer Science/Y2/Q1/Big Data Processing/Big Data Processing.canvas","x":1151,"y":-280,"width":271,"height":50},
-		{"id":"11c04b21396f4a95","type":"file","file":"Computer Science/Y2/Q2/Algorithm Design/Algorithm Design.canvas","x":192,"y":80,"width":271,"height":50},
-		{"id":"8542d3396d77bff7","type":"file","file":"Computer Science/Y2/Q2/Data Mining.canvas","x":-501,"y":80,"width":271,"height":50},
-		{"id":"1de40b5f3548f095","type":"file","file":"Computer Science/Y2/Q2/Computer Graphics/Computer Graphics.canvas","x":-181,"y":80,"width":271,"height":50},
-		{"id":"b874d61d0dc02fd6","type":"file","file":"Computer Science/Y2/Q3/Concepts of Programming Languages.canvas","x":-1178,"y":-45,"width":271,"height":50},
-		{"id":"9c9a74ed8a264180","type":"file","file":"Computer Science/Y2/Q3/Automata, Computability and Complexity.canvas","x":-849,"y":55,"width":271,"height":50},
-		{"id":"33435a4d309dcb1d","type":"file","file":"Computer Science/Y2/Q3/Computational Intelligence.canvas","x":-1449,"y":-215,"width":271,"height":50},
-		{"id":"efaf4479cdc994b1","type":"file","file":"Computer Science/Y2/Q4/Software Project.canvas","x":-1720,"y":-480,"width":271,"height":50}
+		{"id":"11c04b21396f4a95","type":"file","file":"Computer Science/Y2/Q2/Algorithm Design/Algorithm Design.canvas","x":-160,"y":-570,"width":480,"height":50},
+		{"id":"1de40b5f3548f095","type":"file","file":"Computer Science/Y2/Q2/Computer Graphics/Computer Graphics.canvas","x":-160,"y":-480,"width":480,"height":50},
+		{"id":"8542d3396d77bff7","type":"file","file":"Computer Science/Y2/Q2/Data Mining.canvas","x":-160,"y":-390,"width":480,"height":50},
+		{"id":"9c9a74ed8a264180","type":"file","file":"Computer Science/Y2/Q3/Automata, Computability and Complexity.canvas","x":-160,"y":-300,"width":480,"height":50},
+		{"id":"b874d61d0dc02fd6","type":"file","file":"Computer Science/Y2/Q3/Concepts of Programming Languages.canvas","x":-160,"y":-210,"width":480,"height":50},
+		{"id":"33435a4d309dcb1d","type":"file","file":"Computer Science/Y2/Q3/Computational Intelligence.canvas","x":-160,"y":-120,"width":480,"height":50},
+		{"id":"efaf4479cdc994b1","type":"file","file":"Computer Science/Y2/Q4/Software Project.canvas","x":-160,"y":-30,"width":480,"height":50},
+		{"id":"01e1f76acb69dd8f","type":"file","file":"Computer Science/Y2/Q1/Machine Learning/Machine Learning.canvas","x":-160,"y":-840,"width":480,"height":50},
+		{"id":"59d518ba0e5cef63","type":"file","file":"Computer Science/Y2/Q1/Big Data Processing/Big Data Processing.canvas","x":-160,"y":-750,"width":480,"height":50},
+		{"id":"d96e83cae33f63cc","type":"file","file":"Computer Science/Y2/Q1/Software Engineering Methods/Software Engineering Methods.canvas","x":-160,"y":-660,"width":480,"height":50},
+		{"id":"7caa9da354c80e82","type":"text","text":"Computer Science","x":-500,"y":-450,"width":135,"height":60}
 	],
 	"edges":[
 		{"id":"85521aecf52f0b64","fromNode":"7caa9da354c80e82","fromSide":"right","toNode":"01e1f76acb69dd8f","toSide":"left"},
-		{"id":"0455bc6967490892","fromNode":"7caa9da354c80e82","fromSide":"bottom","toNode":"d96e83cae33f63cc","toSide":"top"},
-		{"id":"38003bb9bc288169","fromNode":"7caa9da354c80e82","fromSide":"bottom","toNode":"8542d3396d77bff7","toSide":"top"},
-		{"id":"f13c1dc28d826a41","fromNode":"7caa9da354c80e82","fromSide":"bottom","toNode":"1de40b5f3548f095","toSide":"top"},
-		{"id":"1e99ae4948bc49db","fromNode":"7caa9da354c80e82","fromSide":"right","toNode":"59d518ba0e5cef63","toSide":"top"},
-		{"id":"782ee46a70417337","fromNode":"7caa9da354c80e82","fromSide":"bottom","toNode":"11c04b21396f4a95","toSide":"top"}
+		{"id":"0455bc6967490892","fromNode":"7caa9da354c80e82","fromSide":"right","toNode":"d96e83cae33f63cc","toSide":"left"},
+		{"id":"38003bb9bc288169","fromNode":"7caa9da354c80e82","fromSide":"right","toNode":"8542d3396d77bff7","toSide":"left"},
+		{"id":"f13c1dc28d826a41","fromNode":"7caa9da354c80e82","fromSide":"right","toNode":"1de40b5f3548f095","toSide":"left"},
+		{"id":"1e99ae4948bc49db","fromNode":"7caa9da354c80e82","fromSide":"right","toNode":"59d518ba0e5cef63","toSide":"left"},
+		{"id":"782ee46a70417337","fromNode":"7caa9da354c80e82","fromSide":"right","toNode":"11c04b21396f4a95","toSide":"left"}
 	]
 }
