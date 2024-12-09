@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"ea876af4b337405f","x":-1204,"y":-1009,"width":250,"height":60,"type":"file","file":"referenced/Y2/Q2/uyiiuy.md"},
+		{"id":"ea876af4b337405f","type":"file","file":"referenced/Y2/Q2/uyiiuy.md","x":-1204,"y":-1009,"width":250,"height":60},
 		{"id":"5127864e4a7945e0","type":"link","url":"https://peer.tudelft.nl/courses","x":-1067,"y":-1940,"width":400,"height":400},
 		{"id":"f4d91e11f8f46756","type":"link","url":"https://answers.ewi.tudelft.nl/","x":400,"y":-873,"width":400,"height":400},
 		{"id":"cf2ea9039af26bb2","type":"file","file":"pdfs/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf","x":-135,"y":-674,"width":240,"height":249},
