@@ -1,0 +1,1 @@
+Alternating series go from positive to negative
