@@ -11,7 +11,7 @@
 		{"id":"1ebb34f410cfc1bf","type":"file","file":"referenced/Y2/Q1/Big Data Processing/recap.md","x":365,"y":2834,"width":695,"height":106},
 		{"id":"57383b755c65c9db","x":-572,"y":666,"width":400,"height":400,"type":"link","url":"https://burcuku.github.io/cse2520-bigdata/spark.html"},
 		{"id":"7e0c4d185a3f13fb","x":-520,"y":1444,"width":400,"height":400,"type":"link","url":"https://cse.buffalo.edu/~stevko/courses/cse486/spring13/lectures/26-consistency2.pdf"},
-		{"id":"d10d5b94b4b0ae23","x":-599,"y":117,"width":400,"height":400,"type":"file","file":"BDP-NO-DISTRACTIONS (1).pdf"},
+		{"id":"d10d5b94b4b0ae23","x":-599,"y":117,"width":400,"height":400,"type":"file","file":"attachments/BDP-NO-DISTRACTIONS (1).pdf"},
 		{"id":"35901844a412e63e","x":-805,"y":2216,"width":250,"height":60,"type":"text","text":"MVCC multi verwsion concurrency control\n"},
 		{"id":"0c2e9db1976d336f","x":2226,"y":2246,"width":250,"height":60,"type":"text","text":"Distributed concensus"},
 		{"id":"7e58efe219189a68","x":-1212,"y":1790,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=WSdg_Km4rIg"},
