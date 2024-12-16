@@ -25,7 +25,8 @@
 		{"id":"676912ea3dce1a91","type":"text","text":"Prosecutor's fallacy:\nP(A|B) != P(B|A)\n","x":96,"y":-1499,"width":704,"height":185},
 		{"id":"5638eb86c506b802","type":"text","text":"Data dredging:\nYou will expect to find correlations (From any data set)\nyou will find what you want to find if you try hard enough\nthe data will confess to anything if tortured long enough\n\nAVOID USING CROSS VALIDATION (FIND OUT MEANINGLESSNESS)\n\nhow tf we gon do cross validation if we have no ground truth","x":240,"y":-2440,"width":904,"height":509},
 		{"id":"94d21923cd9f50c3","type":"text","text":"Redlining effect:\n\nremoving the sensitive feature does not remove the ability to discriminate => other attributes can be correlated and therefore infer them.","x":1268,"y":-2578,"width":952,"height":535},
-		{"id":"60f05963dba5701b","type":"link","url":"https://www.kdnuggets.com/","x":-764,"y":-1393,"width":400,"height":400}
+		{"id":"60f05963dba5701b","type":"link","url":"https://www.kdnuggets.com/","x":-764,"y":-1393,"width":400,"height":400},
+		{"id":"769da6e3f6455734","x":1787,"y":-665,"width":400,"height":246,"type":"file","file":"Pasted image 20241216224525.png"}
 	],
 	"edges":[]
 }
