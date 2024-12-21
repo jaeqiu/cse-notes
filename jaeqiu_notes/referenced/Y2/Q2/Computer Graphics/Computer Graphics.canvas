@@ -46,7 +46,8 @@
 		{"id":"3a2f318a28e8b0b7","type":"file","file":"Pasted image 20241215202214.png","x":-6029,"y":-3196,"width":1398,"height":1584},
 		{"id":"bbb4b2c74918da2a","type":"file","file":"attachments/Pasted image 20241210000955.png","x":-7436,"y":-1347,"width":2814,"height":1182},
 		{"id":"8002b6af3b136f19","type":"file","file":"Pasted image 20241209172147.png","x":-9040,"y":-3051,"width":2848,"height":1373},
-		{"id":"dfcf6975bb3c948f","type":"file","file":"jaeqiu_notes/attachments/Pasted image 20241218005549.png","x":-5814,"y":-6000,"width":1773,"height":887}
+		{"id":"dfcf6975bb3c948f","type":"file","file":"jaeqiu_notes/attachments/Pasted image 20241218005549.png","x":-5814,"y":-6000,"width":1773,"height":887},
+		{"id":"d345e89f2ccf190f","x":-5031,"y":1005,"width":400,"height":400,"type":"link","url":"https://www.scratchapixel.com/lessons/3d-basic-rendering/ray-tracing-rendering-a-triangle/ray-triangle-intersection-geometric-solution.html"}
 	],
 	"edges":[]
 }
