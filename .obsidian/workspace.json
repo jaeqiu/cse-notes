@@ -16,7 +16,7 @@
                 "file": "Computer Science.canvas",
                 "viewState": {
                   "x": 506.93678598629094,
-                  "y": -402.3716679360243,
+                  "y": -617.4120335110434,
                   "zoom": -0.20930487452257965
                 }
               },
@@ -168,6 +168,10 @@
   },
   "active": "2f6665cdddf1ff03",
   "lastOpenFiles": [
+    "repo_push.bat",
+    "repo_pull.bat",
+    "repo_save.bat",
+    "repo_get.bat",
     "notes/Y2Q1_Software Engineering Methods/Software Engineering Methods.canvas",
     "Computer Science.canvas",
     "notes/Y2Q1_Big Data Processing/Big Data Processing.canvas",
@@ -188,9 +192,6 @@
     "notes/Y1Q4_Software Quality and Testing/Software Quality and Testing.canvas",
     "notes/Y1Q4_Software Quality and Testing",
     "notes/Y1Q4_Probability Theory and Statistics",
-    "notes/Y1Q4_Computer Networks",
-    "notes/Y1Q3_Linear Algebra",
-    "notes/Y1Q3_Information and Data Management",
     "notes/Y2Q2_Data Mining/Distance Metric.md",
     "notes/Y2Q2_Data Mining/NOT ON EXAM.md",
     "notes/Y2Q2_Data Mining/KL-divergence measure.md",
