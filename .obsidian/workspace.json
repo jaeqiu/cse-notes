@@ -11,12 +11,17 @@
             "id": "d8f8cfc7d0578aec",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "pdf/Academische_Jaarindeling_2022-2023_01.pdf"
+                "file": "Wing.canvas",
+                "viewState": {
+                  "x": 179.75171363290178,
+                  "y": -889.1084746619059,
+                  "zoom": -0.20930487452257965
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Academische_Jaarindeling_2022-2023_01"
+              "icon": "lucide-layout-dashboard",
+              "title": "Wing"
             }
           }
         ]
@@ -91,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/Academische_Jaarindeling_2022-2023_01.pdf",
+                "file": "pdf/Blender Shortcuts.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Academische_Jaarindeling_2022-2023_01"
+              "title": "Backlinks for Blender Shortcuts"
             }
           },
           {
@@ -162,16 +167,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "242247d942a3a96e",
+  "active": "d8f8cfc7d0578aec",
   "lastOpenFiles": [
+    "pdf/Blender Shortcuts.pdf",
+    "pdf/Academische_Jaarindeling_2022-2023_01.pdf",
     "repo_push.bat",
     "repo_pull.bat",
-    "Computer Science.canvas",
+    "Wing.canvas",
     "png/beef_brisket.png",
     "png/croque.png",
     "pdf/CSE_Overview.pdf",
     "png/image_2023-08-27_225111308.png",
-    "pdf/Academische_Jaarindeling_2022-2023_01.pdf",
     "notes/Y1Q2_Calculus/CALC.md",
     "Notion/WING VERSION 7.1.2/trashcan/Academic Calendar Overview/Academic Calendar Overview.md",
     "Notion/WING VERSION 7.1.2/WING VERSION 7.1.2.md",
@@ -210,7 +216,6 @@
     "notes/Y1Q3_Information and Data Management/IDM/Query Optimization/Heuristic-Based Algorithm",
     "notes/Y1Q1_Reasoning & Logic/APPLICATION KNOWLEDGE/Calculus edX",
     "notes/Y1Q1_Reasoning & Logic/APPLICATION KNOWLEDGE/Delftse Foundations of Computation",
-    "notes/Y1Q3_Information and Data Management/IDM/Query Optimization",
     "notes/Y1Q4_Probability Theory and Statistics/Probability Theory and Statistics.canvas",
     "notes/Y2Q1_Big Data Processing/Big Data Processing.canvas",
     "notes/Y2Q1_Software Engineering Methods/Software Engineering Methods.canvas",
