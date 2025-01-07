@@ -1,1 +1,0 @@
-![[Bilinear upscaling 2024-12-09 20.05.56.excalidraw]]

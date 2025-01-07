@@ -1,3 +1,0 @@
-**Proxy:** Provides a substitute placeholder for the wrapped object with the same interface.![[Pasted image 20241103110234.png]]
-
-Proxy vs. Adapter • The proxy provides the same interface of the wrapped object. • The adapter provides a different interface to the wrapped object. Proxy vs. Decorator • The proxy provides the same interface of the wrapped object. • The decorator provides an enhanced interface. Proxy vs. Facade • The proxy provides the same interface of the wrapped object. • The facade provides a simplified interface to the other objects.

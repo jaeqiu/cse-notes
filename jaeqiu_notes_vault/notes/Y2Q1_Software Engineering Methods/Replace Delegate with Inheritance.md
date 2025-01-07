@@ -1,0 +1,1 @@
+Use this refactoring when you are using delegation and are often writing many simple delegations for the entire interface

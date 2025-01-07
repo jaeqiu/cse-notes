@@ -1,0 +1,1 @@
+![[Inverse of 3x3 matrix 2024-11-12 15.54.43.excalidraw]]

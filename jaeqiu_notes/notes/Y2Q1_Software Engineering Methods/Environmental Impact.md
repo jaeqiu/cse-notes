@@ -1,1 +1,0 @@
-When comparing the environmental impact of two different versions of a given software, the most appropriate metric is: Energy consumption

@@ -1,0 +1,1 @@
+The number of direct subclasses for a given class C

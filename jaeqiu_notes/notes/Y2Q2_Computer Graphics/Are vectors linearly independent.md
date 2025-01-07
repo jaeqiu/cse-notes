@@ -1,1 +1,0 @@
-![[Are vectors linearly independent 2024-11-12 14.48.33.excalidraw]]

@@ -1,1 +1,0 @@
-The maximum length from the node to the root of the inheritance tree

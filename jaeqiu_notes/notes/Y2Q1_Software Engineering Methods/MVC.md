@@ -1,1 +1,0 @@
-- The user sees the view; the controller forwards actions; the model verifies data.![[Pasted image 20241103161126.png]]

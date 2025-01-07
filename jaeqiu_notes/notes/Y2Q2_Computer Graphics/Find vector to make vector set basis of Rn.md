@@ -1,1 +1,0 @@
-![[Find vector to make vector set basis of Rn 2024-11-12 15.20.30.excalidraw]]

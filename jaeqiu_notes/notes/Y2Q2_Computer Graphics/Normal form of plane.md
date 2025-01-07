@@ -1,1 +1,0 @@
-![[Normal form of plane 2024-11-12 16.33.53.excalidraw]]![[x]]

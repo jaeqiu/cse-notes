@@ -1,1 +1,0 @@
-Coupling between objects: A highly coupled class relies so heavily on another class that it becomes difficult for it to function or evolve independently (methods overrely on the class u depend on)

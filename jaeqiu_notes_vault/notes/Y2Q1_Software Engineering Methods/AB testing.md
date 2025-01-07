@@ -1,0 +1,1 @@
+Testing the release of a feature on a subset of the userbase to get realistic feedback, while not fully committing to risky developments

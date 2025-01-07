@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"57a2faa97f45e98b","x":-642,"y":-185,"width":400,"height":400,"type":"link","url":"https://the-algorithms.com/"},
-		{"id":"f4039f8fe6849695","x":-211,"y":-327,"width":400,"height":400,"type":"link","url":"https://visualgo.net/en"},
-		{"id":"633ed854022e3523","x":-540,"y":-337,"width":400,"height":400,"type":"link","url":"https://www.coursera.org/learn/algorithms-part1"}
-	],
-	"edges":[]
-}

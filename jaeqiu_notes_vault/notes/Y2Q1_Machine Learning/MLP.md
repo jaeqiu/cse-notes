@@ -1,0 +1,1 @@
+In the empirical risk minimization framework, the hypothesis class used for the perceptron are linear classifiers

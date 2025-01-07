@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "bd99e688910320fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "332f2c89253c2c64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f6665cdddf1ff03",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Computer Science.canvas",
+                "viewState": {
+                  "x": 500,
+                  "y": -370,
+                  "zoom": -0.20930487452257965
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Computer Science"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53d2f77eea44c0e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "db38c19466369a79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "242247d942a3a96e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5b507833c26a9845",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "47725bfc0828ab61",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5
+  },
+  "right": {
+    "id": "39b8d175e26faf87",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a3bbb3d58effbec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aa80e96001406f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Science.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Computer Science"
+            }
+          },
+          {
+            "id": "f7f2f6c5572a0e03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSE/Y2/Q2/Computer Graphics/localview.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from localview"
+            }
+          },
+          {
+            "id": "2ef3c0c988ed66d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3ee09f2a382b11cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSE/Y2/Q2/Computer Graphics/localview.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of localview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "2f6665cdddf1ff03",
+  "lastOpenFiles": [
+    "notes/Y2Q1_Software Engineering Methods/Software Engineering Methods.canvas",
+    "Computer Science.canvas",
+    "notes/Y2Q1_Big Data Processing/Big Data Processing.canvas",
+    "notes/Y2Q2_Computer Graphics/Computer Graphics.canvas",
+    "notes/Y1Q2_Calculus/CSE1200 Calculus/all series tests.md",
+    "notes/Y1Q2_Calculus/CSE1200 Calculus/( ! ) Limit to Infinity.md",
+    "notes/Y1Q2_Calculus/Calculus.canvas",
+    "notes/Y1Q2_Calculus/CSE1200 Calculus/Series/Series Alternating.md",
+    "notes/Y2Q1_Machine Learning/Machine Learning.canvas",
+    "notes/Y2Q2_Algorithm Design/Algorithm Design.canvas",
+    "notes/Y2Q2_Data Mining/Data Mining.canvas",
+    "jaeqiu_notes/referenced/Y2/Q1/Big Data Processing/Big Data Processing.canvas",
+    "jaeqiu_notes/referenced/Y2/Q1/Big Data Processing",
+    "jaeqiu_notes/referenced/Y2/Q1",
+    "jaeqiu_notes/referenced/Y2",
+    "jaeqiu_notes/referenced",
+    "jaeqiu_notes",
+    "notes/Y1Q4_Software Quality and Testing/Software Quality and Testing.canvas",
+    "notes/Y1Q4_Software Quality and Testing",
+    "notes/Y1Q4_Probability Theory and Statistics",
+    "notes/Y1Q4_Computer Networks",
+    "notes/Y1Q3_Linear Algebra",
+    "notes/Y1Q3_Information and Data Management",
+    "notes/Y2Q2_Data Mining/Distance Metric.md",
+    "notes/Y2Q2_Data Mining/NOT ON EXAM.md",
+    "notes/Y2Q2_Data Mining/KL-divergence measure.md",
+    "notes/Y2Q2_Data Mining/Jaccard Similarity Distance.md",
+    "notes/Y2Q2_Data Mining/Data Mining.md",
+    "notes/Y2Q2_Data Mining/Cosine similarity.md",
+    "notes/Y2Q2_Computer Graphics/testestest.md",
+    "notes/Y2Q2_Computer Graphics/testestes.md",
+    "notes/Y2Q2_Computer Graphics/Set of Vectors to basis of subspace W.md",
+    "notes/Y2Q2_Computer Graphics/Points on sides of a plane.md",
+    "notes/Y2Q2_Computer Graphics/Phong Specular.md",
+    "notes/Y2Q2_Computer Graphics/Normal form of plane.md",
+    "notes/Y2Q2_Computer Graphics/Inverse of 3x3 matrix.md",
+    "notes/Y2Q2_Computer Graphics/Gooch Diffuse.md",
+    "notes/Y2Q2_Computer Graphics/Embedding in projective perspective space; why we need n+1 x n+1 matrices in n-dim.md",
+    "notes/Y2Q2_Computer Graphics/Find vector to make vector set basis of Rn.md",
+    "notes/Y2Q2_Computer Graphics/calculate  angle using dot product.md",
+    "notes/Y2Q2_Computer Graphics/Bilinear upscaling.md",
+    "notes/Y2Q2_Computer Graphics/Cross Product.md",
+    "notes/Y2Q2_Computer Graphics/Are vectors linearly independent.md",
+    "notes/Y2Q2_Computer Graphics/Basis Completion.md",
+    "notes/Y2Q2_Algorithm Design/Greedy Algorithm.md",
+    "Pasted image 20241216224525.png",
+    "Pasted image 20241209172147.png",
+    "Pasted image 20241215202214.png",
+    "Pasted image 20241215202050.png",
+    "Pasted image 20241215201958.png",
+    "Pasted image 20241215201906.png",
+    "attachments/Exported image 20241209225222-0.png",
+    "attachments/Pasted image 20241210000955.png",
+    "attachments/Pasted image 20241210000952.png",
+    "attachments/Pasted image 20241210000852.png"
+  ]
+}

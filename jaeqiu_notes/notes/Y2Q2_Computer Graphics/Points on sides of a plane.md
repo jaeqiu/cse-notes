@@ -1,1 +1,0 @@
-![[Points on sides of a plane 2024-11-15 13.40.54.excalidraw]]

@@ -1,1 +1,0 @@
-Cruft: stuff that clogs up a codebase with inefficient and unnecessary code because you want quick fixes over long-lasting lightweight performance

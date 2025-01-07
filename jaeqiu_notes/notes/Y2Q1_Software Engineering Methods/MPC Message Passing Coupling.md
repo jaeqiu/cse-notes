@@ -1,1 +1,0 @@
-Message Passing Coupling: how objects call each others methods instead of accessing fields
