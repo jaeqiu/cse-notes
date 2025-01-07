@@ -1,0 +1,11 @@
+- netcat
+- gdb
+- ghidra
+- pwntools
+- cyberchef
+- pycryptodome
+- putty
+- binwalk
+- exiftool
+- hex editor
+- aperisolve

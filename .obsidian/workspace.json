@@ -4,24 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "332f2c89253c2c64",
+        "id": "972e084a651c7fe4",
         "type": "tabs",
         "children": [
           {
-            "id": "2f6665cdddf1ff03",
+            "id": "d8f8cfc7d0578aec",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Computer Science.canvas",
-                "viewState": {
-                  "x": 506.93678598629094,
-                  "y": -617.4120335110434,
-                  "zoom": -0.20930487452257965
-                }
+                "file": "pdf/Academische_Jaarindeling_2022-2023_01.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Computer Science"
+              "icon": "lucide-file-text",
+              "title": "Academische_Jaarindeling_2022-2023_01"
             }
           }
         ]
@@ -55,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "big data process",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 465.5
   },
   "right": {
     "id": "39b8d175e26faf87",
@@ -96,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science.canvas",
+                "file": "pdf/Academische_Jaarindeling_2022-2023_01.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Computer Science"
+              "title": "Backlinks for Academische_Jaarindeling_2022-2023_01"
             }
           },
           {
@@ -163,66 +158,67 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2f6665cdddf1ff03",
+  "active": "242247d942a3a96e",
   "lastOpenFiles": [
     "repo_push.bat",
     "repo_pull.bat",
-    "repo_save.bat",
-    "repo_get.bat",
-    "notes/Y2Q1_Software Engineering Methods/Software Engineering Methods.canvas",
     "Computer Science.canvas",
+    "png/beef_brisket.png",
+    "png/croque.png",
+    "pdf/CSE_Overview.pdf",
+    "png/image_2023-08-27_225111308.png",
+    "pdf/Academische_Jaarindeling_2022-2023_01.pdf",
+    "notes/Y1Q2_Calculus/CALC.md",
+    "Notion/WING VERSION 7.1.2/trashcan/Academic Calendar Overview/Academic Calendar Overview.md",
+    "Notion/WING VERSION 7.1.2/WING VERSION 7.1.2.md",
+    "Notion/WING VERSION 7.1.2/wing mode wing mode wing modeComputer Science 👩‍💻/Full rebranding tutorial/handle lock in/APPLE ID.md",
+    "Notion/WING VERSION 7.1.2/wing mode wing mode wing modeComputer Science 👩‍💻/Full rebranding tutorial/handle lock in/anki.md",
+    "Notion/WING VERSION 7.1.2/wing mode wing mode wing modeComputer Science 👩‍💻/course note template.md",
+    "Notion/WING VERSION 7.1.2/wing mode wing mode wing modeComputer Science 👩‍💻/Mentoring.md",
+    "Notion/WING VERSION 7.1.2/wing mode wing mode wing modeComputer Science 👩‍💻/Full rebranding tutorial.md",
+    "Notion/WING VERSION 7.1.2/wing mode wing mode wing modeComputer Science 👩‍💻/dd.md",
+    "Notion/WING VERSION 7.1.2/wing mode wing mode wing modeComputer Science 👩‍💻/CE.md",
+    "notes/Y1Q4_Software Quality and Testing/SQT.md",
+    "notes/Y1Q1_Reasoning & Logic/APPLICATION KNOWLEDGE/APPLICATION KNOWLEDGE.md",
+    "notes/Y1Q1_Introduction to Programming/CSE1100/Lecture 0/Lecture 0.md",
+    "notes/Y1Q3_Linear Algebra/LA.md",
+    "notes/Y1Q4_Computer Networks/CN.md",
+    "Notion/WING VERSION 7.1.2/trashcan/trashcan.md",
+    "Notion/WING VERSION 7.1.2/wing mode wing mode wing modeComputer Science 👩‍💻/Full rebranding tutorial/handle lock in/beacons.md",
+    "notes/Y1Q2_CSE Project/OOPP.md",
+    "notes/Y1Q4_Probability Theory and Statistics/PTS.md",
+    "png/Untitled 14 7.png",
+    "png/Untitled 13 7.png",
+    "png/Untitled 12 7.png",
+    "png/Untitled 11 9.png",
+    "png/Untitled 10 11.png",
+    "png/Untitled 9 12.png",
+    "png/Untitled 8 14.png",
+    "pdf/Brochure_2._Matching__Selection_CSE_2023-2024_1.pdf",
+    "pdf/Brochure_1._How_to_choose_your_study_BSc_CSE.pdf",
+    "notes/Y1Q1_Reasoning & Logic/APPLICATION KNOWLEDGE/Delftse Foundations of Computation/goofy/goofy.md",
+    "notes/Y1Q3_Information and Data Management/IDM/Query Optimization/Operators Implementation.md",
+    "notes/Y1Q3_Information and Data Management/IDM/Query Optimization/Heuristic-Based Algorithm/Heuristic-Based Algorithm.md",
+    "notes/Y1Q3_Information and Data Management/IDM/Query Optimization/Cost-Based Algorithm.md",
+    "notes/Y1Q1_Reasoning & Logic/APPLICATION KNOWLEDGE/Calculus edX/Calculus edX.md",
+    "notes/Y1Q1_Reasoning & Logic/APPLICATION KNOWLEDGE/Delftse Foundations of Computation/Delftse Foundations of Computation.md",
+    "notes/Y1Q1_Reasoning & Logic/APPLICATION KNOWLEDGE/Delftse Foundations of Computation/goofy",
+    "notes/Y1Q3_Information and Data Management/IDM/Query Optimization/Heuristic-Based Algorithm",
+    "notes/Y1Q1_Reasoning & Logic/APPLICATION KNOWLEDGE/Calculus edX",
+    "notes/Y1Q1_Reasoning & Logic/APPLICATION KNOWLEDGE/Delftse Foundations of Computation",
+    "notes/Y1Q3_Information and Data Management/IDM/Query Optimization",
+    "notes/Y1Q4_Probability Theory and Statistics/Probability Theory and Statistics.canvas",
     "notes/Y2Q1_Big Data Processing/Big Data Processing.canvas",
+    "notes/Y2Q1_Software Engineering Methods/Software Engineering Methods.canvas",
     "notes/Y2Q2_Computer Graphics/Computer Graphics.canvas",
-    "notes/Y1Q2_Calculus/CSE1200 Calculus/all series tests.md",
-    "notes/Y1Q2_Calculus/CSE1200 Calculus/( ! ) Limit to Infinity.md",
     "notes/Y1Q2_Calculus/Calculus.canvas",
-    "notes/Y1Q2_Calculus/CSE1200 Calculus/Series/Series Alternating.md",
     "notes/Y2Q1_Machine Learning/Machine Learning.canvas",
     "notes/Y2Q2_Algorithm Design/Algorithm Design.canvas",
     "notes/Y2Q2_Data Mining/Data Mining.canvas",
-    "jaeqiu_notes/referenced/Y2/Q1/Big Data Processing/Big Data Processing.canvas",
-    "jaeqiu_notes/referenced/Y2/Q1/Big Data Processing",
-    "jaeqiu_notes/referenced/Y2/Q1",
-    "jaeqiu_notes/referenced/Y2",
-    "jaeqiu_notes/referenced",
-    "jaeqiu_notes",
-    "notes/Y1Q4_Software Quality and Testing/Software Quality and Testing.canvas",
-    "notes/Y1Q4_Software Quality and Testing",
-    "notes/Y1Q4_Probability Theory and Statistics",
-    "notes/Y2Q2_Data Mining/Distance Metric.md",
-    "notes/Y2Q2_Data Mining/NOT ON EXAM.md",
-    "notes/Y2Q2_Data Mining/KL-divergence measure.md",
-    "notes/Y2Q2_Data Mining/Jaccard Similarity Distance.md",
-    "notes/Y2Q2_Data Mining/Data Mining.md",
-    "notes/Y2Q2_Data Mining/Cosine similarity.md",
-    "notes/Y2Q2_Computer Graphics/testestest.md",
-    "notes/Y2Q2_Computer Graphics/testestes.md",
-    "notes/Y2Q2_Computer Graphics/Set of Vectors to basis of subspace W.md",
-    "notes/Y2Q2_Computer Graphics/Points on sides of a plane.md",
-    "notes/Y2Q2_Computer Graphics/Phong Specular.md",
-    "notes/Y2Q2_Computer Graphics/Normal form of plane.md",
-    "notes/Y2Q2_Computer Graphics/Inverse of 3x3 matrix.md",
-    "notes/Y2Q2_Computer Graphics/Gooch Diffuse.md",
-    "notes/Y2Q2_Computer Graphics/Embedding in projective perspective space; why we need n+1 x n+1 matrices in n-dim.md",
-    "notes/Y2Q2_Computer Graphics/Find vector to make vector set basis of Rn.md",
-    "notes/Y2Q2_Computer Graphics/calculate  angle using dot product.md",
-    "notes/Y2Q2_Computer Graphics/Bilinear upscaling.md",
-    "notes/Y2Q2_Computer Graphics/Cross Product.md",
-    "notes/Y2Q2_Computer Graphics/Are vectors linearly independent.md",
-    "notes/Y2Q2_Computer Graphics/Basis Completion.md",
-    "notes/Y2Q2_Algorithm Design/Greedy Algorithm.md",
-    "Pasted image 20241216224525.png",
-    "Pasted image 20241209172147.png",
-    "Pasted image 20241215202214.png",
-    "Pasted image 20241215202050.png",
-    "Pasted image 20241215201958.png",
-    "Pasted image 20241215201906.png",
-    "attachments/Exported image 20241209225222-0.png",
-    "attachments/Pasted image 20241210000955.png",
-    "attachments/Pasted image 20241210000952.png",
-    "attachments/Pasted image 20241210000852.png"
+    "jaeqiu_notes/referenced/Y2/Q1/Big Data Processing/Big Data Processing.canvas"
   ]
 }
