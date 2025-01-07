@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "bd99e688910320fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "332f2c89253c2c64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f9948fccefb1a9d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "referenced/Y2/Q2/Data Mining/Data Mining.canvas",
+                "viewState": {
+                  "x": 1786.9969158389963,
+                  "y": -665.3353894406689,
+                  "zoom": -1.7723724386029844
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Data Mining"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53d2f77eea44c0e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "db38c19466369a79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "242247d942a3a96e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5b507833c26a9845",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ml_lec",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "47725bfc0828ab61",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5
+  },
+  "right": {
+    "id": "39b8d175e26faf87",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a3bbb3d58effbec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aa80e96001406f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "referenced/Y2/Q2/Data Mining/Data Mining.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Data Mining"
+            }
+          },
+          {
+            "id": "f7f2f6c5572a0e03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSE/Y2/Q2/Computer Graphics/localview.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from localview"
+            }
+          },
+          {
+            "id": "2ef3c0c988ed66d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3ee09f2a382b11cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSE/Y2/Q2/Computer Graphics/localview.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of localview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3f9948fccefb1a9d",
+  "lastOpenFiles": [
+    "wing_notes",
+    "New folder",
+    "Pasted image 20241216224525.png",
+    "Computer Science.canvas",
+    "referenced/Y2/Q1/Machine Learning/Machine Learning.canvas",
+    "attachments/cg_lec-compressed.pdf",
+    "large_files",
+    "attachments/sem-lec (2).pdf",
+    "attachments/sem-lec-compressed.pdf",
+    "attachments/ml_lec_compressed.pdf",
+    "attachments/ml_lec (1).pdf",
+    "attachments/BDP-NO-DISTRACTIONS (1).pdf",
+    "referenced/Y2/Q2/Computer Graphics/Computer Graphics.canvas",
+    "Pasted image 20241209172147.png",
+    "attachments/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf",
+    "attachments/plantuml.pdf",
+    "Pasted image 20241215202214.png",
+    "Pasted image 20241215202050.png",
+    "Pasted image 20241215201958.png",
+    "Pasted image 20241215201906.png",
+    "attachments/Exported image 20241209225222-0.png",
+    "Untitled.md",
+    "Untitled 1.md",
+    "referenced/Y2/Q2/Computer Graphics/calculate  angle using dot product.md",
+    "attachments/Pasted image 20241210000955.png",
+    "attachments/Pasted image 20241210000952.png",
+    "attachments/Pasted image 20241210000852.png",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/Systems/Systems.md",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/Modeling/Modeling.md",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/SQL/SQL.md",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/Midterm/Midterm.md",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/JS & REST-API's/JS & REST-API's.md",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/HTTP & HTML-CSS/HTTP & HTML-CSS.md",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/FD, Normalization/FD, Normalization.md",
+    "OneNote/Notitieblok/CSE1200 Calculus/Series/Series Alternating.md",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/Untitled-20241209225312.md",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/NodeJS, Express, PostgreSQL, Design-Pattern.md",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/7 FD & Normalization.md",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/6 The relational model.md",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/5 SQL II.md",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/4 SQL I.md",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/3 More on ER.md",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/3 JavaScript.md",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/23 midterm.md",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/2 Modelling.md",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/2 HTML & CSS.md",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/2 Data Models.md",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/1 notes.md",
+    "OneNote/Notitieblok/CSE1500 Web and Database Technology/1 HTTP.md",
+    "CSE/Y2/Q2/Computer Graphics/Computer Graphics.canvas",
+    "CSE/Y2/Q2/Computer Graphics/localview.canvas",
+    "CSE/Y2/Q2/Computer Graphics/remoteview.canvas",
+    "referenced/Y2/Q2/Data Mining/Data Mining.canvas",
+    "referenced/Y2/Q4/Software Project/Software Project.canvas",
+    "referenced/Y2/Q3/Concepts of Programming Languages/Concepts of Programming Languages.canvas",
+    "referenced/Y2/Q2/Algorithm Design/Algorithm Design.canvas"
+  ]
+}

@@ -1,9 +1,9 @@
-|   |   |
-|---|---|
-|Database|Collection of related data (using data model and data scheme)|
-|Database Management System (DBMS)|Software system managing database|
-|Data Model|Formal definition on how to represent data and available operations|
-|Data Schemas|Definition of structure of a specific database|
+|                                   |                                                                     |
+| --------------------------------- | ------------------------------------------------------------------- |
+| Database                          | Collection of related data (using data model and data scheme)       |
+| Database Management System (DBMS) | Software system managing database                                   |
+| Data Model                        | Formal definition on how to represent data and available operations |
+| Data Schemas                      | Definition of structure of a specific database                      |
  
 ////////
  

@@ -3,9 +3,9 @@
 		{"id":"ea876af4b337405f","type":"file","file":"referenced/Y2/Q2/uyiiuy.md","x":-1204,"y":-1009,"width":250,"height":60},
 		{"id":"5127864e4a7945e0","type":"link","url":"https://peer.tudelft.nl/courses","x":-1067,"y":-1940,"width":400,"height":400},
 		{"id":"f4d91e11f8f46756","type":"link","url":"https://answers.ewi.tudelft.nl/","x":400,"y":-873,"width":400,"height":400},
-		{"id":"cf2ea9039af26bb2","type":"file","file":"pdfs/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf","x":-135,"y":-674,"width":240,"height":249},
+		{"id":"cf2ea9039af26bb2","type":"file","file":"jaeqiu_notes/pdf/dm_book2.pdf","x":-135,"y":-674,"width":240,"height":249},
 		{"id":"f366e44bfef7a462","type":"link","url":"https://brightspace.tudelft.nl/d2l/le/content/680741/Home","x":56,"y":-351,"width":400,"height":400},
-		{"id":"7f130966584c47f6","type":"file","file":"pdfs/book.pdf","x":-646,"y":-272,"width":240,"height":240},
+		{"id":"7f130966584c47f6","type":"file","file":"jaeqiu_notes/pdf/dm_book.pdf","x":-646,"y":-272,"width":511,"height":320},
 		{"id":"5a7918f5086a14d7","type":"link","url":"https://peer.tudelft.nl/courses","x":-646,"y":-675,"width":381,"height":323},
 		{"id":"db293a934e8563cf","type":"link","url":"https://mattermost.tudelft.nl/select_team","x":-646,"y":48,"width":381,"height":323},
 		{"id":"b3665979e1f47b3a","type":"link","url":"https://www.kaggle.com/","x":-1200,"y":-351,"width":400,"height":400},
@@ -26,7 +26,7 @@
 		{"id":"5638eb86c506b802","type":"text","text":"Data dredging:\nYou will expect to find correlations (From any data set)\nyou will find what you want to find if you try hard enough\nthe data will confess to anything if tortured long enough\n\nAVOID USING CROSS VALIDATION (FIND OUT MEANINGLESSNESS)\n\nhow tf we gon do cross validation if we have no ground truth","x":240,"y":-2440,"width":904,"height":509},
 		{"id":"94d21923cd9f50c3","type":"text","text":"Redlining effect:\n\nremoving the sensitive feature does not remove the ability to discriminate => other attributes can be correlated and therefore infer them.","x":1268,"y":-2578,"width":952,"height":535},
 		{"id":"60f05963dba5701b","type":"link","url":"https://www.kdnuggets.com/","x":-764,"y":-1393,"width":400,"height":400},
-		{"id":"769da6e3f6455734","x":1787,"y":-665,"width":400,"height":246,"type":"file","file":"Pasted image 20241216224525.png"}
+		{"id":"769da6e3f6455734","type":"file","file":"Pasted image 20241216224525.png","x":1787,"y":-665,"width":400,"height":246}
 	],
 	"edges":[]
 }
