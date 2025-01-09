@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "972e084a651c7fe4",
+        "id": "e60b6a22dd822cd6",
         "type": "tabs",
         "children": [
           {
-            "id": "d8f8cfc7d0578aec",
+            "id": "42ab9fcced84fc85",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Wing.canvas",
-                "viewState": {
-                  "x": 179.75171363290178,
-                  "y": -889.1084746619059,
-                  "zoom": -0.20930487452257965
-                }
+                "file": "skateboarding.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Wing"
+              "icon": "lucide-file",
+              "title": "skateboarding"
             }
           }
         ]
@@ -80,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.5
+    "width": 465.5,
+    "collapsed": true
   },
   "right": {
     "id": "39b8d175e26faf87",
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wing.canvas",
+                "file": "skateboarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wing"
+              "title": "Backlinks for skateboarding"
             }
           },
           {
@@ -142,17 +140,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE/Y2/Q2/Computer Graphics/localview.canvas"
+                "file": "skateboarding.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of localview"
+              "title": "Outline of skateboarding"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +167,21 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d8f8cfc7d0578aec",
+  "active": "42ab9fcced84fc85",
   "lastOpenFiles": [
+    "Pasted image 20250108180637.png",
+    "Pasted image 20250108180634.png",
+    "skateboarding.md",
+    "Pasted image 20250108162102.png",
+    "Pasted image 20250108162059.png",
+    "Pasted image 20250108161117.png",
+    "Pasted image 20250108160502.png",
+    "Pasted image 20250108160127.png",
+    "Pasted image 20250108154950.png",
+    "Pasted image 20250108154934.png",
+    "Pasted image 20250108154827.png",
+    "Pasted image 20250108154104.png",
+    "Wing.canvas",
     "notes/Y2Q2_Computer Graphics/Computer Graphics.canvas",
     "notes/Y2Q2_Computer Graphics/calculate  angle using dot product.md",
     "notes/Y2Q2_Computer Graphics/Bilinear upscaling.md",
@@ -195,7 +208,6 @@
     "notes/Y2Q1_Software Engineering Methods/Strategy Design Pattern.md",
     "notes/Y2Q1_Software Engineering Methods/Sprint.md",
     "notes/Y2Q1_Software Engineering Methods/Spotify.md",
-    "notes/Y2Q1_Software Engineering Methods/Specify Requirements.md",
     "notes/Y2Q1_Software Engineering Methods/Software Engineering Methods.canvas",
     "notes/Y2Q1_Machine Learning/Machine Learning.canvas",
     "notes/Y2Q1_Big Data Processing/Big Data Processing.canvas",
@@ -203,23 +215,11 @@
     "notes/Y1Q4_Probability Theory and Statistics/Probability Theory and Statistics.canvas",
     "notes/Y1Q4_Computer Networks/Computer Networks.canvas",
     "notes/Y1Q3_Linear Algebra/Linear Algebra.canvas",
-    "notes/Y1Q3_Information and Data Management/Information and Data Management.canvas",
-    "notes/Y1Q3_Algorithms and Data Structures/Algorithms and Data Structures.canvas",
     "pdf/Blender Shortcuts.pdf",
     "pdf/Academische_Jaarindeling_2022-2023_01.pdf",
     "repo_push.bat",
     "repo_pull.bat",
-    "png/beef_brisket.png",
-    "png/croque.png",
     "pdf/CSE_Overview.pdf",
-    "png/image_2023-08-27_225111308.png",
-    "png/Untitled 14 7.png",
-    "png/Untitled 13 7.png",
-    "png/Untitled 12 7.png",
-    "png/Untitled 11 9.png",
-    "png/Untitled 10 11.png",
-    "png/Untitled 9 12.png",
-    "png/Untitled 8 14.png",
     "pdf/Brochure_2._Matching__Selection_CSE_2023-2024_1.pdf",
     "pdf/Brochure_1._How_to_choose_your_study_BSc_CSE.pdf",
     "notes/Y1Q1_Reasoning & Logic/APPLICATION KNOWLEDGE/Delftse Foundations of Computation/goofy",
