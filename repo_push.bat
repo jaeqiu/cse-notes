@@ -1,8 +1,17 @@
 @echo on
-color 0a
+color 0e
+git fetch
+git pull
+timeout /t 1 /nobreak >nul
+
+color 0b
 git status
 git add .
+timeout /t 1 /nobreak >nul
+
+color 0a
 git commit -m "autosave"
 git push
-timeout /t 2 /nobreak >nul
+timeout /t 1 /nobreak >nul
+
 exit
