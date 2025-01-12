@@ -1,8 +1,6 @@
 @echo on
 color 0e
-git fetch
-git pull
-timeout /t 1 /nobreak >nul
+git fetch && git pull &&timeout /t 1 /nobreak >nul
 cls
 
 color 0b
