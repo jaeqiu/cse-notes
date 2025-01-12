@@ -49,8 +49,8 @@
               "state": {
                 "file": "notes/Y2Q2_Computer Graphics/Computer Graphics.canvas",
                 "viewState": {
-                  "x": -5785.239670412394,
-                  "y": -4347.797347194682,
+                  "x": -5851.762446315118,
+                  "y": -4311.034760511598,
                   "zoom": -0.8078489529784036
                 }
               },
@@ -206,6 +206,10 @@
   },
   "active": "467f678cdc89c002",
   "lastOpenFiles": [
+    "repo_ignore_apply.bat",
+    "repo_reset - Copy.bat",
+    "repo_reset.bat",
+    "repo_pull - Copy.bat",
     "Wing.canvas",
     "png/Pasted image 20250112162858.png",
     "notes/skateboarding.md",
@@ -257,9 +261,6 @@
     "repo_pull.bat",
     "pdf/CSE_Overview.pdf",
     "pdf/Brochure_2._Matching__Selection_CSE_2023-2024_1.pdf",
-    "pdf/Brochure_1._How_to_choose_your_study_BSc_CSE.pdf",
-    "notes/Y1Q1_Reasoning & Logic/APPLICATION KNOWLEDGE/Delftse Foundations of Computation/goofy",
-    "notes/Y1Q3_Information and Data Management/IDM/Query Optimization/Heuristic-Based Algorithm",
-    "notes/Y1Q1_Reasoning & Logic/APPLICATION KNOWLEDGE/Calculus edX"
+    "pdf/Brochure_1._How_to_choose_your_study_BSc_CSE.pdf"
   ]
 }
