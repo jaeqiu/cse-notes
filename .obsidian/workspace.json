@@ -11,9 +11,26 @@
             "id": "42ab9fcced84fc85",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Wing.canvas",
+                "viewState": {
+                  "x": 611.7090632140137,
+                  "y": -602.5285605483625,
+                  "zoom": -0.7154902618596186
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Wing"
+            }
+          },
+          {
+            "id": "88b70ed7451991e6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "skateboarding.md",
+                "file": "notes/skateboarding.md",
                 "mode": "source",
                 "source": false
               },
@@ -21,7 +38,8 @@
               "title": "skateboarding"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.5,
-    "collapsed": true
+    "width": 465.5
   },
   "right": {
     "id": "39b8d175e26faf87",
@@ -167,22 +184,22 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "42ab9fcced84fc85",
+  "active": "242247d942a3a96e",
   "lastOpenFiles": [
-    "Pasted image 20250108180637.png",
-    "Pasted image 20250108180634.png",
-    "skateboarding.md",
-    "Pasted image 20250108162102.png",
-    "Pasted image 20250108162059.png",
-    "Pasted image 20250108161117.png",
-    "Pasted image 20250108160502.png",
-    "Pasted image 20250108160127.png",
-    "Pasted image 20250108154950.png",
-    "Pasted image 20250108154934.png",
-    "Pasted image 20250108154827.png",
-    "Pasted image 20250108154104.png",
-    "Wing.canvas",
+    "png/Pasted image 20250108152812.png",
     "notes/Y2Q2_Computer Graphics/Computer Graphics.canvas",
+    "Wing.canvas",
+    "png/Pasted image 20250108153747.png",
+    "png/Pasted image 20241218005549.png",
+    "png/Pasted image 20241216224525.png",
+    "png/Pasted image 20241215202214.png",
+    "png/Pasted image 20241215202050.png",
+    "png/Pasted image 20241215201958.png",
+    "png/Pasted image 20241215201906.png",
+    "png/Pasted image 20241210000955.png",
+    "png/Pasted image 20241210000952.png",
+    "png/Pasted image 20241210000852.png",
+    "notes/skateboarding.md",
     "notes/Y2Q2_Computer Graphics/calculate  angle using dot product.md",
     "notes/Y2Q2_Computer Graphics/Bilinear upscaling.md",
     "notes/Y2Q2_Computer Graphics/Are vectors linearly independent.md",
