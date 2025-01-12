@@ -32,17 +32,34 @@
               "state": {
                 "file": "Wing.canvas",
                 "viewState": {
-                  "x": 170,
-                  "y": -660,
+                  "x": 830.100533130236,
+                  "y": -587.7501904036558,
                   "zoom": -0.7154902618596186
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Wing"
             }
+          },
+          {
+            "id": "467f678cdc89c002",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "notes/Y2Q2_Computer Graphics/Computer Graphics.canvas",
+                "viewState": {
+                  "x": -5785.239670412394,
+                  "y": -4347.797347194682,
+                  "zoom": -0.8078489529784036
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Computer Graphics"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,11 +204,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "268ed2aabfc6fc92",
+  "active": "467f678cdc89c002",
   "lastOpenFiles": [
+    "Wing.canvas",
     "png/Pasted image 20250112162858.png",
     "notes/skateboarding.md",
-    "Wing.canvas",
     "png/Pasted image 20250108180637.png",
     "png/Pasted image 20250108162059.png",
     "png/Pasted image 20250108161117.png",
