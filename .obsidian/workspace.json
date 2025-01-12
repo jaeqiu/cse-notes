@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "88b70ed7451991e6",
+            "id": "268ed2aabfc6fc92",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,7 +58,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.5
+    "width": 464.5
   },
   "right": {
     "id": "39b8d175e26faf87",
@@ -184,22 +184,22 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "242247d942a3a96e",
+  "active": "268ed2aabfc6fc92",
   "lastOpenFiles": [
+    "Pasted image 20250112162858.png",
+    "Wing.canvas",
+    "png/Pasted image 20250108180637.png",
+    "png/Pasted image 20250108162059.png",
+    "png/Pasted image 20250108161117.png",
+    "png/Pasted image 20250108162102.png",
+    "png/Pasted image 20250108180634.png",
+    "notes/skateboarding.md",
     "png/Pasted image 20250108152812.png",
     "notes/Y2Q2_Computer Graphics/Computer Graphics.canvas",
-    "Wing.canvas",
     "png/Pasted image 20250108153747.png",
     "png/Pasted image 20241218005549.png",
     "png/Pasted image 20241216224525.png",
     "png/Pasted image 20241215202214.png",
-    "png/Pasted image 20241215202050.png",
-    "png/Pasted image 20241215201958.png",
-    "png/Pasted image 20241215201906.png",
-    "png/Pasted image 20241210000955.png",
-    "png/Pasted image 20241210000952.png",
-    "png/Pasted image 20241210000852.png",
-    "notes/skateboarding.md",
     "notes/Y2Q2_Computer Graphics/calculate  angle using dot product.md",
     "notes/Y2Q2_Computer Graphics/Bilinear upscaling.md",
     "notes/Y2Q2_Computer Graphics/Are vectors linearly independent.md",

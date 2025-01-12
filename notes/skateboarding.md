@@ -1,7 +1,7 @@
 
 | Image                                       | Size      | patch     | Brand          | Name           | Durometer | width  |
 | ------------------------------------------- | --------- | --------- | -------------- | -------------- | --------- | ------ |
-| ![[Pasted image 20250108180637.png\|250]]   | 60mm high | 25 wide   | Powell Peralta | Dragon Formula | 88a       | 40     |
+| ![[Pasted image 20250112162858.png\|250]]   | 60mm high | 25 wide   | Powell Peralta | Dragon Formula | 88a       | 40     |
 | ![[Pasted image 20250108152812.png\|250]]   | 70mm high | 42 wide   | Orangatang     | Stimulus       | 83a       | ??mm   |
 | ![[Pasted image 20250108153417.png\|250]]   | 56mm high | 21 wide   | Powell Peralta | Nano Cubics    | 97a       | 37mm   |
 | ![[Pasted image 20250108162102.png\|250]]   | 85mm high | 50 wide   | Seismic        | Speed Vents    | 75a       | 52mm   |
