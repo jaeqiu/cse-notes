@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"57a2faa97f45e98b","x":-642,"y":-185,"width":400,"height":400,"type":"link","url":"https://the-algorithms.com/"},
-		{"id":"f4039f8fe6849695","x":-211,"y":-327,"width":400,"height":400,"type":"link","url":"https://visualgo.net/en"},
-		{"id":"633ed854022e3523","x":-540,"y":-337,"width":400,"height":400,"type":"link","url":"https://www.coursera.org/learn/algorithms-part1"}
+		{"id":"57a2faa97f45e98b","type":"link","url":"https://the-algorithms.com/","x":-642,"y":-185,"width":400,"height":400},
+		{"id":"f4039f8fe6849695","type":"link","url":"https://visualgo.net/en","x":-211,"y":-327,"width":400,"height":400},
+		{"id":"633ed854022e3523","type":"link","url":"https://www.coursera.org/learn/algorithms-part1","x":-1020,"y":-527,"width":400,"height":400}
 	],
 	"edges":[]
 }
