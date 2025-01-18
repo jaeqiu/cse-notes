@@ -1,6 +1,6 @@
 **What is the difference between data and information?**
 
-![The data-information-knowledge-wisdom (DIKW) hierarchy as a pyramid to... |  Download Scientific Diagram](../../../attachments/Exported%20image%2020241209225222-0.png)  
+![The data-information-knowledge-wisdom (DIKW) hierarchy as a pyramid to... |  Download Scientific Diagram](../../../attachments/data-info-knowledge-wisdom.png)  
 
 Data lacks the necessary context to make it focused on a specific topic.
  

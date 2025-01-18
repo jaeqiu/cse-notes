@@ -242,7 +242,7 @@ TCP provides
 - error-free data transportation
 - in-order delivery
 - unsegmented data stream (can dribble out data in any size any time)
- ![Exported image](../../../attachments/Exported%20image%2020241209225257-4.png)  
+ ![Exported image](../../../attachments/layers.png)  
 
 IP Addresses & Port Numbers
 

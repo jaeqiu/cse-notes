@@ -13,7 +13,7 @@ Last edited time: 2024-09-20T20:35
 >     
 >     - **Echelon Form**
 >         
->         ![Untitled 104.png](../../attachments/Untitled%20104.png)
+>         ![Untitled 104.png](../../attachments/Untitled%201044444.png)
 >         
 >         For a matrix to be in row echelon form, it must suffice the following properties:
 >         
@@ -866,7 +866,7 @@ Last edited time: 2024-09-20T20:35
 >     >     > 
 >     >     > What line best describes all these points, even if there is no line going through all of them?
 >     >     > 
->     >     > ![Untitled 91 2.png](../../attachments/Untitled%2091%202.png)
+>     >     > ![residuals.png](../../attachments/residuals.png)
 >     >     > 
 >     >     > residual = observed - predicted
 >     >     > 
