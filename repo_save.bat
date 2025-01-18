@@ -1,4 +1,4 @@
-@echo on
+@echo off
 ::standard push
 color 0e
 git fetch && git pull 
