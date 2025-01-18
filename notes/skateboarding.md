@@ -13,4 +13,3 @@
 | ![250](../attachments/Pasted%20image%2020250108154934.png) | 63mm high                                                | 48 wide   | Landyachtz     | Fatty Hawgs                      | 78a       | 54mm   |      |
 | ![250](../attachments/Pasted%20image%2020250108160127.png) | 63mm high                                                | 58 wide   | Landyachtz     | Doozies                          | 78a       | 64mm   |      |
 | ![250](../attachments/Pasted%20image%2020250108160502.png) | 74mm high                                                | 66.5 wide | Landyachtz     | Plow King GT                     | 76a       | 66.5mm |      |
-  
