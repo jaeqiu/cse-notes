@@ -260,4 +260,4 @@ Remove
 
 1. Get predecessor and successor nodes
 2. Link out old node
- ![Exported image](../../../attachments/Exported%20image%2020241209225326-1.png)
+ ![Exported image](../../../attachments/complexity.png)

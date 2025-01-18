@@ -140,7 +140,7 @@ Keys known beforehand
 - build heap using bottom-up approach
 - at iteration i, pair of heaps with 2i - 1 keys are merged into heaps with 2i+1 - 1
 
-![Exported image](../../../attachments/Exported%20image%2020241209225344-4.png)  
+![Exported image](../../../attachments/heap.png)  
 ![Exported image](../../../attachments/Exported%20image%2020241209225345-5.png)  
 ![Exported image](../../../attachments/Exported%20image%2020241209225345-6.png)  
 

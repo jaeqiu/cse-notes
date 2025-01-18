@@ -61,7 +61,7 @@ In-place Selection Sort
     - select element
     - find minimum from every element to the right
     - swap with minimum element
- ![Exported image](../../../attachments/Exported%20image%2020241209225347-1.png)   
+ ![Exported image](../../../attachments/sort.png)   
 //////////
  
 Heap Sort
