@@ -4,5 +4,6 @@
     "bullet-point-indentatino",
     "headingsizes"
   ],
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "accentColor": "#00ffcc"
 }

@@ -5,5 +5,6 @@
   "readableLineLength": true,
   "attachmentFolderPath": "attachments",
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "newFileLocation": "current"
 }

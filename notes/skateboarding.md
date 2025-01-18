@@ -2,7 +2,7 @@
 | Image                                                      | Size                                                     | patch     | Brand          | Name                             | Durometer | width  |      |
 | ---------------------------------------------------------- | -------------------------------------------------------- | --------- | -------------- | -------------------------------- | --------- | ------ | ---- |
 | ![250](../attachments/Pasted%20image%2020250112162858.png) | 60mm high                                                | 25 wide   | Powell Peralta | Dragon Formula                   | 88a       | 40     |      |
-| ![250](../attachments/Pasted%20image%2020250113200219.png) | 54mm                                                     | 20.2      | Spitfire       | Formula Four Conical OG Fireball | 99a       | 32.2   |      |
+| ![250](../attachments/spitfire.png)                        | 54mm                                                     | 20.2      | Spitfire       | Formula Four Conical OG Fireball | 99a       | 32.2   |      |
 | ![250](../attachments/Pasted%20image%2020250108152812.png) | 70mm high                                                | 42 wide   | Orangatang     | Stimulus                         | 83a       | ??mm   |      |
 | ![250](../attachments/Pasted%20image%2020250108153417.png) | 56mm high                                                | 21 wide   | Powell Peralta | Nano Cubics                      | 97a       | 37mm   |      |
 | ![250](../attachments/Pasted%20image%2020250108162102.png) | 85mm high                                                | 50 wide   | Seismic        | Speed Vents                      | 75a       | 52mm   |      |
