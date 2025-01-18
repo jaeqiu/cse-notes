@@ -8,5 +8,7 @@
   "find-unlinked-files",
   "homepage",
   "janitor",
-  "link-nodes-in-canvas"
+  "link-nodes-in-canvas",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings"
 ]
