@@ -3,5 +3,10 @@
   "webpage-html-export",
   "obsidian-importer",
   "consistent-attachments-and-links",
-  "obsidian-git"
+  "obsidian-git",
+  "optimize-canvas-connections",
+  "find-unlinked-files",
+  "homepage",
+  "janitor",
+  "link-nodes-in-canvas"
 ]
