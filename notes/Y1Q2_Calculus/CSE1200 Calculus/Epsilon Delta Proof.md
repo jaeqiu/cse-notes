@@ -1,6 +1,6 @@
 **Tolerance**
 
-![Exported image](Exported%20image%2020241209225444-0.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225444-0.png)  
 
 **Definition of Limit:**  
 f defined around a, maybe not a  

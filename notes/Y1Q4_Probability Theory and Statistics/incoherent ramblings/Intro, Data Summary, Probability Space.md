@@ -14,7 +14,7 @@ Volume: 48
 ## Numerical Summary
 
 > How can we represent the data set with numbers
-![[Untitled 1.png]]
+![Untitled 1.png](../../../attachments/Untitled%201.png)
 max = maximum value
 Q3 upper quantile == lowest value where 75% is still below
 median == middle value (intuitive middle when odd, mean of middle when even)
@@ -33,16 +33,16 @@ boxplot analysis properties:
 
 > How can we represent the dataset with a graph
 ### Histogram
-![[Untitled 2.png]]
+![Untitled 2.png](../../../attachments/Untitled%202.png)
 bin height (depends on approach):
 - represent _**frequency**_ of values; $h_1 = n_1$
 - normalize _**area to 1**_; $h_i=\frac{n_i/n_{total}}{|B_i|}$ ($|B_i|$ means the range width for a bin interval)
-![[Untitled 3.png]]
+![Untitled 3.png](../../../attachments/Untitled%203.png)
 (1.80 - 1.75 ) * 2 = 0.10, so 0.10 * 40 = 4 basketball players lie in the bin
-![[Untitled 4.png]]
+![Untitled 4.png](../../../attachments/Untitled%204.png)
 Find the perfect bin width; Too many peaks vs Too general
 ### Scatter Plot
-![[Untitled 5.png]]
+![Untitled 5.png](../../../attachments/Untitled%205.png)
 
 > good for multidimensional data set
 ## Sample Space

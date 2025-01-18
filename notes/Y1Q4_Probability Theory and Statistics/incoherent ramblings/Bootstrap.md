@@ -18,7 +18,7 @@ Created time: 2024-09-20T20:36
     > Compute $h(x_1^*, ..., x_n^*)$ for each of those bootstrap samples.  
     > The histogram of these $h^*$s will approximate the underlying true $h(X_1, ..., X_n)$.
     > 
-    > ![[Untitled 100.png]]
+    > ![Untitled 100.png](../../../attachments/Untitled%20100.png)
     
 - KS distance, $t_{KS}$ of form $T_{KS}$
     

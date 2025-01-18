@@ -12,8 +12,8 @@ estimated value (word count): 20
 
 > Overal thoughts
 $\bar{v}$ vs $\overrightarrow{v}$
-![[Untitled 83.png]]
-![[Untitled 84.png]]
-![[Untitled 85.png]]
-![[Untitled 86.png]]
-![[Untitled 87.png]]
+![Untitled 83.png](../../../attachments/Untitled%2083.png)
+![Untitled 84.png](../../../attachments/Untitled%2084.png)
+![Untitled 85.png](../../../attachments/Untitled%2085.png)
+![Untitled 86.png](../../../attachments/Untitled%2086.png)
+![Untitled 87.png](../../../attachments/Untitled%2087.png)

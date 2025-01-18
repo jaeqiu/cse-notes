@@ -33,7 +33,7 @@ Implicit output = array passed by reference, no need for explicit return
  
 Example:
 
-![Exported image](Exported%20image%2020241209225326-0.png)
+![Exported image](../../../attachments/Exported%20image%2020241209225326-0.png)
 
 In order from smallest to biggest
  
@@ -260,4 +260,4 @@ Remove
 
 1. Get predecessor and successor nodes
 2. Link out old node
- ![Exported image](Exported%20image%2020241209225326-1.png)
+ ![Exported image](../../../attachments/Exported%20image%2020241209225326-1.png)

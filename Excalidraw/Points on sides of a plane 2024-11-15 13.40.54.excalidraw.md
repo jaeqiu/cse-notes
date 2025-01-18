@@ -18,7 +18,7 @@ lets compute the dot product between the normal and that to get a decision value
 now compute the dot product between the normal and each considered vector ^ZCoYgEhN
 
 ## Embedded Files
-fbfbc2e2cc926f3e5eee71acd844fcd79cc0d2c4: [[image_1 1.png]]
+fbfbc2e2cc926f3e5eee71acd844fcd79cc0d2c4: [image\_1 1.png](../attachments/image_1%201.png)
 
 %%
 ## Drawing

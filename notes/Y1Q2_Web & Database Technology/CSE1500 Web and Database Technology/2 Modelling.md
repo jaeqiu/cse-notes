@@ -18,7 +18,7 @@ Relation: Connections between entities
 These two can be represented in an ER diagram (Entity - Relationships)
  
 Chen-ER Diagrams
- ![Exported image](Exported%20image%2020241209225232-0.png)  
+ ![Exported image](../../../attachments/Exported%20image%2020241209225232-0.png)  
 
 n-m = many-to-many  
 * = many-to-many  

@@ -5,4 +5,4 @@
 - **Sinks:** receive final data.
 - Good for data-intensive applications, buffering, and syncing.
 - Easy to reuse.
-![[Pasted image 20241103161137.png]]
+![Pasted image 20241103161137.png](../../attachments/Pasted%20image%2020241103161137.png)

@@ -1,6 +1,6 @@
 **Integration by parts (product rule for integration)**
 
-![Exported image](Exported%20image%2020241209225530-0.png)
+![Exported image](../../../attachments/Exported%20image%2020241209225530-0.png)
 
 the integral of the product of two functinos is the same as  
 the primitive of one function * the regular other  
@@ -10,7 +10,7 @@ One has been integrated, one has been differentiated
  
 **LIATE**
 
-![Exported image](Exported%20image%2020241209225530-1.png)
+![Exported image](../../../attachments/Exported%20image%2020241209225530-1.png)
 
 **in what order should you take a function as u in**  
 Logarithmic  

@@ -51,7 +51,7 @@ In-place Insertion Sort
     - select element
     - for every element to the left check if its bigger/smaller
     - insert element at right position
- ![Exported image](Exported%20image%2020241209225347-0.png)  
+ ![Exported image](../../../attachments/Exported%20image%2020241209225347-0.png)  
 
 In-place Selection Sort
 
@@ -61,7 +61,7 @@ In-place Selection Sort
     - select element
     - find minimum from every element to the right
     - swap with minimum element
- ![Exported image](Exported%20image%2020241209225347-1.png)   
+ ![Exported image](../../../attachments/Exported%20image%2020241209225347-1.png)   
 //////////
  
 Heap Sort
@@ -101,11 +101,11 @@ In-place Heap Sorting:
 
 ❌
 
-![Exported image](Exported%20image%2020241209225348-2.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225348-2.png)  
 
 ✅
 
-![Exported image](Exported%20image%2020241209225352-3.png)   
+![Exported image](../../../attachments/Exported%20image%2020241209225352-3.png)   
 //////////
  
 Divide-and-conquer
@@ -154,4 +154,4 @@ Time complexity: O(n log n)
 
 Merge Sort (bottom-up, non-recursive)
 
-![Exported image](Exported%20image%2020241209225352-4.png)   ![Exported image](Exported%20image%2020241209225353-5.png)
+![Exported image](../../../attachments/Exported%20image%2020241209225352-4.png)   ![Exported image](../../../attachments/Exported%20image%2020241209225353-5.png)

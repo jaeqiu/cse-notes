@@ -4,7 +4,7 @@ Created time: 2024-09-20T20:36
 estimated value (word count): 215
 ---
 # Complex Eigenvalue to Eigenvector, C=SR
-![[Untitled 59.png]]
+![Untitled 59.png](../../../attachments/Untitled%2059.png)
 as usual, going from an eigenvalue to it’s eigenvector requires solving (A-\lambda I) x = 0. This also involves reducing the matrix (A- \lambda x) to echelon form. You should add a multiple of the nonimaginary pivot to the other entry to reduce to echelon form, for example: in the matrix
 $A-\lambda$I =
 $\begin{pmatrix}-4+2i & 2 \\-10 & 4+2i\end{pmatrix}$perform the following row operation $R_1 += (\frac{4-2i}{-10}) R_2$ to achieve $\begin{pmatrix}0 & 0 \\-10 & 4+2i\end{pmatrix}$, which after swapping $R_1 \xleftrightarrow{swap} R_2$ gives
@@ -21,4 +21,4 @@ Then the rotation matrix is found by $R=\frac{1}{r}D$
 In our case $R=\frac{1}{2\sqrt{10}}\begin{pmatrix} 6 &-2 \\ 2 & 6 \end{pmatrix}=\begin{pmatrix} \frac{6}{2\sqrt{10}} &\frac{-2}{2\sqrt{10}} \\ \frac{2}{2\sqrt{10}} & \frac{6}{2\sqrt{10}} \end{pmatrix}$
 of course the scalar matrix
 $S=\begin{pmatrix} 2\sqrt{10} &0 \\ 0 & 2\sqrt{10} \end{pmatrix}$
-![[Untitled 60.png]]
+![Untitled 60.png](../../../attachments/Untitled%2060.png)

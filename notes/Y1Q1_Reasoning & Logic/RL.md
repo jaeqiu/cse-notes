@@ -5,7 +5,7 @@ Course Timing: Y1Q1
 Course Status: completed
 Last edited time: 2024-09-20T20:35
 ---
-[[APPLICATION KNOWLEDGE]]
+[APPLICATION KNOWLEDGE](APPLICATION%20KNOWLEDGE/APPLICATION%20KNOWLEDGE.md)
 ### Course Content
 - Predicate and Propositional Logic
 - Proof Techniques (including contradiction and induction)
@@ -52,4 +52,4 @@ Last edited time: 2024-09-20T20:35
 - Recommended in small groups.
 - Mind-blowing and truly amazing.
 - Additional preparation for real exams.
-![[Untitled 105.png|Untitled 105.png]]
+![Untitled 105.png](../../attachments/Untitled%20105.png)

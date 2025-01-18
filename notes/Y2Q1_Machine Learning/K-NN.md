@@ -9,7 +9,7 @@ Optimise k:
 	best k:
 		k that performs best in validation set
 		in other words, pick the k that has the lowest epsilon in the validation set (the validation set is a subset of the training set reserved for this purposes
-		![[Pasted image 20241023143252.png]]
+		![Pasted image 20241023143252.png](../../attachments/Pasted%20image%2020241023143252.png)
 K-nn pro's vs con's
     - adaptable complexity
     - usually good performing
@@ -30,4 +30,4 @@ Ways to measure distance when increasing scope
     - Hamming distance: count number of differing features
 	for Euclidean and Manhattan: requires sensible feature scaling.
     Another caveat of all these distancing measures is that a certain feature might have incomparable scale compared to other features.
-    ![[Pasted image 20241023154407.png]]
+    ![Pasted image 20241023154407.png](../../attachments/Pasted%20image%2020241023154407.png)

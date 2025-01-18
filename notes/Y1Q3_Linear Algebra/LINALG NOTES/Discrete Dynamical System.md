@@ -35,13 +35,13 @@ estimated value (word count): 193
 > **Dynamical systems, analyzed through linear algebra, utilize matrix representations to study the evolution of system states over time. Eigenvectors and eigenvalues play key roles in predicting long-term behavior and stability.**
 **The End**
   
-![[Untitled 61.png]]
-![[Untitled 62 2.png|Untitled 62 2.png]]
-![[Untitled 63 2.png|Untitled 63 2.png]]
-![[Untitled 64.png]]
-![[Untitled 65.png]]
-![[Untitled 66.png]]
-![[Untitled 67.png]]
-![[Untitled 68.png]]
-![[Untitled 69.png]]
-![[Untitled 70.png]]
+![Untitled 61.png](../../../attachments/Untitled%2061.png)
+![Untitled 62 2.png](../../../attachments/Untitled%2062%202.png)
+![Untitled 63 2.png](../../../attachments/Untitled%2063%202.png)
+![Untitled 64.png](../../../attachments/Untitled%2064.png)
+![Untitled 65.png](../../../attachments/Untitled%2065.png)
+![Untitled 66.png](../../../attachments/Untitled%2066.png)
+![Untitled 67.png](../../../attachments/Untitled%2067.png)
+![Untitled 68.png](../../../attachments/Untitled%2068.png)
+![Untitled 69.png](../../../attachments/Untitled%2069.png)
+![Untitled 70.png](../../../attachments/Untitled%2070.png)

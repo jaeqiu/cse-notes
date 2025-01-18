@@ -5,7 +5,7 @@
 
 ### OOP Design Principles follow SOLID
 
-[[SOLID principle]]
+[SOLID principle](SOLID%20principle.md)
 
 ### Behavioral Patterns
 

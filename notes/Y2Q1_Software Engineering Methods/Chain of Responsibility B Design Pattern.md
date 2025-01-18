@@ -1,7 +1,7 @@
  **Chain of Responsibility B:** Any handler object can decide to process or pass (default).
 
  Problem: click needs to be registered on the "most specific" layer, Colors
- ![[Pasted image 20241103113010.png|300]]
+ ![300](../../attachments/Pasted%20image%2020241103113010.png)
 
  This is like the CoR A but instead of a unanimous green light we just want someone/anyone to take one for the team (usually pass to a low-level, more specialized subclass object, like finding a grad student to do all ur research work)
 

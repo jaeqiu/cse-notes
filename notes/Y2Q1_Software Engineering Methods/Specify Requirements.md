@@ -6,4 +6,4 @@ Going from requirements to issues
 		Breaking down the requirement into its subtasks
 
 
-Next: [[Discover stakeholders, Elicit Requirements]]
+Next: [Discover stakeholders, Elicit Requirements](Discover%20stakeholders,%20Elicit%20Requirements.md)

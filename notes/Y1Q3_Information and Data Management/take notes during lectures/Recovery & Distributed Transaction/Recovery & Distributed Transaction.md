@@ -7,7 +7,7 @@ word count: 189
 
 > what does recovery look like?
 > 
-> ![[Untitled 115.png|Untitled 115.png]]
+> ![Untitled 115.png](../../../../attachments/Untitled%20115.png)
 > 
 > ## Logging
 > 
@@ -93,7 +93,7 @@ word count: 189
 > 
 > > Writing pages back to the disk
 > > 
-> > ![[Untitled.png]]
+> > ![Untitled.png](../../../../attachments/Untitled.png)
 > > 
 > > ## Forced vs No-Forced Policy (redo)
 > > 

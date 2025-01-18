@@ -7,4 +7,4 @@ linearly independent == all zero
 == trivial solution  
 linearly redundant == not all zero == nontrivial  
 solution == cancellation of vectors over equals sign  
-![[Untitled 14.png]]
+![Untitled 14.png](../../../attachments/Untitled%2014.png)

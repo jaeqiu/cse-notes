@@ -43,4 +43,4 @@ Main Focus: assessing what was accomplished during the sprint and gathering feed
 #### Sprint Retrospective
 
 Main Focus: reviewing how the team worked together during the sprint. It’s a time for the team to reflect on their processes, collaboration, and overall effectiveness. The aim is continuous improvement by identifying what went well, what didn’t, and creating actionable plans.
-![[Pasted image 20241101165806.png]]![[Pasted image 20241101165746.png]]
+![Pasted image 20241101165806.png](../../attachments/Pasted%20image%2020241101165806.png)![Pasted image 20241101165746.png](../../attachments/Pasted%20image%2020241101165746.png)

@@ -1,9 +1,9 @@
 > Find the **optimal** way of executing the query. Transform the **canonical operator tree** into a more efficient **final operator tree** for evaluation.
 **Generally 2 ways to optimize**
-[[Cost-Based Algorithm]]
-[[Heuristic-Based Algorithm]]
+[Cost-Based Algorithm](Cost-Based%20Algorithm.md)
+[Heuristic-Based Algorithm](Heuristic-Based%20Algorithm/Heuristic-Based%20Algorithm.md)
 **Implementation of Primitive Operators**
-[[Operators Implementation]]
+[Operators Implementation](Operators%20Implementation.md)
 **IDM Cost Metrics**
 - Size of intermediate result sets. _The smaller the better._
 - Number of block accesses. _How many blocks are accessed on secondary storage._
@@ -13,11 +13,11 @@
 # Canonical Operator Tree
 
 > [!important] An unoptimized relational algebra statement representing the SQL Query as provided by the application
-![[Untitled 128.png|Untitled 128.png]]
+![Untitled 128.png](../../../../attachments/Untitled%20128.png)
 # Annotated Operator Tree
 
 > [!important] An intermediate step towards the execution plan. Also contains the algorithm annotations
-![[Untitled 1 23.png|Untitled 1 23.png]]
+![Untitled 1 23.png](../../../../attachments/Untitled%201%2023.png)
 ---
 # Journey of a Query
 1. Application sends a SQL Query

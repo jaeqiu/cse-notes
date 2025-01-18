@@ -1,4 +1,4 @@
-![[Pasted image 20241023155807.png||500]]
+![|500](../../attachments/Pasted%20image%2020241023155807.png)
 Use average of textbook probability densities for nearby data points to use as probability density at exact data point.
 
 We need to choose a kernel function to base our Parzen pdf off of. 

@@ -11,12 +11,12 @@
 
 |                                      | Looks like                            | Sequence                 |
 | ------------------------------------ | ------------------------------------- | ------------------------ |
-| ![[Pasted image 20241102195543.png]] | dashed arrow                          | Response Message         |
-| ![[Pasted image 20241102195651.png]] | vertical dashes                       | Object/Actor Lifeline    |
-| ![[Pasted image 20241102210443.png]] | cross on vertical dashes              | Object/Actor Destruction |
-| ![[Pasted image 20241102210525.png]] | box with title and subtitle           | Control Construct        |
-| ![[Pasted image 20241102195502.png]] | solid arrow                           | Synchronous Message      |
+| ![Pasted image 20241102195543.png](../../attachments/Pasted%20image%2020241102195543.png) | dashed arrow                          | Response Message         |
+| ![Pasted image 20241102195651.png](../../attachments/Pasted%20image%2020241102195651.png) | vertical dashes                       | Object/Actor Lifeline    |
+| ![Pasted image 20241102210443.png](../../attachments/Pasted%20image%2020241102210443.png) | cross on vertical dashes              | Object/Actor Destruction |
+| ![Pasted image 20241102210525.png](../../attachments/Pasted%20image%2020241102210525.png) | box with title and subtitle           | Control Construct        |
+| ![Pasted image 20241102195502.png](../../attachments/Pasted%20image%2020241102195502.png) | solid arrow                           | Synchronous Message      |
   
 
-  ![[Pasted image 20241024145640.png]]
-  ![[Pasted image 20241024145649.png]]
+  ![Pasted image 20241024145640.png](../../attachments/Pasted%20image%2020241024145640.png)
+  ![Pasted image 20241024145649.png](../../attachments/Pasted%20image%2020241024145649.png)

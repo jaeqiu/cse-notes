@@ -56,8 +56,8 @@ Time complexity analysis
     
     - specifically: non pivot elements only have 1 comparison per level, until it becomes pivot or it's the only element remaining
 
-![Exported image](Exported%20image%2020241209225354-0.png)  
-![Exported image](Exported%20image%2020241209225354-1.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225354-0.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225354-1.png)  
 
 With high probability: Time O(n log n)
    
@@ -79,7 +79,7 @@ Divide step, scans array simultaneously:
     - stop when smaller than pivot
 - When l and r cross, division is complete.
 - No explicit combine needed
- ![Exported image](Exported%20image%2020241209225355-2.png)  
-![Exported image](Exported%20image%2020241209225355-3.png)  
-![Exported image](Exported%20image%2020241209225359-4.png)   
-![Exported image](Exported%20image%2020241209225400-5.png)
+ ![Exported image](../../../attachments/Exported%20image%2020241209225355-2.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225355-3.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225359-4.png)   
+![Exported image](../../../attachments/Exported%20image%2020241209225400-5.png)

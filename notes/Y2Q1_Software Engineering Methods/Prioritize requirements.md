@@ -6,7 +6,7 @@ MoSCoW method:
        - Should have
        - Could have
        - Won’t have
-    ![[Pasted image 20241025173618.png]]
+    ![Pasted image 20241025173618.png](../../attachments/Pasted%20image%2020241025173618.png)
     Advantages
        - simple, managed scope, communicable w/ stakeholder
     Disadvantages
@@ -16,7 +16,7 @@ MoSCoW method:
 
 Kano method
    Scales requirements on customer delight.
-   ![[KANO needs]]
+   ![KANO needs](../../Excalidraw/KANO%20needs.md)
    Requirements are categorized into customer needs:
    - Basic need, expected, mad to neutral
    - Performance need, mad to yippie
@@ -47,4 +47,4 @@ Kano method
      - I can live with it that way
      - I dislike it that way
 
-Next: [[Specify Requirements]]
+Next: [Specify Requirements](Specify%20Requirements.md)

@@ -1,1 +1,1 @@
-![[Find vector to make vector set basis of Rn 2024-11-12 15.20.30.excalidraw]]
+![Find vector to make vector set basis of Rn 2024-11-12 15.20.30.excalidraw](../../Excalidraw/Find%20vector%20to%20make%20vector%20set%20basis%20of%20Rn%202024-11-12%2015.20.30.excalidraw.md)

@@ -1,6 +1,6 @@
 Extracting useful information into an undestandable way from a large amount of data
 
-![[Data Mining 2024-11-11 14.28.41.excalidraw]]
+![Data Mining 2024-11-11 14.28.41.excalidraw](../../Excalidraw/Data%20Mining%202024-11-11%2014.28.41.excalidraw.md)
 
 Data mining challenges
 - Survivorship Bias: It is difficult to draw unbiased conclusions from biased datasets
@@ -32,10 +32,10 @@ collective: A set of strange data points. detection based on multiple data point
 
 Modeling Context
 sliding windows
-time warping distance: sequence alignment, dynamic time warping![[Pasted image 20241114120057.png|800]]
+time warping distance: sequence alignment, dynamic time warping![800](../../attachments/Pasted%20image%2020241114120057.png)
 lines are not allowed to cross
 
-![[Pasted image 20241114120652.png]]
+![Pasted image 20241114120652.png](../../attachments/Pasted%20image%2020241114120652.png)
 You are only allowed to move down, right, or down-left diagonally
 
 Popular anomaly detection methods

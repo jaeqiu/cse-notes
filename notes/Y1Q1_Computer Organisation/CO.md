@@ -6,15 +6,15 @@ Course Status: completed
 Last edited time: 2024-09-20T20:35
 ---
 # Course Structure
-![[Untitled 103.png|Untitled 103.png]]
+![Untitled 103.png](../../attachments/Untitled%20103.png)
 #### CSE1400)
 |Week Number|Title|Topic|Chapter|
 |---|---|---|---|
-|1.2|[[notes/Y1Q1_Computer Organisation/CSE1400)/Lecture 4\|Lecture 4]]|Logic Circuits II|Appendix A|
-|1.2|[[notes/Y1Q1_Computer Organisation/CSE1400)/Lecture 3\|Lecture 3]]|Logic Circuits I|Appendix A|
-|1.1|[[notes/Y1Q1_Computer Organisation/CSE1400)/Lecture 2\|Lecture 2]]|Assembly|Lab Manual|
-|1.1|[[notes/Y1Q1_Computer Organisation/CSE1400)/Lecture 1/Lecture 1\|Lecture 1]]|History|Chapter 1 + Lab manual|
-|1.1|[[notes/Y1Q1_Computer Organisation/CSE1400)/Lecture 0\|Lecture 0]]|Introduction|Brightspace|
+|1.2|[Lecture 4](CSE1400)/Lecture%204.md)|Logic Circuits II|Appendix A|
+|1.2|[Lecture 3](CSE1400)/Lecture%203.md)|Logic Circuits I|Appendix A|
+|1.1|[Lecture 2](CSE1400)/Lecture%202.md)|Assembly|Lab Manual|
+|1.1|[Lecture 1](CSE1400)/Lecture%201/Lecture%201.md)|History|Chapter 1 + Lab manual|
+|1.1|[Lecture 0](CSE1400)/Lecture%200.md)|Introduction|Brightspace|
   
   
 # Assembly Subcourse
@@ -34,13 +34,13 @@ movq 	%rbp, %rsp              \#copy the value of the rbp register to the value 
   
 ## concepts to know, but do nothing with
 ### Von Neumann architecture
-![[Untitled 1 8.png|Untitled 1 8.png]]
+![Untitled 1 8.png](../../attachments/Untitled%201%208.png)
 a computer roughly consists of a cpu, memory, i/o
 ### levels of program language representation
-![[Untitled 2 8.png|Untitled 2 8.png]]
+![Untitled 2 8.png](../../attachments/Untitled%202%208.png)
 you either sacrifice performance or readability
 ### cpu architecture variants
-![[Untitled 3 8.png|Untitled 3 8.png]]
+![Untitled 3 8.png](../../attachments/Untitled%203%208.png)
 AMD architecture vs Intel (really AMD) architecture
 ### “prior knowledge” terms?
 |   |   |   |
@@ -70,10 +70,10 @@ instr   source,dest
 movl    (%ecx),%eax
 ```
 ### lab manual condescenscion
-![[Untitled 4 8.png|Untitled 4 8.png]]
-![[Untitled 5 8.png|Untitled 5 8.png]]
-![[Untitled 6 8.png|Untitled 6 8.png]]
-![[Untitled 7 8.png|Untitled 7 8.png]]
+![Untitled 4 8.png](../../attachments/Untitled%204%208.png)
+![Untitled 5 8.png](../../attachments/Untitled%205%208.png)
+![Untitled 6 8.png](../../attachments/Untitled%206%208.png)
+![Untitled 7 8.png](../../attachments/Untitled%207%208.png)
 ## registers
 ### what is a register?
 a register is extremely fast memory in a cpu that can store very little very fast.
@@ -90,13 +90,13 @@ a symbol table is like a book's table of contents in a computer file, helping sh
 ## program design
 ### guide step-by-step
 these are the recommended steps in designing a program
-![[Untitled 8 7.png|Untitled 8 7.png]]
+![Untitled 8 7.png](../../attachments/Untitled%208%207.png)
 description
 broadly lay the foundations by deciding what the program should do, given what
-![[Untitled 9 6.png|Untitled 9 6.png]]
+![Untitled 9 6.png](../../attachments/Untitled%209%206.png)
 specification
 write pseudocode → go from human descriptions to computational logic
-![[Untitled 10 5.png|Untitled 10 5.png]]
+![Untitled 10 5.png](../../attachments/Untitled%2010%205.png)
 implementation
 translate the pseudocode into working, recognised, acceptable code
   
@@ -104,7 +104,7 @@ translate the pseudocode into working, recognised, acceptable code
 The AT&T syntax uses a number of prefixes for operands.
 - Register names are prefixed by the % character (e.g. %rax, %rsp).
 - Literal values are prefixed with the $ character (e.g. $3)
-![[Untitled 11 4.png|Untitled 11 4.png]]
+![Untitled 11 4.png](../../attachments/Untitled%2011%204.png)
 ## directive functions
 in assembler languages, some functions start with a dot .
 that’s how you recognise an assembler → a special function

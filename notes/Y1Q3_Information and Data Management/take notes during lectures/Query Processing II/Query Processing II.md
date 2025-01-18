@@ -22,41 +22,41 @@ based on:
 ## Algebraic Query Rewriting
 ### Selection $\sigma$
 - cascading
-![[Untitled 116.png|Untitled 116.png]]
+![Untitled 116.png](../../../../attachments/Untitled%20116.png)
 - commuting
-![[Untitled 1 18.png|Untitled 1 18.png]]
+![Untitled 1 18.png](../../../../attachments/Untitled%201%2018.png)
 ### Projection $\pi$
 - cascading
-![[Untitled 2 17.png|Untitled 2 17.png]]
+![Untitled 2 17.png](../../../../attachments/Untitled%202%2017.png)
 - commuting
-![[Untitled 3 13.png|Untitled 3 13.png]]
+![Untitled 3 13.png](../../../../attachments/Untitled%203%2013.png)
 ### Join, Cartesian Product
 - commuting
-![[Untitled 4 12.png|Untitled 4 12.png]]
+![Untitled 4 12.png](../../../../attachments/Untitled%204%2012.png)
 - associating
-![[Untitled 5 12.png|Untitled 5 12.png]]
+![Untitled 5 12.png](../../../../attachments/Untitled%205%2012.png)
 
 > arbitrary order
 - construct a join from a selection and a cartesian product
-![[Untitled 6 12.png|Untitled 6 12.png]]
+![Untitled 6 12.png](../../../../attachments/Untitled%206%2012.png)
 - commuting a selection over sides to a join/cartesian product
-![[Untitled 7 12.png|Untitled 7 12.png]]
+![Untitled 7 12.png](../../../../attachments/Untitled%207%2012.png)
 - commute projection over sides of a join/cartesian product
-![[Untitled 8 10.png|Untitled 8 10.png]]
+![Untitled 8 10.png](../../../../attachments/Untitled%208%2010.png)
 ### Set operation
 - commute $\cup$ and $\cap$
-![[Untitled 9 9.png|Untitled 9 9.png]]
+![Untitled 9 9.png](../../../../attachments/Untitled%209%209.png)
 - associate $\cap$ and $\cap$
-![[Untitled 10 8.png|Untitled 10 8.png]]
+![Untitled 10 8.png](../../../../attachments/Untitled%2010%208.png)
 - commute $\sigma$ over a set operator
-![[Untitled 11 7.png|Untitled 11 7.png]]
+![Untitled 11 7.png](../../../../attachments/Untitled%2011%207.png)
 - commute $\pi$ over a set operator
-![[Untitled 12 5.png|Untitled 12 5.png]]
+![Untitled 12 5.png](../../../../attachments/Untitled%2012%205.png)
 ## Heuristics (Rules of Thumb)
 
 > heuristics are common mental shortcuts to make it easier to work through problems. In this context, heuristics involve a number of common optimizations that _**usually**_ result in a desirable operator tree
 ### detour: they don’t always work (just rules of thumb)
-![[Untitled 13 5.png|Untitled 13 5.png]]
+![Untitled 13 5.png](../../../../attachments/Untitled%2013%205.png)
 ### 6 heuristics
 ### Break a selection $\sigma$ into multiple parts
 
@@ -87,8 +87,8 @@ based on:
   
 # Join Order Optimization
 ## Extreme amount of join order options
-![[Untitled 14 5.png|Untitled 14 5.png]]
-![[Untitled 15 5.png|Untitled 15 5.png]]
+![Untitled 14 5.png](../../../../attachments/Untitled%2014%205.png)
+![Untitled 15 5.png](../../../../attachments/Untitled%2015%205.png)
 number of possible join orders grows very quickly (catalan function)
 ## Build Relation vs Probe Relation (in a join)
 
@@ -109,14 +109,14 @@ number of possible join orders grows very quickly (catalan function)
 > 
 > outer loop build inner loop probe (this becomes viable when the inner looped probe relation is indexed.
 ## Pick a shape, any shape
-![[Untitled 16 5.png|Untitled 16 5.png]]
+![Untitled 16 5.png](../../../../attachments/Untitled%2016%205.png)
 ## Join Algorithm Costs (cheat sheet)
-![[Untitled 17 4.png|Untitled 17 4.png]]
+![Untitled 17 4.png](../../../../attachments/Untitled%2017%204.png)
 ## Left Deep Join Tree
 
 > Compound indexes, don’t start fresh
 > 
-> ![[Untitled 18 4.png|Untitled 18 4.png]]
+> ![Untitled 18 4.png](../../../../attachments/Untitled%2018%204.png)
 > 
 > In order to minimize the size of intermediate results, R < S < T < U (smaller relations are joined first)
 > 
@@ -125,7 +125,7 @@ number of possible join orders grows very quickly (catalan function)
 > - pipeline-compatible
 > - compatible with single pass, nested loop
 > 
-> ![[Untitled 19 4.png|Untitled 19 4.png]]
+> ![Untitled 19 4.png](../../../../attachments/Untitled%2019%204.png)
 > 
 > CANT DO SORT MERGE JOINS
 > 
@@ -133,6 +133,6 @@ number of possible join orders grows very quickly (catalan function)
 > - BUT still a lot when ridiculous amounts of joins
 > - BUT can’t do parallel execution :(
 > 
-> ![[Untitled 20 4.png|Untitled 20 4.png]]
+> ![Untitled 20 4.png](../../../../attachments/Untitled%2020%204.png)
 ## Various other join order options
-![[Untitled 21 4.png|Untitled 21 4.png]]
+![Untitled 21 4.png](../../../../attachments/Untitled%2021%204.png)

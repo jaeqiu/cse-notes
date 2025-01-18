@@ -1,1 +1,1 @@
-![[Are vectors linearly independent 2024-11-12 14.48.33.excalidraw]]
+![Are vectors linearly independent 2024-11-12 14.48.33.excalidraw](../../Excalidraw/Are%20vectors%20linearly%20independent%202024-11-12%2014.48.33.excalidraw.md)

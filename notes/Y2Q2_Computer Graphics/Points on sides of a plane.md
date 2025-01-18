@@ -1,1 +1,1 @@
-![[Points on sides of a plane 2024-11-15 13.40.54.excalidraw]]
+![Points on sides of a plane 2024-11-15 13.40.54.excalidraw](../../Excalidraw/Points%20on%20sides%20of%20a%20plane%202024-11-15%2013.40.54.excalidraw.md)

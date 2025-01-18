@@ -1,5 +1,5 @@
 Engineers need to design without being prejudiced.
-![[Ethics 2024-11-06 15.14.10.excalidraw]]Ethics: reflection on "normal"
+![Ethics 2024-11-06 15.14.10.excalidraw](../../Excalidraw/Ethics%202024-11-06%2015.14.10.excalidraw.md)Ethics: reflection on "normal"
 
 Morality
 Descriptive morality: 
@@ -73,4 +73,4 @@ AUC Area Under roc Curve: probability that the model will rank a positive exampl
 False, Independence and Separation only tell us something about the statistics of the group.  
 Individual decisions can still be unfair, e.g. hiring someone just to fill a quota. There is no single metric that would allow us to capture all facets of fairness, and moreover statistical notions of fairness are typically inherently contradictory.
 
-![[Pasted image 20241106160220.png|200]]![[Pasted image 20241106160213.png|200]]
+![200](../../attachments/Pasted%20image%2020241106160220.png)![200](../../attachments/Pasted%20image%2020241106160213.png)

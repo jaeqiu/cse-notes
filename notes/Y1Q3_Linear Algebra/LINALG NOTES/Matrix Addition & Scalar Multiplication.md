@@ -6,7 +6,7 @@ estimated value (word count): 37
 # Matrix  
 Addition is only defined for matrices of the same m rows and n  
 columns.  
-![[Untitled 22.png]]
+![Untitled 22.png](../../../attachments/Untitled%2022.png)
 # Scalar Multiplication  
   
-![[Untitled 23.png]]
+![Untitled 23.png](../../../attachments/Untitled%2023.png)

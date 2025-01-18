@@ -4,7 +4,7 @@ Created time: 2024-09-20T20:36
 estimated value (word count): 171
 ---
 A matrix transformation is a function T of the form T(x) = A x
-![[Untitled 16.png]]
+![Untitled 16.png](../../../attachments/Untitled%2016.png)
 # Matrix  
 Transformation - Shear Transformation  
 ## The  
@@ -16,13 +16,13 @@ standard basis vectors are e1, e2, e3. the columns represent the way
 these unit vectors land after transformation.  
 ## Horizontal shear  
 (parallel to the x-axis)  
-![[Untitled 17.png]]
+![Untitled 17.png](../../../attachments/Untitled%2017.png)
   
 ## Vertical shear (parallel to  
 the y-axis)  
-![[Untitled 18.png]]
+![Untitled 18.png](../../../attachments/Untitled%2018.png)
 ## Rotation
-![[Untitled 19.png]]
+![Untitled 19.png](../../../attachments/Untitled%2019.png)
 # Find matrix A from two  
 transformations  
 https://www.youtube.com/watch?v=p4H_vrQV6Sw

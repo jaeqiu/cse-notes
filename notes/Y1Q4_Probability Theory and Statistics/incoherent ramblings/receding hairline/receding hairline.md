@@ -7,35 +7,35 @@ Created time: 2024-09-20T20:36
 ## recession line
 
 > Overal thoughts.
-![[Untitled 110.png|Untitled 110.png]]
+![Untitled 110.png](../../../../attachments/Untitled%20110.png)
 ## Scatterplot
 
 > Overal thoughts
-![[Untitled 57.png]]
+![Untitled 57.png](../../../../attachments/Untitled%2057.png)
 ## Regression Model
 
 > Overal thoughts.
-![[Untitled 1 13.png|Untitled 1 13.png]]
+![Untitled 1 13.png](../../../../attachments/Untitled%201%2013.png)
 - note that $\sigma^2$ has no $_i$, that is to say, every error has the same variance.
 - the expectation of the error needs to be zero (if it isn’t, the regression model fuction is not refined)
-![[Untitled 58.png]]
+![Untitled 58.png](../../../../attachments/Untitled%2058.png)
 $U_i, Y_i$ are RV’s (capitalised)
 $\theta$ represents the parameters (constant, slope, inflexion) $\alpha, \beta, \gamma$
-![[Untitled 61.png]]
+![Untitled 61.png](../../../../attachments/Untitled%2061.png)
 ## Residual
 
 > What is the difference between a residual and an error?
 residual = prediction of error
-![[Untitled 64.png]]
+![Untitled 64.png](../../../../attachments/Untitled%2064.png)
 minimise $\sum_ir_i^2$
-![[Untitled 65.png]]
+![Untitled 65.png](../../../../attachments/Untitled%2065.png)
 ## Least Squares Solution
 
 > Overal thoughts.
-![[Untitled 66.png]]
-![[Untitled 2 13.png|Untitled 2 13.png]]
-![[Untitled 68.png]]
-![[Untitled 69.png]]
+![Untitled 66.png](../../../../attachments/Untitled%2066.png)
+![Untitled 2 13.png](../../../../attachments/Untitled%202%2013.png)
+![Untitled 68.png](../../../../attachments/Untitled%2068.png)
+![Untitled 69.png](../../../../attachments/Untitled%2069.png)
 heteroskedastisch (variance is not constant)
 ## Link met likelihood
 

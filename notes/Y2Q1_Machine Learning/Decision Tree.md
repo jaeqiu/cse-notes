@@ -1,2 +1,2 @@
-![[Pasted image 20241023171222.png|300]]
+![300](../../attachments/Pasted%20image%2020241023171222.png)
 few

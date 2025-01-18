@@ -1,6 +1,6 @@
 **The Substitution Rule**
 
-![Exported image](Exported%20image%2020241209225528-0.png)
+![Exported image](../../../attachments/Exported%20image%2020241209225528-0.png)
 
 The integral of the composite function f ∘ g (x) * g'(x) with respefct to dx is the same as  
 the integral of f(u) with respect to du

@@ -9,9 +9,9 @@ How to elicit requirements out of stakeholders:
 	- interview
 	- questionnaire
 	- writing scenario
-	- [[UML Use Case Diagram]] in requirement elicitation
+	- [UML Use Case Diagram](UML%20Use%20Case%20Diagram.md) in requirement elicitation
 	- brainstorming
 	- apprenticing (contextual inquiry):
 		observe while they work immerse in work environment let them talk about what they are doing are you happy doing this? would you want an automated version?
 
-Next: [[Classify Requirements]]
+Next: [Classify Requirements](Classify%20Requirements.md)

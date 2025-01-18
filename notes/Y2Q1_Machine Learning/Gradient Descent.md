@@ -1,2 +1,2 @@
 Imagine you're on a hill, blindfolded, and you want to find the bottom (the best solution). Gradient descent is like carefully feeling your way down the hill by taking small steps in the direction that feels like downhill until you reach the lowest point. This helps the computer learn the best solution.
-![[Pasted image 20241023161525.png|400]]
+![400](../../attachments/Pasted%20image%2020241023161525.png)

@@ -71,16 +71,16 @@ Jetbrains IntelliJ IDEA
   
 # Converting Data Types into One Another
 A Type Cast is used to convert the outcome of a certain function in the desired data type:
-![[Untitled 107.png|Untitled 107.png]]
-![[Untitled 1 11.png|Untitled 1 11.png]]
+![Untitled 107.png](../../../../attachments/Untitled%20107.png)
+![Untitled 1 11.png](../../../../attachments/Untitled%201%2011.png)
 # Operators
 Concatenation work on Strings by attaching them together ( “Hello” + “Kitty” = “GoodMorning”)
-![[Untitled 2 11.png|Untitled 2 11.png]]
-![[Untitled 3 11.png|Untitled 3 11.png]]
-![[Untitled 4 10.png|Untitled 4 10.png]]
-![[Untitled 5 10.png|Untitled 5 10.png]]
+![Untitled 2 11.png](../../../../attachments/Untitled%202%2011.png)
+![Untitled 3 11.png](../../../../attachments/Untitled%203%2011.png)
+![Untitled 4 10.png](../../../../attachments/Untitled%204%2010.png)
+![Untitled 5 10.png](../../../../attachments/Untitled%205%2010.png)
 # Cues (Reproduce All Knowledge With Only These)
-![[Untitled 6 10.png|Untitled 6 10.png]]
+![Untitled 6 10.png](../../../../attachments/Untitled%206%2010.png)
 # Sneak Peak
   
-![[Untitled 7 10.png|Untitled 7 10.png]]
+![Untitled 7 10.png](../../../../attachments/Untitled%207%2010.png)

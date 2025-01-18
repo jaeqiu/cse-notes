@@ -1,4 +1,4 @@
-![[Pasted image 20241101170845.png]]
+![Pasted image 20241101170845.png](../../attachments/Pasted%20image%2020241101170845.png)
 ```@startuml
 
 ' NOTE: We also show a less detailed version below.

@@ -7,7 +7,7 @@
 - **Principles:**
     1. **Satisfy the customer** through continuous delivery
     2. **Welcome changing requirements** for a competitive edge
-    3. [[Frequent delivery]], preferring shorter timelines
+    3. [Frequent delivery](Frequent%20delivery.md), preferring shorter timelines
     4. **Business and developers work together**
     5. Build projects around motivated people, give them everything
     6. Face-to-face conversations to communicate effectively

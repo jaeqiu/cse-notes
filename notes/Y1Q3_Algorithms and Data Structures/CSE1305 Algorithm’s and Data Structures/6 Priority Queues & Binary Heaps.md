@@ -37,8 +37,8 @@ Priority Queue = collection of prioritized elements
 - insertion at arbitrary positions
 - removal of element with first priority
 
-![Exported image](Exported%20image%2020241209225340-0.png)  
-![Exported image](Exported%20image%2020241209225340-1.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225340-0.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225340-1.png)  
 
 Implementations of Priority Queues:
  
@@ -89,7 +89,7 @@ Heap: removeMin
 
 1. Replace root (smallest key) by last node
 2. Restore heap-order if needed
-![Exported image](Exported%20image%2020241209225340-2.png)4. Time complexity of down-heap bubbling: O(log2 n)
+![Exported image](../../../attachments/Exported%20image%2020241209225340-2.png)4. Time complexity of down-heap bubbling: O(log2 n)
    
 
 ////////
@@ -124,7 +124,7 @@ For Linked-tree access to last position:
 (access last position notes)
  
 ////////
- ![Exported image](Exported%20image%2020241209225341-3.png)   
+ ![Exported image](../../../attachments/Exported%20image%2020241209225341-3.png)   
 /////////
  
 Heap construction
@@ -140,9 +140,9 @@ Keys known beforehand
 - build heap using bottom-up approach
 - at iteration i, pair of heaps with 2i - 1 keys are merged into heaps with 2i+1 - 1
 
-![Exported image](Exported%20image%2020241209225344-4.png)  
-![Exported image](Exported%20image%2020241209225345-5.png)  
-![Exported image](Exported%20image%2020241209225345-6.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225344-4.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225345-5.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225345-6.png)  
 
 For array: heapify
    
@@ -158,4 +158,4 @@ replaceValue(e,v)
 Quick access to locate entry e
 
 - store index in entry itself
- ![Exported image](Exported%20image%2020241209225346-7.png)
+ ![Exported image](../../../attachments/Exported%20image%2020241209225346-7.png)

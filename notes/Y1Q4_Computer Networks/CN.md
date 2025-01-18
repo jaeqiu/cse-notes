@@ -27,7 +27,7 @@ Last edited time: 2024-09-20T20:35
         >   
         > In case the receiver encounters a contradictory parity bit, retransmission is requested (in error detection)  
         
-        ![[Untitled 9.png|Untitled 9.png]]
+        ![Untitled 9.png](../../attachments/Untitled%209.png)
         
     - Parity Word
         
@@ -41,7 +41,7 @@ Last edited time: 2024-09-20T20:35
         
     - Cyclic Redundancy Check (CRC)
         
-        ![[Untitled 1 3.png|Untitled 1 3.png]]
+        ![Untitled 1 3.png](../../attachments/Untitled%201%203.png)
         
 - Error Correction
     - Parity Block
@@ -52,7 +52,7 @@ Last edited time: 2024-09-20T20:35
         
         > Hamming Codes allow for error _**correction**_ because they allow 1-bit errors to be corrected on the spot without need for retransmission. Burst errors can be detected, not corrected.
         > 
-        > ![[Untitled 2 3.png|Untitled 2 3.png]]
+        > ![Untitled 2 3.png](../../attachments/Untitled%202%203.png)
         > 
         > |   |   |
         > |---|---|
@@ -73,13 +73,13 @@ Last edited time: 2024-09-20T20:35
     - Bit Stuffing
     - Byte Stuffing
         
-        ![[Untitled 3 3.png|Untitled 3 3.png]]
+        ![Untitled 3 3.png](../../attachments/Untitled%203%203.png)
         
-        ![[Untitled 4 3.png|Untitled 4 3.png]]
+        ![Untitled 4 3.png](../../attachments/Untitled%204%203.png)
         
-        ![[Untitled 5 3.png|Untitled 5 3.png]]
+        ![Untitled 5 3.png](../../attachments/Untitled%205%203.png)
         
-        ![[Untitled 6 3.png|Untitled 6 3.png]]
+        ![Untitled 6 3.png](../../attachments/Untitled%206%203.png)
         
 
 > Flow Control ==(Error Control)==
@@ -89,7 +89,7 @@ Last edited time: 2024-09-20T20:35
     
     only works in utopia (noiseless)
     
-    ![[Untitled 7 3.png|Untitled 7 3.png]]
+    ![Untitled 7 3.png](../../attachments/Untitled%207%203.png)
     
 - Utopian Stop-And-Wait
     
@@ -98,7 +98,7 @@ Last edited time: 2024-09-20T20:35
     > no ACK-TIMEOUT means infinite waiting for lost data/lost ack  
     > only works in utopia (noiseless)  
     
-    ![[Untitled 8 2.png|Untitled 8 2.png]]
+    ![Untitled 8 2.png](../../attachments/Untitled%208%202.png)
     
 - Stop-And-Wait ==ARQ/PAR==
     
@@ -107,7 +107,7 @@ Last edited time: 2024-09-20T20:35
     > - Receive Ack(Onto the next)  
     > - OR Receive Nak/Time out(retransmit with other different SEQ)  
     
-    ![[Untitled 8 2.png|Untitled 8 2.png]]
+    ![Untitled 8 2.png](../../attachments/Untitled%208%202.png)
     
 - Go Back N ==Sliding Window ARQ==
     
@@ -151,7 +151,7 @@ Last edited time: 2024-09-20T20:35
     >   
     > window needs to be consecutive/connected/intact.  
     
-    ![[Untitled 9 2.png|Untitled 9 2.png]]
+    ![Untitled 9 2.png](../../attachments/Untitled%209%202.png)
     
 - Selective Repeat ==Sliding Window ARQ==
     
@@ -160,7 +160,7 @@ Last edited time: 2024-09-20T20:35
     
     Window size is constant, but the window can be unconnected (n=4; 2 3 5 6 in window is allowed if 4 was acknowledged)
     
-    ![[Untitled 10.png]]
+    ![Untitled 10.png](../../attachments/Untitled%2010.png)
     
 
 > ==The Data Link Layer handles== Medium Access Control
@@ -168,7 +168,7 @@ Last edited time: 2024-09-20T20:35
     
     > Channel Allocation Protocol allows multiple parties to share the same medium. (Dynamic if the access is given more to the parties that need it more)
     
-    ![[Untitled 11.png]]
+    ![Untitled 11.png](../../attachments/Untitled%2011.png)
     
     - CSMA ==Carrier Sense Multiple Access==
         
@@ -181,21 +181,21 @@ Last edited time: 2024-09-20T20:35
         > CSMA-CD: after sending, check carrier for collissions, try again if detected  
         > CSMA-CA: CTS→RTS handshake before sending data  
         
-        ![[Untitled 12.png]]
+        ![Untitled 12.png](../../attachments/Untitled%2012.png)
         
         - 1-Persistent CSMA
             
             > this persistence method is aggressive.  
             > any time (continously) that the medium is idle, we will try to transmit.  
             
-            ![[Untitled 13.png]]
+            ![Untitled 13.png](../../attachments/Untitled%2013.png)
             
         - Non-Persistent CSMA
             
             > This persistence method is not aggresive at all.  
             > Whenever the medium is sensed to be busy (in continuous time), we will wait a random backoff time before even sensing the medium again for an idle state.  
             
-            ![[Untitled 14.png]]
+            ![Untitled 14.png](../../attachments/Untitled%2014.png)
             
         - P-Persistent CSMA
             
@@ -207,13 +207,13 @@ Last edited time: 2024-09-20T20:35
             > If it turns out that the medium is still idle, roll the dice again.  
             > if it turns out that the medium is now busy, wait for a backoff timer before even considering the state of the medium again  
             
-            ![[Untitled 15.png]]
+            ![Untitled 15.png](../../attachments/Untitled%2015.png)
             
         - CSMA-CD (CSMA Collision Detection)
             
             > Wait for free channel, transmit immediately, stop as soon as you detect the collision
             > 
-            > ![[Untitled 16.png]]
+            > ![Untitled 16.png](../../attachments/Untitled%2016.png)
             > 
             > no time slots
             
@@ -221,7 +221,7 @@ Last edited time: 2024-09-20T20:35
             
             > channel not free → random waiting backoff, channel free, (RTS, CTS if ieee variant), avoid collisions by doing a rtc-cts handshake before transmitting any data.
             > 
-            > ![[Untitled 17.png]]
+            > ![Untitled 17.png](../../attachments/Untitled%2017.png)
             > 
             > uses time slots
             
@@ -252,7 +252,7 @@ Last edited time: 2024-09-20T20:35
             >   
             > A and C are both in range of B, but A and C can’t do carrier-sense communication with B, because they don’t know whether B is busy with the other party  
             
-            ![[Untitled 18.png]]
+            ![Untitled 18.png](../../attachments/Untitled%2018.png)
             
         - Exposed Terminal Problem (Exposed Node Problem)
             
@@ -261,7 +261,7 @@ Last edited time: 2024-09-20T20:35
             >   
             > Even though C can’t reach A and B can’t reach D, C still won’t transmit to D out of fear that it would garble B’s message to A (C is aware that B is transmitting something to someone)  
             
-            ![[Untitled 19.png]]
+            ![Untitled 19.png](../../attachments/Untitled%2019.png)
             
         - IEEE-802.11 (MACA) resolution
             
@@ -323,11 +323,11 @@ Last edited time: 2024-09-20T20:35
         
         > 4 step protocol
         
-        ![[Untitled 20.png]]
+        ![Untitled 20.png](../../attachments/Untitled%2020.png)
         
     - IPv4 IP packet structure
         
-        ![[Untitled 21.png]]
+        ![Untitled 21.png](../../attachments/Untitled%2021.png)
         
         - Source Address
             
@@ -347,7 +347,7 @@ Last edited time: 2024-09-20T20:35
             
     - IPv6 IP packet structure
         
-        ![[Untitled 22.png]]
+        ![Untitled 22.png](../../attachments/Untitled%2022.png)
         
         - Source Address
             
@@ -363,9 +363,9 @@ Last edited time: 2024-09-20T20:35
             
     - IPv4 CIDR Hierarchy Notation.
         
-        ![[Untitled 23.png]]
+        ![Untitled 23.png](../../attachments/Untitled%2023.png)
         
-        ![[Untitled 24.png]]
+        ![Untitled 24.png](../../attachments/Untitled%2024.png)
         
         > Classless InterDomain Routing allows us to divide networks  
         >   
@@ -381,13 +381,13 @@ Last edited time: 2024-09-20T20:35
         
 - Routing Protocol
     
-    ![[Untitled 25.png]]
+    ![Untitled 25.png](../../attachments/Untitled%2025.png)
     
-    ![[Untitled 26.png]]
+    ![Untitled 26.png](../../attachments/Untitled%2026.png)
     
     - Distance Vector Routing
         
-        ![[Untitled 27.png]]
+        ![Untitled 27.png](../../attachments/Untitled%2027.png)
         
         > Every node holds a DCH routing table (destination, cost, hop)  
         > the initial routing table for any node only holds the values for direct neighbours  
@@ -407,7 +407,7 @@ Last edited time: 2024-09-20T20:35
         
     - BGP Path-Vector Inter-Domain Routing
         
-        ![[Untitled 28.png]]
+        ![Untitled 28.png](../../attachments/Untitled%2028.png)
         
         > Distance Vector Routing and Link State Routing can only follow a LEAST COST policy. Path Vector Routing allows for different policies.  
         >   
@@ -417,7 +417,7 @@ Last edited time: 2024-09-20T20:35
         
     - Traffic Aware Routing
         
-        ![[Untitled 29.png]]
+        ![Untitled 29.png](../../attachments/Untitled%2029.png)
         
     - Multicast 224.0.0.1
         
@@ -458,11 +458,11 @@ Last edited time: 2024-09-20T20:35
         >   
         > Assigns **MAC**-address to **IP** address
         
-        ![[Untitled 30.png]]
+        ![Untitled 30.png](../../attachments/Untitled%2030.png)
         
     - Network Address Translation inIP NAT(exIP)
         
-        ![[Untitled 31.png]]
+        ![Untitled 31.png](../../attachments/Untitled%2031.png)
         
 - Congestion Control Protocol
     - Random Early Detection (RED)
@@ -478,16 +478,16 @@ Last edited time: 2024-09-20T20:35
         
     - ICMP Flood attacks Router
         
-        ![[Untitled 32.png]]
+        ![Untitled 32.png](../../attachments/Untitled%2032.png)
         
     - Congestion Control
         
-        ![[Untitled 33.png]]
+        ![Untitled 33.png](../../attachments/Untitled%2033.png)
         
 - Network Provisioning
 - Admission Control Protocol
     
-    ![[Untitled 34.png]]
+    ![Untitled 34.png](../../attachments/Untitled%2034.png)
     
 ---
 ### Transport Layer OSI 4
@@ -511,22 +511,22 @@ Last edited time: 2024-09-20T20:35
         5. READ()
         6. WRITE()
         
-        ![[Untitled 35.png]]
+        ![Untitled 35.png](../../attachments/Untitled%2035.png)
         
-        ![[Untitled 36.png]]
+        ![Untitled 36.png](../../attachments/Untitled%2036.png)
         
-        ![[Untitled 37.png]]
+        ![Untitled 37.png](../../attachments/Untitled%2037.png)
         
-        ![[image_2024-06-03_191349154.png]]
+        ![image\_2024-06-03\_191349154.png](../../attachments/image_2024-06-03_191349154.png)
         
-        ![[Untitled 38.png]]
+        ![Untitled 38.png](../../attachments/Untitled%2038.png)
         
 - UDP
     - UDP Segment Header Structure
         
-        ![[Untitled 39.png]]
+        ![Untitled 39.png](../../attachments/Untitled%2039.png)
         
-        ![[Untitled 40.png]]
+        ![Untitled 40.png](../../attachments/Untitled%2040.png)
         
     - Error Detection
         - SEQ Number
@@ -543,7 +543,7 @@ Last edited time: 2024-09-20T20:35
     
     - TCP segment header
         
-        ![[Untitled 41.png]]
+        ![Untitled 41.png](../../attachments/Untitled%2041.png)
         
     - Error detection
         
@@ -573,9 +573,9 @@ Last edited time: 2024-09-20T20:35
             
     - Connection establishment and termination
         
-        ![[Untitled 42.png]]
+        ![Untitled 42.png](../../attachments/Untitled%2042.png)
         
-        ![[Untitled 43.png]]
+        ![Untitled 43.png](../../attachments/Untitled%2043.png)
         
         > A chooses SEQ x, ACK , sends that, now SEQ x+1, ACK  
         > B chooses SEQ y, ACK x+1, sends that, now SEQ y+1, ACK x+1  
@@ -598,7 +598,7 @@ Last edited time: 2024-09-20T20:35
             > Client and server agree close connection simultaneously  
             > FIN FIN ACK  
             
-            ![[Untitled 44.png]]
+            ![Untitled 44.png](../../attachments/Untitled%2044.png)
             
               
             
@@ -612,7 +612,7 @@ Last edited time: 2024-09-20T20:35
     - Congestion control
         - Negotiate ECN
             
-            ![[Untitled 45.png]]
+            ![Untitled 45.png](../../attachments/Untitled%2045.png)
             
             Sender: SYN has ECE and CWR to 1  
             Receiver: SYN has ECE and CWR to 0 (or ECE 1 CWR 1 if decline)  
@@ -624,17 +624,17 @@ Last edited time: 2024-09-20T20:35
             
         - Tahoe Congestion Policy
             
-            ![[Untitled 46.png]]
+            ![Untitled 46.png](../../attachments/Untitled%2046.png)
             
         - Threshold becomes failing windows / multiplicative factor
             
-            ![[Untitled 47.png]]
+            ![Untitled 47.png](../../attachments/Untitled%2047.png)
             
         - Reno Congestion Policy
             
             > Instead of doing a slow start recovery, start at the new, lower, threshold
             
-            ![[Untitled 48.png]]
+            ![Untitled 48.png](../../attachments/Untitled%2048.png)
             
         - Compound TCP
             
@@ -654,9 +654,9 @@ Last edited time: 2024-09-20T20:35
         
         > When a transmission takes too long, new gen sequence numbers can start overlapping with the ones you’re using. If it takes at most T seconds for a sequence number to find a destination, a collission can occur when a new gen sequence number with the same number is generated. That’s why there is a forbidden region of T seconds before the new gen number, that the old one can no longer be used anymore.
         > 
-        > ![[Untitled 49.png]]
+        > ![Untitled 49.png](../../attachments/Untitled%2049.png)
         > 
-        > ![[Untitled 50.png]]
+        > ![Untitled 50.png](../../attachments/Untitled%2050.png)
         
 - UDP → QUIC Protocol
     
@@ -682,19 +682,19 @@ Last edited time: 2024-09-20T20:35
     
     - Hierarchy of DNS Name Space, DNS lookups
         
-        ![[Untitled 51.png]]
+        ![Untitled 51.png](../../attachments/Untitled%2051.png)
         
         - Iterative DNS lookup
             
             > The local machine will independently find the ip address by querying the dns servers that the previous dns server said to query.
             
-            ![[Untitled 52.png]]
+            ![Untitled 52.png](../../attachments/Untitled%2052.png)
             
         - Recursive DNS lookup
             
             > A single dns server will perform iterative dns lookup, so that the local machine can get an anwer in one go.
             
-            ![[Untitled 53.png]]
+            ![Untitled 53.png](../../attachments/Untitled%2053.png)
             
         
         > In response to the request, the name server responds with a domain resource record:
@@ -722,30 +722,30 @@ Last edited time: 2024-09-20T20:35
             
         - Protocol to interact with mailbox
             
-            ![[Untitled 54.png]]
+            ![Untitled 54.png](../../attachments/Untitled%2054.png)
             
             > POP3 email receiving (downloaded to local)  
             > IMAP email receiving (persist on cloud, allows multi device sync)  
             > LOGIN, FETCH, CREATE, DELETE, EXPUNGE  
             > SMTP email sending  
             
-            ![[Untitled 55.png]]
+            ![Untitled 55.png](../../attachments/Untitled%2055.png)
             
-            ![[Untitled 56.png]]
+            ![Untitled 56.png](../../attachments/Untitled%2056.png)
             
 - Modern Application
     - Universal Resource Locator
         
         > Protocol, Domain Name, Path
         
-        ![[Untitled 57.png]]
+        ![Untitled 57.png](../../attachments/Untitled%2057.png)
         
 - Chord DHT Routing
     
     > Successor location = closest node at or higher than start location  
     > start = own location + $2^i$
     > 
-    > ![[Untitled 58.png]]
+    > ![Untitled 58.png](../../attachments/Untitled%2058.png)
     
 ---
 ### Security
@@ -864,7 +864,7 @@ Last edited time: 2024-09-20T20:35
 - Web of Trust
 - MAC/MIC Message auth code
     
-    ![[Untitled 59.png]]
+    ![Untitled 59.png](../../attachments/Untitled%2059.png)
     
 - Nonce
     
@@ -951,5 +951,5 @@ Last edited time: 2024-09-20T20:35
     > the amount of useful (payload) data that can be transferred, per time unit
     
 ---
-![[Untitled 60.png]]
-![[Untitled 61.png]]
+![Untitled 60.png](../../attachments/Untitled%2060.png)
+![Untitled 61.png](../../attachments/Untitled%2061.png)

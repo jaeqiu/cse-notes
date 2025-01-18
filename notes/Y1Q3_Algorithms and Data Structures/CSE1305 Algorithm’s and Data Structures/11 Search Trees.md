@@ -27,8 +27,8 @@ Removing an element
     - find max node in left child
     - replace the to-be-removed node by max node
     - recursively proceed to remove max node
- ![Exported image](Exported%20image%2020241209225417-0.png)  
-![Exported image](Exported%20image%2020241209225417-1.png)   
+ ![Exported image](../../../attachments/Exported%20image%2020241209225417-0.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225417-1.png)   
 How to ensure the Binary Search Tree is balanced?  
 Require balance condition that
 
@@ -42,7 +42,7 @@ Solution: AVL trees
 A binary search tree with the AVL balance condition
  
 AVL Balance condition: the heights of the children of each node differ by at most 1
- ![Exported image](Exported%20image%2020241209225418-2.png)   
+ ![Exported image](../../../attachments/Exported%20image%2020241209225418-2.png)   
 Insertion
 
 - Use binary tree insertion
@@ -50,21 +50,21 @@ Insertion
 - "search and repair" while traversing to root
 - by fixing unbalanced nodes using tri-node restructuring along the way
 
-![Exported image](Exported%20image%2020241209225418-3.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225418-3.png)  
 
 Single rotation
 
-![Exported image](Exported%20image%2020241209225422-4.png)
+![Exported image](../../../attachments/Exported%20image%2020241209225422-4.png)
 
 - swap x and y. y is higher so y is now on the right subtree
- ![Exported image](Exported%20image%2020241209225423-5.png)   
+ ![Exported image](../../../attachments/Exported%20image%2020241209225423-5.png)   
 Removal
 
 - use binary tree removal
 - may create unbalanced nodes, but only along path to the removed node
 - "search and repair" while traversing to root
 - by fixing unbalanced nodes using tri-node restructuring along the way
- ![Exported image](Exported%20image%2020241209225423-6.png)  
+ ![Exported image](../../../attachments/Exported%20image%2020241209225423-6.png)  
 
 (Removing the root, replace root with first left predecessor)
  

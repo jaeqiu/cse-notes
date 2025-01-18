@@ -8,7 +8,7 @@ estimated value (word count): 65
 
 > Symmetric matrices are symmetric to the main diagonal
 > 
-> ![[Untitled 93.png]]
+> ![Untitled 93.png](../../../attachments/Untitled%2093.png)
 ## Eigenvalues and Eigenvalues of Symmetric matrix
 
 > Symmetric Matrix → Real Eigenvalues  
@@ -18,11 +18,11 @@ estimated value (word count): 65
 
 > We hit the motherlodian man this shits diagonalizable _**AND**_ orthogonal cuh!
 > 
-> ![[Untitled 94.png]]
+> ![Untitled 94.png](../../../attachments/Untitled%2094.png)
 > 
 > symmetric matrix A iff A orthogonally diagonalizable
 > 
-> ![[Untitled 95.png]]
+> ![Untitled 95.png](../../../attachments/Untitled%2095.png)
 > 
 > geometric multiplicity = algebraic multiplicity when diagonalizable
 > 
@@ -32,6 +32,6 @@ estimated value (word count): 65
 > Overal thoughts  
 >   
 > 
-> ![[Untitled 96.png]]
+> ![Untitled 96.png](../../../attachments/Untitled%2096.png)
 > 
-> ![[Untitled 97.png]]
+> ![Untitled 97.png](../../../attachments/Untitled%2097.png)

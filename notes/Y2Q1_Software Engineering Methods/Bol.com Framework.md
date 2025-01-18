@@ -4,13 +4,13 @@
 4. Build; 
 
 Deployment
-- [[AB testing]]
-+ [[Feature toggle]]
+- [AB testing](AB%20testing.md)
++ [Feature toggle](Feature%20toggle.md)
 
 Rituals, not sprints
 + At any time, multiple people work on multiple features in different dev stages
-+ [[Frequent delivery]](every single day, all the time)
-+ [[KanBan]] development
++ [Frequent delivery](Frequent%20delivery.md)(every single day, all the time)
++ [KanBan](KanBan.md) development
 + weekly checks
 
 Being a good senior engineer

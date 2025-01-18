@@ -40,6 +40,6 @@
     operators there is only a single block of selections followed by a single  
     block of projections (and no projections followed by selections )  
     
-![[Untitled 131.png|Untitled 131.png]]
+![Untitled 131.png](../../../../../attachments/Untitled%20131.png)
 1. Combine selections and Cartesian products to joins
 2. Prepare pipelining for blocks of unary operators

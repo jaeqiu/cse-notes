@@ -12,7 +12,7 @@ E3(F, G, H)
 E4(F - > E3(F), G - > E3(G), I, J, K, L)  
 Rel(A->E1(A), D->E2(D), F->E3(F), G ->E3(G), O, P)
 
-![Exported image](Exported%20image%2020241209225243-0.png) ![Exported image](Exported%20image%2020241209225243-1.png)                                          ![Exported image](Exported%20image%2020241209225244-2.png)           ![Exported image](Exported%20image%2020241209225244-3.png)                 
+![Exported image](../../../attachments/Exported%20image%2020241209225243-0.png) ![Exported image](../../../attachments/Exported%20image%2020241209225243-1.png)                                          ![Exported image](../../../attachments/Exported%20image%2020241209225244-2.png)           ![Exported image](../../../attachments/Exported%20image%2020241209225244-3.png)                 
 
 ewfewf
 
@@ -26,7 +26,7 @@ FD1 holds (B,C predicts GF)
 FD2 holds (B,F predicts GC)  
 FD3 holds (G predicts A, D, E)
 
-![Exported image](Exported%20image%2020241209225245-4.png)       
+![Exported image](../../../attachments/Exported%20image%2020241209225245-4.png)       
 
 R(A,B,C,D,E,F)  
 determinant -> dependant  
@@ -54,8 +54,8 @@ RELATION 2
 |B|C|G|F|
 |||||
 |||||
- ![Exported image](Exported%20image%2020241209225245-5.png)  
-![Exported image](Exported%20image%2020241209225249-6.png)
+ ![Exported image](../../../attachments/Exported%20image%2020241209225245-5.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225249-6.png)
 
 ALTERNATIVE NORMALISATION 2nf to 3nf:
  
@@ -86,7 +86,7 @@ F = getal
  
 proof b NIET CANDIDATE KEY
 
-![Exported image](Exported%20image%2020241209225250-7.png) ![Exported image](Exported%20image%2020241209225250-8.png)
+![Exported image](../../../attachments/Exported%20image%2020241209225250-7.png) ![Exported image](../../../attachments/Exported%20image%2020241209225250-8.png)
 
 0nf: TrainID, TrainCompany, OperatorID, OperatorName, RouteHistory(Start,End,Date)
  

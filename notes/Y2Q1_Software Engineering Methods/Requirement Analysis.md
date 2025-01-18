@@ -15,7 +15,7 @@ What is a programmer:
 	- short lifespan
 
 The four steps of requirement analysis are:
-[[Discover stakeholders, Elicit Requirements]]
-[[Classify Requirements]]
-[[Prioritize requirements]]
-[[Specify Requirements]]
+[Discover stakeholders, Elicit Requirements](Discover%20stakeholders,%20Elicit%20Requirements.md)
+[Classify Requirements](Classify%20Requirements.md)
+[Prioritize requirements](Prioritize%20requirements.md)
+[Specify Requirements](Specify%20Requirements.md)

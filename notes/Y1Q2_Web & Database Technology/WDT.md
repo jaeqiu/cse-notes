@@ -7,7 +7,7 @@ Last edited time: 2024-09-20T20:35
 ---
 ### unimportatn yap
 **What is the difference between data and information?**
-![[Untitled 62.png|Untitled 62.png]]
+![Untitled 62.png](../../attachments/Untitled%2062.png)
 Data lacks the necessary context to make it focused on a specific topic.
   
 **What is a database?**
@@ -20,7 +20,7 @@ A series which describes how I generally structure and describe data
 The relational model is an approach to manage data, such that tuples are grouped by relations between the tuples.
   
 **Schemas:**
-![[Untitled 1 4.png|Untitled 1 4.png]]
+![Untitled 1 4.png](../../attachments/Untitled%201%204.png)
 _graphic on the differences between conceptual, logical and physical model designs_
 **Conceptual Schema:**
 purely focused on the greater outline of what we want to achieve
@@ -40,7 +40,7 @@ For database transactions we need to adhere to the ACID principle, to prevent th
 where a transaction was not very ACID.
   
 **What is the ACID principle?**
-![[Untitled 2 4.png|Untitled 2 4.png]]
+![Untitled 2 4.png](../../attachments/Untitled%202%204.png)
 The ACID principle is used in the management of databases and the processing of transactions.
 _**Atomicity:**_
 The transaction happens in whole, or not at all
@@ -63,35 +63,35 @@ consistency - integrity constraints are never broken by transaction
 isolation - the number of concurrent transactions does not fuck things up for any of them  
 durability - the effect of a transaction is permanent, unbothered by lightning strikes and floods and black holes and stuff  
 ### 1nf 2nf 3nf
-![[Untitled 3 4.png|Untitled 3 4.png]]
+![Untitled 3 4.png](../../attachments/Untitled%203%204.png)
 1nf
 - single column attribute can’t save two things
 - so no “couple” attribute with both “alice, bob” as value
 - example breaks 1nf. has more than one value in cell
-![[Untitled 4 4.png|Untitled 4 4.png]]
+![Untitled 4 4.png](../../attachments/Untitled%204%204.png)
 2nf
 - derive non-primes by the _**entire**_ candidate key
 - so no more B → C and when A B candidate key.
 - example breaks 2nf. non-primes can be found by part of candidate key, instead of needing it all.
-![[Untitled 5 4.png|Untitled 5 4.png]]
+![Untitled 5 4.png](../../attachments/Untitled%205%204.png)
 3nf
 - direct so no more **A**→B →C to derive C from A
 ### disjoint generalize relation
-![[Untitled 6 4.png|Untitled 6 4.png]]
+![Untitled 6 4.png](../../attachments/Untitled%206%204.png)
 every artist has to be a band or a musician and can’t be both - d for disjoint, subset symbols, double lines for total participation
 ### overlapping generalize relation
-![[Untitled 7 4.png|Untitled 7 4.png]]
+![Untitled 7 4.png](../../attachments/Untitled%207%204.png)
 here, a musician might be any combination of the right entities, or neither, since they are not required to be anything (since it’s a single line) - o for overlapping, subset symbols, single line for partial participation in the relation
 ### weak entity, derived attribute, total participation
-![[Untitled 8 3.png|Untitled 8 3.png]]
+![Untitled 8 3.png](../../attachments/Untitled%208%203.png)
 animal weak because animal can’t exist without adoption center - animal id attribute is derived from adoption center - double lined square for weak entity - double lines to the relation diamond for total participation -
 ### crow’s foot instead of n, m, 1
-![[Untitled 9 3.png|Untitled 9 3.png]]
+![Untitled 9 3.png](../../attachments/Untitled%209%203.png)
   
 ### if you can understand everything here you are ready to make/read an erd
-![[Untitled 10 2.png|Untitled 10 2.png]]
+![Untitled 10 2.png](../../attachments/Untitled%2010%202.png)
 ### logical relational schema notation
-![[Untitled 11 2.png|Untitled 11 2.png]]
+![Untitled 11 2.png](../../attachments/Untitled%2011%202.png)
 looks like
 **Relation** (**Candidate Key**, Attribute, Attribute, DerivedAttribute→OtherRelation(Key))
   
@@ -134,7 +134,7 @@ Subject,
 Marks,
 ROW_NUMBER() OVER(ORDER BY Marks) RowNumber
 ```
-![[Untitled 12 2.png|Untitled 12 2.png]]
+![Untitled 12 2.png](../../attachments/Untitled%2012%202.png)
 ### RANK() OVER() AS alias
 ```SQL
 SELECT Studentname,
@@ -145,7 +145,7 @@ FROM ExamResult
 ORDER BY Studentname,
 Rank;
 ```
-![[Untitled 13 2.png|Untitled 13 2.png]]
+![Untitled 13 2.png](../../attachments/Untitled%2013%202.png)
 ### DENSE_RANK() OVER() AS alias
 ```SQL
 SELECT Studentname,
@@ -156,7 +156,7 @@ FROM ExamResult
 ORDER BY Studentname,
 Rank;
 ```
-![[Untitled 14 2.png|Untitled 14 2.png]]
+![Untitled 14 2.png](../../attachments/Untitled%2014%202.png)
 ### NTILE() OVER() AS alias
 ```SQL
 SELECT *,
@@ -164,7 +164,7 @@ NTILE(2) OVER(PARTITION  BY subject ORDER BY Marks DESC) Rank
 FROM ExamResult
 ORDER BY subject, rank;
 ```
-![[Untitled 15 2.png|Untitled 15 2.png]]
+![Untitled 15 2.png](../../attachments/Untitled%2015%202.png)
   
 ---
 ### api restful principle
@@ -219,7 +219,7 @@ console.log(createPerson('Alice', 30)); // { name: 'Alice', age: 30 }
 - flex-direction: row, row-reverse, column, column-reverse
 - justify-content: flex-start, flex-end, center, space-between, space-around, space-evenly (spacing of elements along main axis)
 ### middleware
-![[Untitled 16 2.png|Untitled 16 2.png]]
+![Untitled 16 2.png](../../attachments/Untitled%2016%202.png)
 middleware is chain step by step
 ### express.js model-view-controller
 - model data structure

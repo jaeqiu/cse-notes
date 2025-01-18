@@ -47,5 +47,5 @@ service/repository/total price of order (can be calculated on the spot, no need 
 
 
 
-![[Pasted image 20241101171239.png]]
-[[entity vs value object, id in class diagram]]
+![Pasted image 20241101171239.png](../../attachments/Pasted%20image%2020241101171239.png)
+[entity vs value object, id in class diagram](entity%20vs%20value%20object,%20id%20in%20class%20diagram.md)

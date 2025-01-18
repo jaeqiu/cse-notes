@@ -1,1 +1,1 @@
-![[Inverse of 3x3 matrix 2024-11-12 15.54.43.excalidraw]]
+![Inverse of 3x3 matrix 2024-11-12 15.54.43.excalidraw](../../Excalidraw/Inverse%20of%203x3%20matrix%202024-11-12%2015.54.43.excalidraw.md)

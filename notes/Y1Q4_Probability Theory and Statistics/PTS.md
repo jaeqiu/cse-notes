@@ -10,7 +10,7 @@ Last edited time: 2025-01-07T16:40
 ### Intro, Data Summary, Probability Space
 - Map of Probability Theory
     
-    ![[Untitled 63.png|Untitled 63.png]]
+    ![Untitled 63.png](../../attachments/Untitled%2063.png)
     
 - ==Probability vs Statistics==
     
@@ -21,7 +21,7 @@ Last edited time: 2025-01-07T16:40
     
     > How can we represent the data set with numbers
     
-    ![[Untitled 1 5.png|Untitled 1 5.png]]
+    ![Untitled 1 5.png](../../attachments/Untitled%201%205.png)
     
     max = maximum value
     
@@ -53,24 +53,24 @@ Last edited time: 2025-01-07T16:40
     
     ### Histogram
     
-    ![[Untitled 2 5.png|Untitled 2 5.png]]
+    ![Untitled 2 5.png](../../attachments/Untitled%202%205.png)
     
     bin height (depends on approach):
     
     - represent _**frequency**_ of values; $h_1 = n_1$
     - normalize _**area to 1**_; $h_i=\frac{n_i/n_{total}}{|B_i|}$ ($|B_i|$ means the range width for a bin interval)
     
-    ![[Untitled 3 5.png|Untitled 3 5.png]]
+    ![Untitled 3 5.png](../../attachments/Untitled%203%205.png)
     
     (1.80 - 1.75 ) * 2 = 0.10, so 0.10 * 40 = 4 basketball players lie in the bin
     
-    ![[Untitled 4 5.png|Untitled 4 5.png]]
+    ![Untitled 4 5.png](../../attachments/Untitled%204%205.png)
     
     Find the perfect bin width; Too many peaks vs Too general
     
     ### Scatter Plot
     
-    ![[Untitled 5 5.png|Untitled 5 5.png]]
+    ![Untitled 5 5.png](../../attachments/Untitled%205%205.png)
     
     > good for multidimensional data set
     
@@ -100,7 +100,7 @@ Last edited time: 2025-01-07T16:40
 ### ==Conditional Probability, Bayes Rule==
 - ==Sum Rule, Complement Rule:== ==$P(A\cup B), \space P(A^c)$==
     
-    ![[Untitled 6 5.png|Untitled 6 5.png]]
+    ![Untitled 6 5.png](../../attachments/Untitled%206%205.png)
     
     > What is the probability that the union of an event occurs?
     > 
@@ -131,7 +131,7 @@ Last edited time: 2025-01-07T16:40
     
 - ==Multiplication Rule:== ==$P(A \cap B)$==
     
-    ![[Untitled 7 5.png|Untitled 7 5.png]]
+    ![Untitled 7 5.png](../../attachments/Untitled%207%205.png)
     
     > What is the probability that the intersection of an event occurs?
     
@@ -139,7 +139,7 @@ Last edited time: 2025-01-07T16:40
     
 - ==Bayes’ Rule:== ==$P(A|C) \rightarrow P(C|A)$==
     
-    ![[Untitled 8 4.png|Untitled 8 4.png]]
+    ![Untitled 8 4.png](../../attachments/Untitled%208%204.png)
     
     > What does the Law of Total Probability state?
     
@@ -168,75 +168,75 @@ Last edited time: 2025-01-07T16:40
     >   
     > Defined as: the likelyhood of the intersection is the same as the product of individual probabilities  
     
-    ![[Untitled 9 4.png|Untitled 9 4.png]]
+    ![Untitled 9 4.png](../../attachments/Untitled%209%204.png)
     
 - ==Discrete Random Variable==
     
     > A discrete random variable works off of a sample space and assigns each event to a value, finite or infinite.
     
-    ![[Untitled 10 3.png|Untitled 10 3.png]]
+    ![Untitled 10 3.png](../../attachments/Untitled%2010%203.png)
     
 - ==Probability Mass Function==
     
     > A Probability Mass Function returns the probability mass of an event, given the underlying discrete random variable
     
-    ![[Untitled 11 3.png|Untitled 11 3.png]]
+    ![Untitled 11 3.png](../../attachments/Untitled%2011%203.png)
     
-    ![[Untitled 12 3.png|Untitled 12 3.png]]
+    ![Untitled 12 3.png](../../attachments/Untitled%2012%203.png)
     
 - ==Distribution Function, Probability Mass Function for Discrete RV==
     
     > The distribution takes the probability-mass and returns between 0 and 1, representing the probability of the associated event, from the value.
     
-    ![[Untitled 13 3.png|Untitled 13 3.png]]
+    ![Untitled 13 3.png](../../attachments/Untitled%2013%203.png)
     
-    ![[Untitled 14 3.png|Untitled 14 3.png]]
+    ![Untitled 14 3.png](../../attachments/Untitled%2014%203.png)
     
 - ==Bernoulli Distribution (type of discrete distribution)==
     
     > Overal thoughts
     
-    ![[Untitled 15 3.png|Untitled 15 3.png]]
+    ![Untitled 15 3.png](../../attachments/Untitled%2015%203.png)
     
-    ![[Untitled 16 3.png|Untitled 16 3.png]]
+    ![Untitled 16 3.png](../../attachments/Untitled%2016%203.png)
     
-    ![[Untitled 17 2.png|Untitled 17 2.png]]
+    ![Untitled 17 2.png](../../attachments/Untitled%2017%202.png)
     
 - ==Binomial Distribution==
     
     > Overal thoughts
     
-    ![[Untitled 18 2.png|Untitled 18 2.png]]
+    ![Untitled 18 2.png](../../attachments/Untitled%2018%202.png)
     
-    ![[Untitled 19 2.png|Untitled 19 2.png]]
+    ![Untitled 19 2.png](../../attachments/Untitled%2019%202.png)
     
-    ![[Untitled 20 2.png|Untitled 20 2.png]]
+    ![Untitled 20 2.png](../../attachments/Untitled%2020%202.png)
     
     ## Combinations - Notation
     
     > The notation for a combination of “any distinct 3 of 12” looks like $\begin{pmatrix}12 (options) \\3 (picks)\end{pmatrix}$
     
-    ![[Untitled 21 2.png|Untitled 21 2.png]]
+    ![Untitled 21 2.png](../../attachments/Untitled%2021%202.png)
     
 - ==Geometric Distribution==
     
     > Overal thoughts
     
-    ![[Untitled 22 2.png|Untitled 22 2.png]]
+    ![Untitled 22 2.png](../../attachments/Untitled%2022%202.png)
     
-    ![[Untitled 23 2.png|Untitled 23 2.png]]
+    ![Untitled 23 2.png](../../attachments/Untitled%2023%202.png)
     
-    ![[Untitled 24 2.png|Untitled 24 2.png]]
+    ![Untitled 24 2.png](../../attachments/Untitled%2024%202.png)
     
 - ==Poisson Distribution==
     
     > Overal thoughts
     
-    ![[Untitled 25 2.png|Untitled 25 2.png]]
+    ![Untitled 25 2.png](../../attachments/Untitled%2025%202.png)
     
-    ![[Untitled 26 2.png|Untitled 26 2.png]]
+    ![Untitled 26 2.png](../../attachments/Untitled%2026%202.png)
     
-    ![[Untitled 27 2.png|Untitled 27 2.png]]
+    ![Untitled 27 2.png](../../attachments/Untitled%2027%202.png)
     
 ---
 ### **Continuous RV, Quantile**
@@ -244,7 +244,7 @@ Last edited time: 2025-01-07T16:40
     
     > Overal thoughts.
     
-    ![[Untitled 28 2.png|Untitled 28 2.png]]
+    ![Untitled 28 2.png](../../attachments/Untitled%2028%202.png)
     
 - ==Quantile==
     
@@ -273,23 +273,23 @@ Last edited time: 2025-01-07T16:40
     
     > Overal thoughts.
     
-    ![[Untitled 29 2.png|Untitled 29 2.png]]
+    ![Untitled 29 2.png](../../attachments/Untitled%2029%202.png)
     
-    ![[Untitled 30 2.png|Untitled 30 2.png]]
+    ![Untitled 30 2.png](../../attachments/Untitled%2030%202.png)
     
-    ![[Untitled 31 2.png|Untitled 31 2.png]]
+    ![Untitled 31 2.png](../../attachments/Untitled%2031%202.png)
     
-    ![[Untitled 32 2.png|Untitled 32 2.png]]
+    ![Untitled 32 2.png](../../attachments/Untitled%2032%202.png)
     
 - ==Variance==
     
     > Overal thoughts
     
-    ![[Untitled 33 2.png|Untitled 33 2.png]]
+    ![Untitled 33 2.png](../../attachments/Untitled%2033%202.png)
     
-    ![[Untitled 34 2.png|Untitled 34 2.png]]
+    ![Untitled 34 2.png](../../attachments/Untitled%2034%202.png)
     
-    ![[Untitled 35 2.png|Untitled 35 2.png]]
+    ![Untitled 35 2.png](../../attachments/Untitled%2035%202.png)
     
 - ==Change of RV==
     
@@ -312,39 +312,39 @@ Last edited time: 2025-01-07T16:40
     
     > Overal thoughts
     
-    ![[Untitled 36 2.png|Untitled 36 2.png]]
+    ![Untitled 36 2.png](../../attachments/Untitled%2036%202.png)
     
-    ![[Untitled 37 2.png|Untitled 37 2.png]]
+    ![Untitled 37 2.png](../../attachments/Untitled%2037%202.png)
     
 - ==Linearity of Expectations==
     
     > Overal thoughts.
     
-    ![[Untitled 38 2.png|Untitled 38 2.png]]
+    ![Untitled 38 2.png](../../attachments/Untitled%2038%202.png)
     
 - ==Covariance==
     
     > Overal thoughts
     
-    ![[Untitled 39 2.png|Untitled 39 2.png]]
+    ![Untitled 39 2.png](../../attachments/Untitled%2039%202.png)
     
 - ==Uncorrelated==
     
     > Overal thoughts.
     
-    ![[Untitled 40 2.png|Untitled 40 2.png]]
+    ![Untitled 40 2.png](../../attachments/Untitled%2040%202.png)
     
 - ==Change of Units for Covariance==
     
     > Overal thoughts
     
-    ![[Untitled 41 2.png|Untitled 41 2.png]]
+    ![Untitled 41 2.png](../../attachments/Untitled%2041%202.png)
     
 - ==Bivariate normal probability density==
     
     > Overal thoughts.
     
-    ![[Untitled 42 2.png|Untitled 42 2.png]]
+    ![Untitled 42 2.png](../../attachments/Untitled%2042%202.png)
     
       
     
@@ -354,19 +354,19 @@ Last edited time: 2025-01-07T16:40
     
     > “A sample gets better the bigger it is” (better at approximating the theoretical
     
-    ![[Untitled 43 2.png|Untitled 43 2.png]]
+    ![Untitled 43 2.png](../../attachments/Untitled%2043%202.png)
     
 - ==Central Limit Theorem==
     
     > the mean of a sample is normally distributed, if the sample size tends to infinity
     
-    ![[Untitled 44 2.png|Untitled 44 2.png]]
+    ![Untitled 44 2.png](../../attachments/Untitled%2044%202.png)
     
 - ==Sum of normal RV==
     
     > Overal thoughts.
     
-    ![[Untitled 45 2.png|Untitled 45 2.png]]
+    ![Untitled 45 2.png](../../attachments/Untitled%2045%202.png)
     
 - ==Subtopic based off example problem==
     
@@ -409,25 +409,25 @@ Last edited time: 2025-01-07T16:40
     > The bias of an estimator is by how much the expectation of the estimator differs from the real parameter (in other words, does the estimator do a better job, for bigger samples?)  
     > Bias(T)=E[T] - $\theta$
     > 
-    > ![[Untitled 46 2.png|Untitled 46 2.png]]
+    > ![Untitled 46 2.png](../../attachments/Untitled%2046%202.png)
     > 
     > If you actually used the estimator on a sample, you would get an estimate, which is a realization of the estimator. (lowercase for realizations)
     > 
-    > ![[Untitled 47 2.png|Untitled 47 2.png]]
+    > ![Untitled 47 2.png](../../attachments/Untitled%2047%202.png)
     
 - Sampling Distribution
     
     > The value you end up with after getting an estimate of $\theta$, is denoted $\hat{\theta}$ (hats for estimates). If you use this parameter in the distribution family of the underlying distribution, you get the sampling distribution (basically your best attempt at the true underlying model distribution)
     
-    ![[Untitled 48 2.png|Untitled 48 2.png]]
+    ![Untitled 48 2.png](../../attachments/Untitled%2048%202.png)
     
 - Useful Unbiased Estimators (for mean and variance)
     
-    > ![[Untitled 49 2.png|Untitled 49 2.png]]
+    > ![Untitled 49 2.png](../../attachments/Untitled%2049%202.png)
     
 - Useful Biased Estimator (Sample Standard Deviation)
     
-    > ![[Untitled 50 2.png|Untitled 50 2.png]]
+    > ![Untitled 50 2.png](../../attachments/Untitled%2050%202.png)
     
 ---
 ### **Efficiency and Maximum likelihood**
@@ -435,23 +435,23 @@ Last edited time: 2025-01-07T16:40
     
     > lower MSE → more efficient
     
-    ![[Untitled 51 2.png|Untitled 51 2.png]]
+    ![Untitled 51 2.png](../../attachments/Untitled%2051%202.png)
     
-    ![[Untitled 52 2.png|Untitled 52 2.png]]
+    ![Untitled 52 2.png](../../attachments/Untitled%2052%202.png)
     
 - likelihood $L(\theta)$
     
     > The likelihood function returns the likelihood that a certain parameter is true for the underlying model distribution (it takes a sample)
     
-    ![[Untitled 53 2.png|Untitled 53 2.png]]
+    ![Untitled 53 2.png](../../attachments/Untitled%2053%202.png)
     
-    ![[Untitled 54 2.png|Untitled 54 2.png]]
+    ![Untitled 54 2.png](../../attachments/Untitled%2054%202.png)
     
 - log(likelihood) $l(\theta)$
     
     > The ln of the Likelihood function is a step in computing the maximum likelihood estimate. (over the range of the likelihood function, ln(x) is strictly increasing, so the maximum of L is also the maximum of ln, but much easier to compute)
     
-    ![[Untitled 55 2.png|Untitled 55 2.png]]
+    ![Untitled 55 2.png](../../attachments/Untitled%2055%202.png)
     
 - maximum likelihood estimate $\hat{\theta}$
     
@@ -460,7 +460,7 @@ Last edited time: 2025-01-07T16:40
     >   
     > The result is the an estimate of the underlying model distribution’s parameter $\theta$, with the maximum likelihood, given our sample.
     > 
-    > ![[Untitled 56 2.png|Untitled 56 2.png]]
+    > ![Untitled 56 2.png](../../attachments/Untitled%2056%202.png)
     
 ---
 ### receding hairline
@@ -468,59 +468,59 @@ Last edited time: 2025-01-07T16:40
     
     > A scatterplot takes a bivariate datasets and plots the points.
     
-    ![[Untitled 57 2.png|Untitled 57 2.png]]
+    ![Untitled 57 2.png](../../attachments/Untitled%2057%202.png)
     
 - ==Regression Model==
     
     > A regression model can be built from a bunch of samples, to predict future data.
     > 
-    > ![[Untitled 58 2.png|Untitled 58 2.png]]
+    > ![Untitled 58 2.png](../../attachments/Untitled%2058%202.png)
     > 
-    > ![[Untitled 59 2.png|Untitled 59 2.png]]
+    > ![Untitled 59 2.png](../../attachments/Untitled%2059%202.png)
     > 
     > - $\theta$ represents the parameters (constant, slope, inflexion) $\alpha, \beta, \gamma$
     > - $U_i, Y_i$ are RV’s (capitalised)
     > - E[U] = 0 (if it isn’t, the regression model fuction is not refined)
     > - Var[U] = $\sigma^2$ (No i, since it needs to be constant)
     
-    ![[Untitled 60 2.png|Untitled 60 2.png]]
+    ![Untitled 60 2.png](../../attachments/Untitled%2060%202.png)
     
 - Simple Linear Regression Model
     
     > A Linear Regression Model with a single explanatory variable
     > 
-    > ![[Untitled 61 2.png|Untitled 61 2.png]]
+    > ![Untitled 61 2.png](../../attachments/Untitled%2061%202.png)
     
-    ![[Untitled 62 2.png|Untitled 62 2.png]]
+    ![Untitled 62 2.png](../../attachments/Untitled%2062%202.png)
     
-    ![[Untitled 63 2.png|Untitled 63 2.png]]
+    ![Untitled 63 2.png](../../attachments/Untitled%2063%202.png)
     
 - ==Residual==
     
     > The ith residual is by how much the modelled response variable differs from the true value, at that x-value  
     > When building the model, minimise $\sum_ir_i^2$ (maximise the explanatory capability of your model)
     > 
-    > ![[Untitled 64.png]]
+    > ![Untitled 64.png](../../attachments/Untitled%2064.png)
     > 
-    > ![[Untitled 65.png]]
+    > ![Untitled 65.png](../../attachments/Untitled%2065.png)
     
 - ==Least Squares Solution==
     
     > Overal thoughts.
     > 
-    > ![[Untitled 66.png]]
+    > ![Untitled 66.png](../../attachments/Untitled%2066.png)
     > 
-    > ![[Untitled 67.png]]
+    > ![Untitled 67.png](../../attachments/Untitled%2067.png)
     > 
-    > ![[Untitled 68.png]]
+    > ![Untitled 68.png](../../attachments/Untitled%2068.png)
     
 - Constant Variance Required
     
     > The variance of the error U should stay constant
     > 
-    > ![[Untitled 69.png]]
+    > ![Untitled 69.png](../../attachments/Untitled%2069.png)
     > 
-    > ![[Untitled 70.png]]
+    > ![Untitled 70.png](../../attachments/Untitled%2070.png)
     
 - ==Link met likelihood==
     
@@ -538,17 +538,17 @@ Last edited time: 2025-01-07T16:40
     
     > Instead of having a single explanatory variable, we can have multiple
     
-    ![[Untitled 71.png]]
+    ![Untitled 71.png](../../attachments/Untitled%2071.png)
     
-    ![[Untitled 72.png]]
+    ![Untitled 72.png](../../attachments/Untitled%2072.png)
     
-    ![[Untitled 73.png]]
+    ![Untitled 73.png](../../attachments/Untitled%2073.png)
     
 - Reading Regression Model Outputs
     
     > r squared →
     > 
-    > ![[Untitled 74.png]]
+    > ![Untitled 74.png](../../attachments/Untitled%2074.png)
     
 - Coefficient of Determination R-squared ($R^2)$
     
@@ -558,21 +558,21 @@ Last edited time: 2025-01-07T16:40
     > $R^2 = \frac{\sum_{i=1}^n(\hat{y}_i-\bar{y}_1)^2}{\sum_{i=1}^n(y_1-\bar{y}_i)^2}=\frac{explained \space error}{all\space error}$  
     > Since a good model explains most error, the “unexplained error” numerator would be very little, resulting in an R-squared very close to 1. (say, 0.978)  
     > 
-    > ![[Untitled 75.png]]
+    > ![Untitled 75.png](../../attachments/Untitled%2075.png)
     > 
-    > ![[Untitled 76.png]]
+    > ![Untitled 76.png](../../attachments/Untitled%2076.png)
     > 
-    > ![[Untitled 77.png]]
+    > ![Untitled 77.png](../../attachments/Untitled%2077.png)
     
 - Categorical Variables
     
     > To use a categorical explanatory variable (WEEKDAY/SATURDAY/SUNDAY) you need to count the number of options, choose 1 as the default and the rest as variables
     > 
-    > ![[Untitled 78.png]]
+    > ![Untitled 78.png](../../attachments/Untitled%2078.png)
     > 
-    > ![[Untitled 79.png]]
+    > ![Untitled 79.png](../../attachments/Untitled%2079.png)
     > 
-    > ![[Untitled 80.png]]
+    > ![Untitled 80.png](../../attachments/Untitled%2080.png)
     
 ---
 ### Statistical Analysis; devise alternative models
@@ -584,7 +584,7 @@ Last edited time: 2025-01-07T16:40
     > 
     > $S^2_{P_1} + S^2_{P_2} = \sum\limits_{i \in P_1} (y_i - \overline{y}_{P_1})^2 + \sum\limits_{i \in P_2} (y_i - \overline{y}_{P_2})^2$
     > 
-    > ![[Untitled 81.png]]
+    > ![Untitled 81.png](../../attachments/Untitled%2081.png)
     > 
     > Meaning, minimise $S^2_{P_1} + S^2_{P_2}$ by maximising $\frac{|P_1| \cdot |P_2|}{|P|} \left( \overline{y}_{P_1} - \overline{y}_{P_2} \right)^2$
     
@@ -592,22 +592,22 @@ Last edited time: 2025-01-07T16:40
 ### ==$100\gamma$====%-==Confidence Interval ==of sample; is true mean prolly nearby here?==
 - Critical Value
     
-    > ![[Untitled 82.png]]
+    > ![Untitled 82.png](../../attachments/Untitled%2082.png)
     
     - be aware of twin/single tails when computing the critical value
         - At first i thought we should halve the significance level .05 to obtain the right tail probability .025, before looking up the critical value for such a probability.  
             The reason why we should not do this, is because H1 states mu greater than 84, not ≠, so it only has one tail  
             
-            ![[Untitled 83.png]]
+            ![Untitled 83.png](../../attachments/Untitled%2083.png)
             
-            ![[Untitled 84.png]]
+            ![Untitled 84.png](../../attachments/Untitled%2084.png)
             
 - Confidence Interval for True Mean ==(computed using sample mean, distribution type, true/sample parameters)==
     
     > The 95% confidence interval can be calculated from a sample.  
     > It means that if you devise many confidence intervals from the same model distribution, around 95% of those intervals will include the true value of $\theta$ (theta represents the distribution parameter you are interested in)
     > 
-    > ![[Untitled 85.png]]
+    > ![Untitled 85.png](../../attachments/Untitled%2085.png)
     > 
     > It’s always the same format (==red for variance unknown==):  
     > Confidence Interval = Center $\pm$ Margin of Error
@@ -640,15 +640,15 @@ Last edited time: 2025-01-07T16:40
     > 4. $\frac{\bar{X}_n-\mu}{\frac{\bar{\sigma}}{\sqrt{n}}} \sim N(0, 1)$ or $\frac{\bar{X}_n-\mu}{\frac{\bar{{\bar{S}_n}}}{\sqrt{n}}} \sim T_{n-1, \alpha/2}$  
     >     ==Standardizing or Studentizing to allow usage of z-table, t-table==
     > 
-    > ![[Untitled 86.png]]
+    > ![Untitled 86.png](../../attachments/Untitled%2086.png)
     > 
-    > ![[Untitled 87.png]]
+    > ![Untitled 87.png](../../attachments/Untitled%2087.png)
     > 
-    > ![[Untitled 88.png]]
+    > ![Untitled 88.png](../../attachments/Untitled%2088.png)
     > 
-    > ![[Untitled 89.png]]
+    > ![Untitled 89.png](../../attachments/Untitled%2089.png)
     > 
-    > ![[Untitled 90.png]]
+    > ![Untitled 90.png](../../attachments/Untitled%2090.png)
     
 - Confidence Interval for Proportion
     
@@ -667,21 +667,21 @@ Last edited time: 2025-01-07T16:40
     > 7. $\hat{p} - z_{\frac{\alpha}{2}} \sqrt{\frac{p(1 - p)}{n}} \leq p \leq \hat{p} + z_{\frac{\alpha}{2}} \sqrt{\frac{p(1 - p)}{n}}$
     > 8. $\left( \hat{p} - z_{\frac{\alpha}{2}} \sqrt{\frac{\hat{p}(1 - \hat{p})}{n}}, \hat{p} + z_{\frac{\alpha}{2}} \sqrt{\frac{\hat{p}(1 - \hat{p})}{n}} \right)$
     > 
-    > ![[Untitled 91.png]]
+    > ![Untitled 91.png](../../attachments/Untitled%2091.png)
     
 - Fixed width → minimum sample size
     
     > The width of the confidence interval is 2 * Margin of Error MoE
     > 
-    > ![[Untitled 92.png]]
+    > ![Untitled 92.png](../../attachments/Untitled%2092.png)
     
 - Proportion of Success
     
     > This is what the middle of the interval is called.
     
-    ![[Untitled 93.png]]
+    ![Untitled 93.png](../../attachments/Untitled%2093.png)
     
-    ![[Untitled 94.png]]
+    ![Untitled 94.png](../../attachments/Untitled%2094.png)
     
 ---
 ### Hypothesis testing; $H_0$ vs $H_1$
@@ -689,7 +689,7 @@ Last edited time: 2025-01-07T16:40
     
     > In regression modelling, $H_0$ represents that there is no correlation between the explanatory variables and the response variable.
     > 
-    > ![[Untitled 95.png]]
+    > ![Untitled 95.png](../../attachments/Untitled%2095.png)
     
 - Test Statistic T
     
@@ -708,7 +708,7 @@ Last edited time: 2025-01-07T16:40
     
     > Here, the expectation of M, which takes the minimum of an exponential function, is 1/10lambda, therefore rejecting an M too large, is rejecting a lambda too small
     > 
-    > ![[Untitled 96.png]]
+    > ![Untitled 96.png](../../attachments/Untitled%2096.png)
     
 - p-value
     
@@ -717,13 +717,13 @@ Last edited time: 2025-01-07T16:40
     > p-value $\leq \alpha$ → reject $H_0$  
     > p-value $> \alpha$ → keep $H_0$
     > 
-    > ![[Untitled 97.png]]
+    > ![Untitled 97.png](../../attachments/Untitled%2097.png)
     
 - Deciding what direction p-value is. (when asymmetrical, unknown distribution)
     
     > Decide which direction represents p-value, by computation rather than visual reasoning (single-tail H₁):
     > 
-    > ![[Untitled 98.png]]
+    > ![Untitled 98.png](../../attachments/Untitled%2098.png)
     > 
     > The p-value is the probability of an observation as least as extreme as ours. (The confusing part is the meaning of " extreme ")
     > 
@@ -748,7 +748,7 @@ Last edited time: 2025-01-07T16:40
     >   
     > The critical region is the set of values for the Test Statistic T for which we reject $H_o$ in favour of $H_1$
     
-    ![[Untitled 99.png]]
+    ![Untitled 99.png](../../attachments/Untitled%2099.png)
     
 ---
 ### T-test; the value we compare with c to keep/reject $H_0$
@@ -780,7 +780,7 @@ Last edited time: 2025-01-07T16:40
     > Compute $h(x_1^*, ..., x_n^*)$ for each of those bootstrap samples.  
     > The histogram of these $h^*$s will approximate the underlying true $h(X_1, ..., X_n)$.
     > 
-    > ![[Untitled 100.png]]
+    > ![Untitled 100.png](../../attachments/Untitled%20100.png)
     
 - ==KS distance,== $t_{KS}$ ==of form== ==$T_{KS}$==
     
@@ -795,21 +795,21 @@ Last edited time: 2025-01-07T16:40
 #### incoherent ramblings
 |When|Key Word|Volume|
 |---|---|---|
-|01|[[Intro, Data Summary, Probability Space]]|48|
-|02|[[Conditional Probability, Bayes Rule]]|177|
-|03|[[Independent, Random, Distribution]]||
-|04|[[Continuous RV, Quantile]]||
-|05|[[Expectation, variance and change of variable]]||
-|06|[[Joint distributions]]||
-|07|[[Independence, covariance and correlation]]||
-|08|[[Law of Large Numbers and Central Limit Theorem]]||
-|09|[[Statistical model, Estimation]]||
-|10|[[notes/Y1Q4_Probability Theory and Statistics/incoherent ramblings/Main Topics/Main Topics\|Main Topics]]||
-|11|[[receding hairline]]||
-|12|[[receding hairline part 2]]||
-|12.5|[[Revision Module 3]]||
-|13|[[Statistical Analysis]]||
-|14|[[Confidence Intervala]]||
-|15|[[Hypothesis Testing]]||
-|16|[[T test]]||
-|17|[[Bootstrap]]||
+|01|[Intro, Data Summary, Probability Space](incoherent%20ramblings/Intro,%20Data%20Summary,%20Probability%20Space.md)|48|
+|02|[Conditional Probability, Bayes Rule](incoherent%20ramblings/Conditional%20Probability,%20Bayes%20Rule.md)|177|
+|03|[Independent, Random, Distribution](incoherent%20ramblings/Independent,%20Random,%20Distribution.md)||
+|04|[Continuous RV, Quantile](incoherent%20ramblings/Continuous%20RV,%20Quantile.md)||
+|05|[Expectation, variance and change of variable](incoherent%20ramblings/Expectation,%20variance%20and%20change%20of%20variable.md)||
+|06|[Joint distributions](incoherent%20ramblings/Joint%20distributions.md)||
+|07|[Independence, covariance and correlation](incoherent%20ramblings/Independence,%20covariance%20and%20correlation.md)||
+|08|[Law of Large Numbers and Central Limit Theorem](incoherent%20ramblings/Law%20of%20Large%20Numbers%20and%20Central%20Limit%20Theorem.md)||
+|09|[Statistical model, Estimation](incoherent%20ramblings/Statistical%20model,%20Estimation.md)||
+|10|[Main Topics](incoherent%20ramblings/Main%20Topics/Main%20Topics.md)||
+|11|[receding hairline](incoherent%20ramblings/receding%20hairline/receding%20hairline.md)||
+|12|[receding hairline part 2](incoherent%20ramblings/receding%20hairline%20part%202/receding%20hairline%20part%202.md)||
+|12.5|[Revision Module 3](incoherent%20ramblings/Revision%20Module%203/Revision%20Module%203.md)||
+|13|[Statistical Analysis](incoherent%20ramblings/Statistical%20Analysis.md)||
+|14|[Confidence Intervala](incoherent%20ramblings/Confidence%20Intervala.md)||
+|15|[Hypothesis Testing](incoherent%20ramblings/Hypothesis%20Testing.md)||
+|16|[T test](incoherent%20ramblings/T%20test/T%20test.md)||
+|17|[Bootstrap](incoherent%20ramblings/Bootstrap.md)||

@@ -1,6 +1,6 @@
 **What is the difference between data and information?**
 
-![The data-information-knowledge-wisdom (DIKW) hierarchy as a pyramid to... |  Download Scientific Diagram](Exported%20image%2020241209225222-0.png)  
+![The data-information-knowledge-wisdom (DIKW) hierarchy as a pyramid to... |  Download Scientific Diagram](../../../attachments/Exported%20image%2020241209225222-0.png)  
 
 Data lacks the necessary context to make it focused on a specific topic.
  
@@ -15,7 +15,7 @@ The relational model is an approach to manage data, such that tuples are grouped
  
 **Schemas:**
 
-![What is a Database Schema and Why Does it Matter?](Exported%20image%2020241209225223-1.png)  
+![What is a Database Schema and Why Does it Matter?](../../../attachments/Exported%20image%2020241209225223-1.png)  
 
 **graphic on the differences between conceptual, logical and physical model designs**
  

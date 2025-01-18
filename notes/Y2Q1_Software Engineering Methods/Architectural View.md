@@ -13,16 +13,16 @@ If you were to try and put all information about your architectural design in a 
 
 System scope, responsibilities, and externals (API).
 
-[[C4 Context Diagram]]
+[C4 Context Diagram](C4%20Context%20Diagram.md)
 ### Functional
 
-[[UML Component Diagram]]
-[[UML Sequence Diagram]]
+[UML Component Diagram](UML%20Component%20Diagram.md)
+[UML Sequence Diagram](UML%20Sequence%20Diagram.md)
 ### Informational
 - Storage, manipulation, management, and distribution of information.
-[[UML Activity Diagram]]
-[[UML Class Diagram]]
-[[UML ERD]]
+[UML Activity Diagram](UML%20Activity%20Diagram.md)
+[UML Class Diagram](UML%20Class%20Diagram.md)
+[UML ERD](UML%20ERD.md)
 
 ### Concurrency
 

@@ -98,7 +98,7 @@ URLs
 - tells exactly how to fetch resource from precise, fixed location
 - Almost every URI is a URL
 
-![Exported image](Exported%20image%2020241209225252-0.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225252-0.png)  
 
 URL composition:
 
@@ -134,7 +134,7 @@ HTTP Transactions
     - response result (sent from server back to client)
 - formatted blocks of data, HTTP messages
 
-![Exported image](Exported%20image%2020241209225253-1.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225253-1.png)  
 
 HTTP Methods
 
@@ -197,7 +197,7 @@ Status Codes
 HTTP Messages
 
 - simple, line-oriented sequences of characters. plain text
-![Exported image](Exported%20image%2020241209225253-2.png)
+![Exported image](../../../attachments/Exported%20image%2020241209225253-2.png)
  
 HTTP Messages Composition:  
 Start line
@@ -219,7 +219,7 @@ Body
 - optional message body
 - may contain any sort of data
 - arbitrary binary data (images, videos), text, etc.
- ![Exported image](Exported%20image%2020241209225254-3.png)  
+ ![Exported image](../../../attachments/Exported%20image%2020241209225254-3.png)  
 
 HTTP/1.0 = HTTP version number  
 /tools.html = local resource  
@@ -242,7 +242,7 @@ TCP provides
 - error-free data transportation
 - in-order delivery
 - unsegmented data stream (can dribble out data in any size any time)
- ![Exported image](Exported%20image%2020241209225257-4.png)  
+ ![Exported image](../../../attachments/Exported%20image%2020241209225257-4.png)  
 
 IP Addresses & Port Numbers
 
@@ -283,7 +283,7 @@ Telnet
 - can talk directly to HTTP web servers - Look up IP address of website and open TCP connection port 80
 - Type in HTTP request
 - Server sends back content in HTTP response and closes connection
- ![Exported image](Exported%20image%2020241209225258-5.png)   
+ ![Exported image](../../../attachments/Exported%20image%2020241209225258-5.png)   
 ////////
  
 HTTP Protocol Versions
@@ -341,10 +341,10 @@ Curl
  
 "curl -I dexter.kplabs.in/partial.txt"
 
-![Exported image](Exported%20image%2020241209225258-6.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225258-6.png)  
 
 Accept-Ranges: able to be manipulated, for 'partial GET requests'
- ![Exported image](Exported%20image%2020241209225259-7.png)  
+ ![Exported image](../../../attachments/Exported%20image%2020241209225259-7.png)  
 
 GET /partial.txt HTTP/1.1  
 Host: dexter.kplabs.in  
@@ -361,13 +361,13 @@ HTTP conditional GET requests
  
 In curl:
 
-![Exported image](Exported%20image%2020241209225259-8.png)
+![Exported image](../../../attachments/Exported%20image%2020241209225259-8.png)
 
 (otherwise, browser will grab cached page?)
  
 Returns "304 Not Modified"
 
-![Exported image](Exported%20image%2020241209225300-9.png)   
+![Exported image](../../../attachments/Exported%20image%2020241209225300-9.png)   
 POST request
 
 - Send input data to server
@@ -384,6 +384,6 @@ OPTIONS request
 
 - requests permitted communication options
 
-![Exported image](Exported%20image%2020241209225300-10.png)
+![Exported image](../../../attachments/Exported%20image%2020241209225300-10.png)
 
 May return 405 Not Allowed

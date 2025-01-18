@@ -6,19 +6,19 @@ Topic: History
 Week Number: 1.1
 ---
 # Missed Slides (Temporary, process this)
-![[Untitled 118.png|Untitled 118.png]]
-![[Untitled 1 19.png|Untitled 1 19.png]]
-![[Untitled 2 18.png|Untitled 2 18.png]]
-![[Untitled 3 14.png|Untitled 3 14.png]]
-![[Untitled 4 13.png|Untitled 4 13.png]]
-![[Untitled 5 13.png|Untitled 5 13.png]]
-![[Untitled 6 13.png|Untitled 6 13.png]]
-![[Untitled 7 13.png|Untitled 7 13.png]]
+![Untitled 118.png](../../../../attachments/Untitled%20118.png)
+![Untitled 1 19.png](../../../../attachments/Untitled%201%2019.png)
+![Untitled 2 18.png](../../../../attachments/Untitled%202%2018.png)
+![Untitled 3 14.png](../../../../attachments/Untitled%203%2014.png)
+![Untitled 4 13.png](../../../../attachments/Untitled%204%2013.png)
+![Untitled 5 13.png](../../../../attachments/Untitled%205%2013.png)
+![Untitled 6 13.png](../../../../attachments/Untitled%206%2013.png)
+![Untitled 7 13.png](../../../../attachments/Untitled%207%2013.png)
 Slide Comments
 Relating what we know with what we don’t know → We all have computers with processors, memory, storage
   
 # Course Overview
-![[Untitled 8 11.png|Untitled 8 11.png]]
+![Untitled 8 11.png](../../../../attachments/Untitled%208%2011.png)
 # Weekly Workflow
 Lecture
 |   |   |   |   |   |   |   |

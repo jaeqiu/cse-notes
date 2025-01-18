@@ -20,7 +20,7 @@ D_on't steal my block._
 **Steal**: A page modified can be flushed before the transaction is committed. Useful when having a lot of transactions to make space in buffer. _**(Interesting exam questions with steal.)**_
 - Another transaction can steal its place in the buffer.
 - Disk can have partial transactions, which could be undone.
-![[Untitled 127.png|Untitled 127.png]]
+![Untitled 127.png](../../../../attachments/Untitled%20127.png)
 ---
 # Processing transactions
 For efficiency reasons we want to write sequentially.  

@@ -5,7 +5,7 @@ Course Timing: Y1Q4
 Course Status: completed
 Last edited time: 2024-09-20T20:35
 ---
-![[Untitled 8.png|Untitled 8.png]]
+![Untitled 8.png](../../attachments/Untitled%208.png)
 # Specification-based Test
 ## Specification-based Test
 
@@ -34,9 +34,9 @@ Last edited time: 2024-09-20T20:35
 > [!important]
 - what goes in place of the numbers (#)?
     
-    ![[Untitled 1 2.png|Untitled 1 2.png]]
+    ![Untitled 1 2.png](../../attachments/Untitled%201%202.png)
     
-    ![[Untitled 2 2.png|Untitled 2 2.png]]
+    ![Untitled 2 2.png](../../attachments/Untitled%202%202.png)
     
 # Writing Larger Tests
 
@@ -100,7 +100,7 @@ Last edited time: 2024-09-20T20:35
 >     
 >     > Transitioning from an ice-cream cone anti-pattern to a testing pyramid
 >     
->     ![[Untitled 3 2.png|Untitled 3 2.png]]
+>     ![Untitled 3 2.png](../../attachments/Untitled%203%202.png)
 >     
 ---
 
@@ -186,9 +186,9 @@ Last edited time: 2024-09-20T20:35
 >     >   
 >     >   
 >     > 
->     > ![[Untitled 4 2.png|Untitled 4 2.png]]
+>     > ![Untitled 4 2.png](../../attachments/Untitled%204%202.png)
 >     > 
->     > ![[Untitled 5 2.png|Untitled 5 2.png]]
+>     > ![Untitled 5 2.png](../../attachments/Untitled%205%202.png)
 >     
 >       
 >     
@@ -392,7 +392,7 @@ Last edited time: 2024-09-20T20:35
     >   
     > For classes that depend, allow for dependency injection by making the external dependency instances a class field, allowing them to be passed through the constructor of the class.  
     > 
-    > ![[Untitled 6 2.png|Untitled 6 2.png]]
+    > ![Untitled 6 2.png](../../attachments/Untitled%206%202.png)
     > 
     >   
     > 
@@ -413,7 +413,7 @@ Last edited time: 2024-09-20T20:35
 ---
 - TDD cycle
     
-    ![[Untitled 7 2.png|Untitled 7 2.png]]
+    ![Untitled 7 2.png](../../attachments/Untitled%207%202.png)
     
     1. ==Refactor Production Code (Polish Bare minimum)==
     2. Write Test Code
@@ -421,7 +421,7 @@ Last edited time: 2024-09-20T20:35
     4. Adapt Production Code (bare minimum to pass)
     5. ==Test Passes==
     
-    ![[Untitled 2 2.png|Untitled 2 2.png]]
+    ![Untitled 2 2.png](../../attachments/Untitled%202%202.png)
     
 - TDD glazing
     

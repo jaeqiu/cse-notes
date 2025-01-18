@@ -1,10 +1,10 @@
-[[goofy]]
+[goofy](goofy/goofy.md)
 
 > [!info] Download PDF view of the file DFoC v2.0.1.pdf  
 > Return to view details about Delftse Foundations of Computation 2nd Edition DFoC v2.  
 > [https://textbooks.open.tudelft.nl/textbooks/catalog/view/53/144/370-1](https://textbooks.open.tudelft.nl/textbooks/catalog/view/53/144/370-1)  
 [Solutions](https://drive.google.com/file/d/1q9snsXSHzG4ZSZqNI-hlxc_9rBedymYN/view?usp=share_link)
-![[Untitled 129.png|Untitled 129.png]]
+![Untitled 129.png](../../../../attachments/Untitled%20129.png)
 - explanation
     
     just invert it
@@ -21,7 +21,7 @@
     
   
 TU DELFT HIERARCHY (zelf aangepast)
-![[Untitled 1 24.png|Untitled 1 24.png]]
-![[Untitled 2 20.png|Untitled 2 20.png]]
-![[Untitled 3 16.png|Untitled 3 16.png]]
-![[Untitled 4 15.png|Untitled 4 15.png]]
+![Untitled 1 24.png](../../../../attachments/Untitled%201%2024.png)
+![Untitled 2 20.png](../../../../attachments/Untitled%202%2020.png)
+![Untitled 3 16.png](../../../../attachments/Untitled%203%2016.png)
+![Untitled 4 15.png](../../../../attachments/Untitled%204%2015.png)

@@ -3,7 +3,7 @@ Sorting, how fast can we go?
 We usually use upper-bound Big-O, because we're interested in the maximum time of algorithm
  
 Lower bound of sorting, Big-Omega
- ![Exported image](Exported%20image%2020241209225402-0.png)  
+ ![Exported image](../../../attachments/Exported%20image%2020241209225402-0.png)  
 
 Can we design sorting algorithms faster than O(n log n)?
    
@@ -19,7 +19,7 @@ Only count comparisons for lower bound Omega on worst-case
 - Comparing xi and xj has 2 outcomes, YES or NO
  
 We can represent comparison-based sorting algorithm with binary decision tree T
- ![Exported image](Exported%20image%2020241209225402-1.png)  
+ ![Exported image](../../../attachments/Exported%20image%2020241209225402-1.png)  
 
 - Each possible run of the algorithm corresponds to a root-to-leaf path in T
 - Minimum, worst-case running time is equal to height h of T
@@ -27,13 +27,13 @@ We can represent comparison-based sorting algorithm with binary decision tree T
  
 - Running time of comparison-based sorting is at least equal to height h of T (minimum)
 - Each leaf in T denotes the sequence of comparisons for at most one permutation of S
-![Exported image](Exported%20image%2020241209225402-2.png)- Conversely, each permutation of S must result in a different leaf of T
+![Exported image](../../../attachments/Exported%20image%2020241209225402-2.png)- Conversely, each permutation of S must result in a different leaf of T
  
 Gives number of permutations: n!
  
 Since at least n/2 terms in n! are greater/equal to n/2:
 
-![Exported image](Exported%20image%2020241209225403-3.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225403-3.png)  
 
 Can we go faster?
    
@@ -53,7 +53,7 @@ Applications:
 
 - sort string by first letter
 - sort phone numbers by area code
- ![Exported image](Exported%20image%2020241209225403-4.png)
+ ![Exported image](../../../attachments/Exported%20image%2020241209225403-4.png)
 
 (buckets behave like queues)
  
@@ -100,13 +100,13 @@ Properties of Bucket Sort
 - Stable sorting
     
     - Preserves relative order of any two items with same key
-![Exported image](Exported%20image%2020241209225407-5.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225407-5.png)  
  
 Why is stable sorting relevant?
 
 - when sorting based on multiple criteria
 
-![Exported image](Exported%20image%2020241209225408-6.png)   
+![Exported image](../../../attachments/Exported%20image%2020241209225408-6.png)   
 /////////
  
 Bucket Sort is limited in applicability  
@@ -139,7 +139,7 @@ Example: airport codes
 key length d = 3  
 radix N = 26 (alphabet)  
 n = 5 (in real application n >> N)
- ![Exported image](Exported%20image%2020241209225408-7.png)  
+ ![Exported image](../../../attachments/Exported%20image%2020241209225408-7.png)  
 
 Time complexity:  
 Bucket sort applied d times  
@@ -151,7 +151,7 @@ Radix Sort (Most Significant Digit)
 
 - Only works if we apply bucket sort recursively within each bucket formed in previous iteration
 
-![Exported image](Exported%20image%2020241209225409-8.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225409-8.png)  
 
 - Works with keys of different length
 - Can be faster than LSD, since it may not need to process all elementary keys
@@ -161,7 +161,7 @@ Radix Sort (Most Significant Digit)
    
 
 /////////
- ![Exported image](Exported%20image%2020241209225409-9.png)   
+ ![Exported image](../../../attachments/Exported%20image%2020241209225409-9.png)   
 //////////
  
 Selection Problem:  
@@ -213,12 +213,12 @@ return quickSelect(R, k - |L| - |E|)
  
 Difference with quick sort: at most one recursive call
 
-![Exported image](Exported%20image%2020241209225410-10.png)   
+![Exported image](../../../attachments/Exported%20image%2020241209225410-10.png)   
 Best case:  
 Pivot choice always results in equally sized partitions (~1/2)  
 Number of comparisons =
 
-![Exported image](Exported%20image%2020241209225410-11.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225410-11.png)  
 
 Time O(n)  
 Space O(log n) in-place, given by height of recursion tree
@@ -237,5 +237,5 @@ Random pivot choice results in
 
 For the upper bound, we recur on the largest partition (size at most 3/4)
 
-![Exported image](Exported%20image%2020241209225414-12.png)  
-![Exported image](Exported%20image%2020241209225415-13.png)
+![Exported image](../../../attachments/Exported%20image%2020241209225414-12.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225415-13.png)

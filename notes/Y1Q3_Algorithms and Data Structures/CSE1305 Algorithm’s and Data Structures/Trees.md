@@ -1,6 +1,6 @@
 **Traversal Order of Trees**
 
-![Exported image](Exported%20image%2020241209225318-0.png)
+![Exported image](../../../attachments/Exported%20image%2020241209225318-0.png)
 
 there are several traversals, each has its own purpose:  
 **Pre-order (depth-first) traversal**  
@@ -27,7 +27,7 @@ note that one or none children is still allowed in a binary tree.
 **Representations / Implementations of a Tree**  
 **Linked Tree Implementation**
 
-![Exported image](Exported%20image%2020241209225319-1.png)
+![Exported image](../../../attachments/Exported%20image%2020241209225319-1.png)
 
 This implementation is generally recommended.
  - O(n) space complexity (size of the tree n)
@@ -35,7 +35,7 @@ This implementation is generally recommended.
 
 **Array-based Binary Tree Implementation**
 
-![Exported image](Exported%20image%2020241209225320-2.png)
+![Exported image](../../../attachments/Exported%20image%2020241209225320-2.png)
 
 This implementation of a tree is efficient when specific operations are performed￼
 

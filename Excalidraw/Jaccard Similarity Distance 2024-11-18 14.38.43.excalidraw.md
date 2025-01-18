@@ -14,7 +14,7 @@ tags: [excalidraw]
 ∪ ^VFC0Xyjy
 
 ## Embedded Files
-da0c6122045fc6df3c77c6bd68a0511f30bf1cc0: [[image_2.png]]
+da0c6122045fc6df3c77c6bd68a0511f30bf1cc0: [image\_2.png](../attachments/image_2.png)
 
 %%
 ## Drawing

@@ -7,7 +7,7 @@
     
     - Use the cost models, refer to
     
-    [[Operators Implementation]]
+    [Operators Implementation](Operators%20Implementation.md)
     
 - Choose an operator tree
     - Use cheapest option

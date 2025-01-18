@@ -1,4 +1,4 @@
-![[Pasted image 20241023143041.png|300]]
+![300](../../attachments/Pasted%20image%2020241023143041.png)
 Generative classifiers can generate new data, and discriminate classes in the feature space
 
 ##### multivariate gaussian distribution: common, few parameters
@@ -17,11 +17,11 @@ Maximum likelihood estimators for mean and covariance
 	    average of symmetric square matrix based on distance to mean
 
 Covariance Matrix:
-![[Pasted image 20241107034559.png]]
+![Pasted image 20241107034559.png](../../attachments/Pasted%20image%2020241107034559.png)
 
 
-![[Pasted image 20241023143132.png|200]]
-[[Linear Generative Classifier]]:
+![200](../../attachments/Pasted%20image%2020241023143132.png)
+[Linear Generative Classifier](Linear%20Generative%20Classifier.md):
 	These classifiers use linear decision boundaries
-[[Non-linear Generative Classifier]]:
+[Non-linear Generative Classifier](Non-linear%20Generative%20Classifier.md):
 	These classifiers don't use linear decision boundaries

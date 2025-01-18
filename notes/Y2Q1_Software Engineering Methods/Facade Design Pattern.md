@@ -1,1 +1,1 @@
-**Facade:** Provides a simplified interface to a complex library/framework, enhancing the interface of the wrapped object.![[Pasted image 20241103110130.png]]![[Pasted image 20241103110140.png]]
+**Facade:** Provides a simplified interface to a complex library/framework, enhancing the interface of the wrapped object.![Pasted image 20241103110130.png](../../attachments/Pasted%20image%2020241103110130.png)![Pasted image 20241103110140.png](../../attachments/Pasted%20image%2020241103110140.png)

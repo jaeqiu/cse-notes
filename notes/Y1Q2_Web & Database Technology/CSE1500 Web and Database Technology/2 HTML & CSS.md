@@ -16,7 +16,7 @@ Markup Language:
 - always in <head> element
 - author name, keywords, charset, viewport, etc.
 
-![Exported image](Exported%20image%2020241209225305-0.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225305-0.png)  
 
 Header tags
 
@@ -69,7 +69,7 @@ attribute
 ////////////
  
 Nested List
- ![Exported image](Exported%20image%2020241209225305-1.png)  
+ ![Exported image](../../../attachments/Exported%20image%2020241209225305-1.png)  
 
 <ul> = unordered list  
 <ol> = ordered list
@@ -96,7 +96,7 @@ Other attributes
  
 <img>
 
-![Exported image](Exported%20image%2020241209225306-2.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225306-2.png)  
 
 src = source of image  
 alt = alt text (accessability)  
@@ -125,7 +125,7 @@ _framename_
    
 
 /////////
- ![Exported image](Exported%20image%2020241209225306-3.png)   
+ ![Exported image](../../../attachments/Exported%20image%2020241209225306-3.png)   
 //////////
  
 A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).

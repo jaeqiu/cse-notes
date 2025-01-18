@@ -13,7 +13,7 @@ Last edited time: 2024-09-20T20:35
 >     
 >     - **Echelon Form**
 >         
->         ![[Untitled 104.png|Untitled 104.png]]
+>         ![Untitled 104.png](../../attachments/Untitled%20104.png)
 >         
 >         For a matrix to be in row echelon form, it must suffice the following properties:
 >         
@@ -25,7 +25,7 @@ Last edited time: 2024-09-20T20:35
 >         
 >     - **Reduced Row Echelon Form**
 >         
->         ![[Untitled 1 9.png|Untitled 1 9.png]]
+>         ![Untitled 1 9.png](../../attachments/Untitled%201%209.png)
 >         
 >         For a matrix to be in reduced row echelon form, it must follow along the following properties:
 >         
@@ -35,7 +35,7 @@ Last edited time: 2024-09-20T20:35
 >         
 >         This is unique, every matrix has a unique reduced row echelon form.
 >         
->         ![[Untitled 2 9.png|Untitled 2 9.png]]
+>         ![Untitled 2 9.png](../../attachments/Untitled%202%209.png)
 >         
 >     - **Gaussian Elimination**
 >         
@@ -65,7 +65,7 @@ Last edited time: 2024-09-20T20:35
 >         - Reduce from r e f to r r e f.
 >     - **Coefficient Matrix vs Augmented Matrix**
 >         
->         ![[Untitled 3 9.png|Untitled 3 9.png]]
+>         ![Untitled 3 9.png](../../attachments/Untitled%203%209.png)
 >         
 >         The coefficient matrix consists of the coefficients of the unknowns in the system of equations, while the augmented matrix is the coefficient matrix appended with a column of constants from the right side of the equation.
 >         
@@ -82,7 +82,7 @@ Last edited time: 2024-09-20T20:35
 >         terms of such free variables?  
 >         
 >     
->     ![[Untitled 4 9.png|Untitled 4 9.png]]
+>     ![Untitled 4 9.png](../../attachments/Untitled%204%209.png)
 >     
 > - Span
 >     
@@ -107,38 +107,38 @@ Last edited time: 2024-09-20T20:35
 >         
 >         A vector equation looks like this.
 >         
->         ![[Untitled 5 9.png|Untitled 5 9.png]]
+>         ![Untitled 5 9.png](../../attachments/Untitled%205%209.png)
 >         
 >         corresponding to the linear system:
 >         
->         ![[Untitled 6 9.png|Untitled 6 9.png]]
+>         ![Untitled 6 9.png](../../attachments/Untitled%206%209.png)
 >         
 >         A vector can have n entries, denoted as such
 >         
->         ![[Untitled 7 9.png|Untitled 7 9.png]]
+>         ![Untitled 7 9.png](../../attachments/Untitled%207%209.png)
 >         
 >         since each entry represents a dimension, and we know, for example,  
 >         that a 3d coordinate belongs to R3, we can intuitively adopt that  
 >         
->         ![[Untitled 8 8.png|Untitled 8 8.png]]
+>         ![Untitled 8 8.png](../../attachments/Untitled%208%208.png)
 >         
 >     - Equality among vectors
 >         
->         ![[Untitled 9 7.png|Untitled 9 7.png]]
+>         ![Untitled 9 7.png](../../attachments/Untitled%209%207.png)
 >         
 >     - The Zero Vector
 >         
->         ![[Untitled 10 6.png|Untitled 10 6.png]]
+>         ![Untitled 10 6.png](../../attachments/Untitled%2010%206.png)
 >         
 >     - Vector operations
 >         
 >         ## addition
 >         
->         ![[Untitled 11 5.png|Untitled 11 5.png]]
+>         ![Untitled 11 5.png](../../attachments/Untitled%2011%205.png)
 >         
 >         ## scalarmultiplication
 >         
->         ![[Untitled 12 4.png|Untitled 12 4.png]]
+>         ![Untitled 12 4.png](../../attachments/Untitled%2012%204.png)
 >         
 > - Homogeneous, Solution Set
 >     - Homogenous, Solution Set
@@ -149,7 +149,7 @@ Last edited time: 2024-09-20T20:35
 >         
 >         A **homogeneous** linear system has an augmented matrix with strictly zeroes in the constants column. The constants are set to 0.
 >         
->         ![[Untitled 13 4.png|Untitled 13 4.png]]
+>         ![Untitled 13 4.png](../../attachments/Untitled%2013%204.png)
 >         
 >         ## Solutions
 >         
@@ -168,7 +168,7 @@ Last edited time: 2024-09-20T20:35
 >     
 >     linearly redundant == null space consists of more than just the zero vector (there are nontrivial solutions to the null space. There is a combination of our vectors that cancel each other out, at least one vector is redundant)
 >     
->     ![[Untitled 14 4.png|Untitled 14 4.png]]
+>     ![Untitled 14 4.png](../../attachments/Untitled%2014%204.png)
 >     
 >       
 >     
@@ -178,14 +178,14 @@ Last edited time: 2024-09-20T20:35
 >     >   
 >     > ”The solution set is the set of all vectors (x1 x2 x3) such that they are linear combination of (-8 5 0) and s(3 -2 1) for any s”  
 >     
->     ![[Untitled 15 4.png|Untitled 15 4.png]]
+>     ![Untitled 15 4.png](../../attachments/Untitled%2015%204.png)
 >     
 > - Matrix Transformation
 >     - Matrix Transformation
 >         
 >         A matrix transformation is a function T of the form T(x) = A x
 >         
->         ![[Untitled 16 4.png|Untitled 16 4.png]]
+>         ![Untitled 16 4.png](../../attachments/Untitled%2016%204.png)
 >         
 >     - shear transformation
 >         
@@ -202,15 +202,15 @@ Last edited time: 2024-09-20T20:35
 >         
 >     - Horizontal shear (parallel to the x-axis)
 >         
->         ![[Untitled 17 3.png|Untitled 17 3.png]]
+>         ![Untitled 17 3.png](../../attachments/Untitled%2017%203.png)
 >         
 >     - ## Vertical shear (parallel to the y-axis)
 >         
->         ![[Untitled 18 3.png|Untitled 18 3.png]]
+>         ![Untitled 18 3.png](../../attachments/Untitled%2018%203.png)
 >         
 >     - ## Rotation
 >         
->         ![[Untitled 19 3.png|Untitled 19 3.png]]
+>         ![Untitled 19 3.png](../../attachments/Untitled%2019%203.png)
 >         
 >     - Find matrix A from two  
 >         transformations  
@@ -232,11 +232,11 @@ Last edited time: 2024-09-20T20:35
 >     since the rows from A are the dimensions of the final anser and the  
 >     columns of B are the amount of columns that are processed)  
 >     
->     ![[Untitled 20 3.png|Untitled 20 3.png]]
+>     ![Untitled 20 3.png](../../attachments/Untitled%2020%203.png)
 >     
 > - AB Row-Column Rule
 >     
->     ![[Untitled 21 3.png|Untitled 21 3.png]]
+>     ![Untitled 21 3.png](../../attachments/Untitled%2021%203.png)
 >     
 > - Determinant 1
 >     
@@ -261,18 +261,18 @@ Last edited time: 2024-09-20T20:35
 >     Addition is only defined for matrices of the same m rows and n  
 >     columns.  
 >     
->     ![[Untitled 22 3.png|Untitled 22 3.png]]
+>     ![Untitled 22 3.png](../../attachments/Untitled%2022%203.png)
 >     
 >     # Scalar Multiplication  
 >       
 >     
->     ![[Untitled 23 3.png|Untitled 23 3.png]]
+>     ![Untitled 23 3.png](../../attachments/Untitled%2023%203.png)
 >     
 > - Matrix Vector Multiplication
 >     
 >     - what is the product of a matrix A and a vector x?
 >     
->     ![[Untitled 24 3.png|Untitled 24 3.png]]
+>     ![Untitled 24 3.png](../../attachments/Untitled%2024%203.png)
 >     
 >     - the matrix vector product of  
 >     the above is as such: - -5(5 1) -1 (-2 5) 5 (3 -5) = (-8 -35) - you can  
@@ -284,11 +284,11 @@ Last edited time: 2024-09-20T20:35
 >     to be a vector in Rn (in the above example, A is in the form 2x3, x is  
 >     in R3.  
 >     
->     ![[Untitled 25 3.png|Untitled 25 3.png]]
+>     ![Untitled 25 3.png](../../attachments/Untitled%2025%203.png)
 >     
 > - Powers of Matrix
 >     
->     ![[Untitled 26 3.png|Untitled 26 3.png]]
+>     ![Untitled 26 3.png](../../attachments/Untitled%2026%203.png)
 >     
 >     Since in a multiplication AB the  
 >     result has the amount of rows from A, the amount of columns from B, and  
@@ -313,7 +313,7 @@ Last edited time: 2024-09-20T20:35
 >     # The transpose A^T of a Matrix A is a matrix that has rows for  
 >     columns- and columns for rows in the original matrix A.  
 >     
->     ![[Untitled 27 3.png|Untitled 27 3.png]]
+>     ![Untitled 27 3.png](../../attachments/Untitled%2027%203.png)
 >     
 > - Inverse matrices
 >     
@@ -323,11 +323,11 @@ Last edited time: 2024-09-20T20:35
 >     
 >     An **inverse matrix** represents the transformation that a matrix needs to undergo to undo the previous transformation. This process involves flipping the diagonal and negating both poles. The inverse of a matrix is the determinant of the original matrix times a new matrix where the diagonal is flipped and the poles are negated.
 >     
->     ![[Untitled 28 3.png|Untitled 28 3.png]]
+>     ![Untitled 28 3.png](../../attachments/Untitled%2028%203.png)
 >     
 >     - _Note_: You can use the inverse matrix to solve a linear system, although inefficiently.
 >     
->     ![[Untitled 29 3.png|Untitled 29 3.png]]
+>     ![Untitled 29 3.png](../../attachments/Untitled%2029%203.png)
 >     
 >     - _Important_: There is no inverse **function** to matrix transformations that have a determinant of zero, since mapping a higher dimension into a lower dimension cannot be reversed cleanly.
 >     
@@ -411,48 +411,48 @@ Last edited time: 2024-09-20T20:35
 >     ### Determinant of n x n  
 >     matrix A  
 >     
->     ![[Untitled 30 3.png|Untitled 30 3.png]]
+>     ![Untitled 30 3.png](../../attachments/Untitled%2030%203.png)
 >     
 >       
 >     
 >     ## Triangular matrices
 >     
->     ![[Untitled 31 3.png|Untitled 31 3.png]]
+>     ![Untitled 31 3.png](../../attachments/Untitled%2031%203.png)
 >     
 >     ## Determinant vs elementary row operations  
 >       
 >     
->     ![[Untitled 32 3.png|Untitled 32 3.png]]
+>     ![Untitled 32 3.png](../../attachments/Untitled%2032%203.png)
 >     
->     ![[Untitled 33 3.png|Untitled 33 3.png]]
+>     ![Untitled 33 3.png](../../attachments/Untitled%2033%203.png)
 >     
 >     ## Determinants vs invertibility
 >     
->     ![[Untitled 34 3.png|Untitled 34 3.png]]
+>     ![Untitled 34 3.png](../../attachments/Untitled%2034%203.png)
 >     
->     ![[Untitled 35 3.png|Untitled 35 3.png]]
+>     ![Untitled 35 3.png](../../attachments/Untitled%2035%203.png)
 >     
 > - Eigen
 >     
 >     ## Eigenvalue _λ_, Eigenvector _x_
 >     
->     ![[Untitled 36 3.png|Untitled 36 3.png]]
+>     ![Untitled 36 3.png](../../attachments/Untitled%2036%203.png)
 >     
 >     ## Eigenspace _Eλ_ the geometric  
 >     multiplicity of an eigenvalue is equal to the dimension of its  
 >     eigenspace.  
 >     
->     ![[Untitled 37 3.png|Untitled 37 3.png]]
+>     ![Untitled 37 3.png](../../attachments/Untitled%2037%203.png)
 >     
 >     ## Eigenvalues,  
 >     Eigenvectors of a projection  
 >     
->     ![[Untitled 38 3.png|Untitled 38 3.png]]
+>     ![Untitled 38 3.png](../../attachments/Untitled%2038%203.png)
 >     
 >       
 >     #\#Characteristic equation  
 >     
->     ![[Untitled 39 3.png|Untitled 39 3.png]]
+>     ![Untitled 39 3.png](../../attachments/Untitled%2039%203.png)
 >     
 >       
 >     
@@ -468,7 +468,7 @@ Last edited time: 2024-09-20T20:35
 >     ## Algebraic multiplicity of  
 >     Eigenvalues  
 >     
->     ![[Untitled 40 3.png|Untitled 40 3.png]]
+>     ![Untitled 40 3.png](../../attachments/Untitled%2040%203.png)
 >     
 >     the geometric multiplicity of an  
 >     eigenvalue is equal to the dimension of its eigenspace.  
@@ -476,16 +476,16 @@ Last edited time: 2024-09-20T20:35
 >     ## Add to properties of a  
 >     square matrix  
 >     
->     ![[Untitled 41 3.png|Untitled 41 3.png]]
+>     ![Untitled 41 3.png](../../attachments/Untitled%2041%203.png)
 >     
 >       
 >     
 >     # Geometric multiplicity  
 >       
 >     
->     ![[Untitled 42 3.png|Untitled 42 3.png]]
+>     ![Untitled 42 3.png](../../attachments/Untitled%2042%203.png)
 >     
->     ![[Untitled 43 3.png|Untitled 43 3.png]]
+>     ![Untitled 43 3.png](../../attachments/Untitled%2043%203.png)
 >     
 > - Diagonalization
 >     
@@ -507,25 +507,25 @@ Last edited time: 2024-09-20T20:35
 >     
 >       
 >     
->     ![[Untitled 44 3.png|Untitled 44 3.png]]
+>     ![Untitled 44 3.png](../../attachments/Untitled%2044%203.png)
 >     
 >     # Second Diagonalization Theorem
 >     
->     ![[Untitled 45 3.png|Untitled 45 3.png]]
+>     ![Untitled 45 3.png](../../attachments/Untitled%2045%203.png)
 >     
 >     # Lecture
 >     
->     ![[Untitled 46 3.png|Untitled 46 3.png]]
+>     ![Untitled 46 3.png](../../attachments/Untitled%2046%203.png)
 >     
->     ![[Untitled 47 3.png|Untitled 47 3.png]]
+>     ![Untitled 47 3.png](../../attachments/Untitled%2047%203.png)
 >     
->     ![[Untitled 48 3.png|Untitled 48 3.png]]
+>     ![Untitled 48 3.png](../../attachments/Untitled%2048%203.png)
 >     
->     ![[Untitled 49 3.png|Untitled 49 3.png]]
+>     ![Untitled 49 3.png](../../attachments/Untitled%2049%203.png)
 >     
 >     # Example problem diagonalizability
 >     
->     ![[Untitled 50 3.png|Untitled 50 3.png]]
+>     ![Untitled 50 3.png](../../attachments/Untitled%2050%203.png)
 >     
 >     Find $\alpha$ such that the following matrix is diagonalizable.
 >     
@@ -564,27 +564,27 @@ Last edited time: 2024-09-20T20:35
 >     
 >     # Similarity
 >     
->     ![[Untitled 51 3.png|Untitled 51 3.png]]
+>     ![Untitled 51 3.png](../../attachments/Untitled%2051%203.png)
 >     
->     ![[Untitled 52 3.png|Untitled 52 3.png]]
+>     ![Untitled 52 3.png](../../attachments/Untitled%2052%203.png)
 >     
->     ![[Untitled 53 3.png|Untitled 53 3.png]]
+>     ![Untitled 53 3.png](../../attachments/Untitled%2053%203.png)
 >     
->     ![[Untitled 54 3.png|Untitled 54 3.png]]
+>     ![Untitled 54 3.png](../../attachments/Untitled%2054%203.png)
 >     
->     ![[Untitled 55 3.png|Untitled 55 3.png]]
+>     ![Untitled 55 3.png](../../attachments/Untitled%2055%203.png)
 >     
->     ![[Untitled 56 3.png|Untitled 56 3.png]]
+>     ![Untitled 56 3.png](../../attachments/Untitled%2056%203.png)
 >     
->     ![[Untitled 57 3.png|Untitled 57 3.png]]
+>     ![Untitled 57 3.png](../../attachments/Untitled%2057%203.png)
 >     
->     ![[Untitled 58 3.png|Untitled 58 3.png]]
+>     ![Untitled 58 3.png](../../attachments/Untitled%2058%203.png)
 >     
 > - Complex Eigenvalue
 >     
 >     # Complex Eigenvalue to Eigenvector, C=SR
 >     
->     ![[Untitled 59 3.png|Untitled 59 3.png]]
+>     ![Untitled 59 3.png](../../attachments/Untitled%2059%203.png)
 >     
 >     as usual, going from an eigenvalue to it’s eigenvector requires solving (A-\lambda I) x = 0. This also involves reducing the matrix (A- \lambda x) to echelon form. You should add a multiple of the nonimaginary pivot to the other entry to reduce to echelon form, for example: in the matrix
 >     
@@ -618,29 +618,29 @@ Last edited time: 2024-09-20T20:35
 >     
 >     $S=\begin{pmatrix} 2\sqrt{10} &0 \\ 0 & 2\sqrt{10} \end{pmatrix}$
 >     
->     ![[Untitled 60 3.png|Untitled 60 3.png]]
+>     ![Untitled 60 3.png](../../attachments/Untitled%2060%203.png)
 >     
 > - Discrete Dynamical System
 >     
->     ![[Untitled 61 3.png|Untitled 61 3.png]]
+>     ![Untitled 61 3.png](../../attachments/Untitled%2061%203.png)
 >     
->     ![[Untitled 62 3.png|Untitled 62 3.png]]
+>     ![Untitled 62 3.png](../../attachments/Untitled%2062%203.png)
 >     
->     ![[Untitled 63 3.png|Untitled 63 3.png]]
+>     ![Untitled 63 3.png](../../attachments/Untitled%2063%203.png)
 >     
->     ![[Untitled 64 2.png|Untitled 64 2.png]]
+>     ![Untitled 64 2.png](../../attachments/Untitled%2064%202.png)
 >     
->     ![[Untitled 65 2.png|Untitled 65 2.png]]
+>     ![Untitled 65 2.png](../../attachments/Untitled%2065%202.png)
 >     
->     ![[Untitled 66 2.png|Untitled 66 2.png]]
+>     ![Untitled 66 2.png](../../attachments/Untitled%2066%202.png)
 >     
->     ![[Untitled 67 2.png|Untitled 67 2.png]]
+>     ![Untitled 67 2.png](../../attachments/Untitled%2067%202.png)
 >     
->     ![[Untitled 68 2.png|Untitled 68 2.png]]
+>     ![Untitled 68 2.png](../../attachments/Untitled%2068%202.png)
 >     
->     ![[Untitled 69 2.png|Untitled 69 2.png]]
+>     ![Untitled 69 2.png](../../attachments/Untitled%2069%202.png)
 >     
->     ![[Untitled 70 2.png|Untitled 70 2.png]]
+>     ![Untitled 70 2.png](../../attachments/Untitled%2070%202.png)
 >     
 > - Inner product, Orthogonal Projection
 >     - Dot Product, Orthogonality
@@ -654,7 +654,7 @@ Last edited time: 2024-09-20T20:35
 >             
 >             > orthogonal == 90 degree angle
 >             > 
->             > ![[Untitled 71 2.png|Untitled 71 2.png]]
+>             > ![Untitled 71 2.png](../../attachments/Untitled%2071%202.png)
 >             > 
 >             > $\overrightarrow{x}$ is orthogonal to W if it is orthogonal to every basis of W; w
 >             
@@ -662,17 +662,17 @@ Last edited time: 2024-09-20T20:35
 >             
 >             > Orthogonal complement $W^\perp$= everything that is orthogonal to your current subspace
 >             > 
->             > ![[Untitled 72 2.png|Untitled 72 2.png]]
+>             > ![Untitled 72 2.png](../../attachments/Untitled%2072%202.png)
 >             > 
 >             > The orthogonal complement $\overrightarrow{W}$ of W is the set of vectors representing every dimension that W is orthogonal to.
 >             > 
->             > ![[Untitled 73 2.png|Untitled 73 2.png]]
+>             > ![Untitled 73 2.png](../../attachments/Untitled%2073%202.png)
 >             
 >             ## Fundamental matrix spaces
 >             
 >             > you need to know this fundamental property by heart
 >             > 
->             > ![[Untitled 74 2.png|Untitled 74 2.png]]
+>             > ![Untitled 74 2.png](../../attachments/Untitled%2074%202.png)
 >             > 
 >             > I don’t understand this yet, it was intuitive until the ^T, the orthogonal complement of a span of a matrix transformation is not just the null space, but the transpose thereof?
 >             
@@ -680,7 +680,7 @@ Last edited time: 2024-09-20T20:35
 >             
 >             > the sum of the dimension of a subspace W and it’s complement, is n(as in $R ^ n$, so all currently considered dimensions)
 >             
->             ![[Untitled 75 2.png|Untitled 75 2.png]]
+>             ![Untitled 75 2.png](../../attachments/Untitled%2075%202.png)
 >             
 >         - Orthogonal vs Orthonormal
 >             
@@ -688,24 +688,24 @@ Last edited time: 2024-09-20T20:35
 >             > 
 >             > orthonormal set = orthogonal set with only lengths 1
 >             > 
->             > ![[Untitled 76 2.png|Untitled 76 2.png]]
+>             > ![Untitled 76 2.png](../../attachments/Untitled%2076%202.png)
 >             > 
 >             > ## Coordinates in terms of orthogonal matrices
 >             > 
 >             > something special happens when your bases are orthogonal, and something even more special happens when they are orthonormal.
 >             > 
->             > ![[Untitled 77 2.png|Untitled 77 2.png]]
+>             > ![Untitled 77 2.png](../../attachments/Untitled%2077%202.png)
 >             > 
 >             > ## Orthogonal columns
 >             > 
->             > ![[Untitled 78 2.png|Untitled 78 2.png]]
+>             > ![Untitled 78 2.png](../../attachments/Untitled%2078%202.png)
 >             
 >         - Orthogonal Matrix extends Square Matrix
 >             
 >             > A square matrix is orthogonal if it has orthonormal columns (so UTU=I)  
 >             >   
 >             > 
->             > ![[Untitled 79 2.png|Untitled 79 2.png]]
+>             > ![Untitled 79 2.png](../../attachments/Untitled%2079%202.png)
 >             
 >             - $U^TU=I$ (Transpose = Inverse for orthogonal matrices)
 >     - Orthogonal Projections
@@ -715,7 +715,7 @@ Last edited time: 2024-09-20T20:35
 >             > for $\hat{y} \subseteq W$  
 >             > and $z \subseteq W^\perp$
 >             > 
->             > ![[image_2024-03-25_171311731.png]]
+>             > ![image\_2024-03-25\_171311731.png](../../attachments/image_2024-03-25_171311731.png)
 >             > 
 >             > $\hat{y} = \hat{y}_1 + ... + \hat{y_2}$
 >             > 
@@ -739,14 +739,14 @@ Last edited time: 2024-09-20T20:35
 >             > > INTUITION: distance from point to line is defined as the shortest distance  
 >             > > IN GENERAL:  
 >             > > 
->             > > ![[Untitled 80 2.png|Untitled 80 2.png]]
+>             > > ![Untitled 80 2.png](../../attachments/Untitled%2080%202.png)
 >             > 
 >             > ### Theorem
 >             > 
 >             > > Let $W$ be a subspace of $\mathbb{R}^n$, $\overrightarrow{y}$ a vector in $\mathbb{R}^n$ and let $\hat{y}$ be the orthogonal projection of $\overrightarrow{y}$ onto $W$. Then $|y - \hat{y}| \leq |y - v|$ for all vectors $v$ in $W$.  
 >             > >   
 >             > > 
->             > > ![[Untitled 81 2.png|Untitled 81 2.png]]
+>             > > ![Untitled 81 2.png](../../attachments/Untitled%2081%202.png)
 >             
 >         - Going from orthonormal bases of a subspace to its matrix
 >             
@@ -762,7 +762,7 @@ Last edited time: 2024-09-20T20:35
 >             > 
 >             > A linear transformation can not represent perspective, but it can represent orthographically
 >             > 
->             > ![[Untitled 82 2.png|Untitled 82 2.png]]
+>             > ![Untitled 82 2.png](../../attachments/Untitled%2082%202.png)
 >             > 
 >             > ### Theorem
 >             > 
@@ -787,15 +787,15 @@ Last edited time: 2024-09-20T20:35
 >             
 >             $\bar{v}$ vs $\overrightarrow{v}$
 >             
->             ![[Untitled 83 2.png|Untitled 83 2.png]]
+>             ![Untitled 83 2.png](../../attachments/Untitled%2083%202.png)
 >             
->             ![[Untitled 84 2.png|Untitled 84 2.png]]
+>             ![Untitled 84 2.png](../../attachments/Untitled%2084%202.png)
 >             
->             ![[Untitled 85 2.png|Untitled 85 2.png]]
+>             ![Untitled 85 2.png](../../attachments/Untitled%2085%202.png)
 >             
->             ![[Untitled 86 2.png|Untitled 86 2.png]]
+>             ![Untitled 86 2.png](../../attachments/Untitled%2086%202.png)
 >             
->             ![[Untitled 87 2.png|Untitled 87 2.png]]
+>             ![Untitled 87 2.png](../../attachments/Untitled%2087%202.png)
 >             
 > - Gram-Schmidt Process
 >     
@@ -838,7 +838,7 @@ Last edited time: 2024-09-20T20:35
 >     >     
 >     >     > Although a lower dimension vector can not fully describe a higher dimensional vector, the projection of that higher dimensional vector onto the lower-dimensional subspace is the closest approximation thereof in said lower dimension
 >     >     > 
->     >     > ![[Untitled 88 2.png|Untitled 88 2.png]]
+>     >     > ![Untitled 88 2.png](../../attachments/Untitled%2088%202.png)
 >     >     > 
 >     >     > Allison is closer to the 3d ball than Bobertus, since the ball is perpendicular to Alice, not Bob. There is nowhere Bob can stand to be closer to the ball than Alice without being where Alice is, so Alice’s 2D position best-approximates the 3D ball.
 >     >     > 
@@ -857,23 +857,23 @@ Last edited time: 2024-09-20T20:35
 >     >     
 >     >     > solve $\hat{b}$, or set of solutions to normal equations $A^TAx=A^Tb$, or unique $x=(A^TA)^-A^Tb$ (when the square matrix $A^TA$ is invertible, it has a unique solution)
 >     >     > 
->     >     > ![[Untitled 89 2.png|Untitled 89 2.png]]
+>     >     > ![Untitled 89 2.png](../../attachments/Untitled%2089%202.png)
 >     >     
 >     > 
 >     > - ==Linear Models==
 >     >     
->     >     > ![[Untitled 90 2.png|Untitled 90 2.png]]
+>     >     > ![Untitled 90 2.png](../../attachments/Untitled%2090%202.png)
 >     >     > 
 >     >     > What line best describes all these points, even if there is no line going through all of them?
 >     >     > 
->     >     > ![[Untitled 91 2.png|Untitled 91 2.png]]
+>     >     > ![Untitled 91 2.png](../../attachments/Untitled%2091%202.png)
 >     >     > 
 >     >     > residual = observed - predicted
 >     >     > 
 >     >     > residuals = $y_i - (\beta_0 + \beta_1 x_i)$  
 >     >     >   
 >     >     > 
->     >     > ![[Untitled 92 2.png|Untitled 92 2.png]]
+>     >     > ![Untitled 92 2.png](../../attachments/Untitled%2092%202.png)
 >     >     
 >     > 
 >     > - RSS = Residual Sum of Squares
@@ -887,7 +887,7 @@ Last edited time: 2024-09-20T20:35
 >     
 >     > Symmetric matrices are symmetric to the main diagonal
 >     > 
->     > ![[Untitled 93 2.png|Untitled 93 2.png]]
+>     > ![Untitled 93 2.png](../../attachments/Untitled%2093%202.png)
 >     > 
 >     > - ==Eigenvalues and Eigenvalues of Symmetric matrix==
 >     >     
@@ -899,11 +899,11 @@ Last edited time: 2024-09-20T20:35
 >     >     
 >     >     > We hit the motherlodian man this shits diagonalizable _**AND**_ orthogonal cuh!
 >     >     > 
->     >     > ![[Untitled 94 2.png|Untitled 94 2.png]]
+>     >     > ![Untitled 94 2.png](../../attachments/Untitled%2094%202.png)
 >     >     > 
 >     >     > symmetric matrix A iff A orthogonally diagonalizable
 >     >     > 
->     >     > ![[Untitled 95 2.png|Untitled 95 2.png]]
+>     >     > ![Untitled 95 2.png](../../attachments/Untitled%2095%202.png)
 >     >     > 
 >     >     > geometric multiplicity = algebraic multiplicity when diagonalizable
 >     >     > 
@@ -914,9 +914,9 @@ Last edited time: 2024-09-20T20:35
 >     >     > Overal thoughts  
 >     >     >   
 >     >     > 
->     >     > ![[Untitled 96 2.png|Untitled 96 2.png]]
+>     >     > ![Untitled 96 2.png](../../attachments/Untitled%2096%202.png)
 >     >     > 
->     >     > ![[Untitled 97 2.png|Untitled 97 2.png]]
+>     >     > ![Untitled 97 2.png](../../attachments/Untitled%2097%202.png)
 >     >     
 >     >       
 >     >     
@@ -926,44 +926,44 @@ Last edited time: 2024-09-20T20:35
 #### LINALG NOTES
 |From Lecture|Note|estimated value (word count)|
 |---|---|---|
-|1|[[Echelon Form]]|473|
-|1|[[Linear System]]|45|
-|2|[[Span]]|269|
-|2|[[Vector Equation]]|54|
-|3|[[Homogeneous, Solution Set]]|202|
-|3|[[Parametric Vector form]]|12|
-|3|[[Linearly Independant]]|30|
-|4|[[Matrix Transformations]]|171|
-|5|[[Transpose of a Matrix]]|20|
-|5|[[Matrix Vector Multiplication]]|136|
-|5|[[AB Row-Column Rule]]|12|
-|5|[[Powers of Matrix]]|94|
-|5|[[Determinant 1]]|38|
-|5|[[Matrix Addition & Scalar Multiplication]]|37|
-|5|[[Special Matrices]]|151|
-|5|[[AB Column Rule]]|53|
-|6|[[Inverse matrices]]|13|
-|8|[[Subspaces]]|46|
-|9|[[Coordinates and Dimension]]|155|
-|10|[[Determinant 2]]|23|
-|11|[[Eigen]]|58|
-|12|[[Diagonalization]]|379|
-|13|[[Complex Eigenvalue]]|215|
-|14|[[Discrete Dynamical System]]|193|
-|15-16|[[Inner product, Orthogonal Projection]]|589|
-|17|[[Academic Reasoning II]]|20|
-|18|[[Gram-Schmidt Process]]|533|
-|19|[[Least-Squares Problem]]|94|
-|20|[[Symmetric Matrix]]|65|
+|1|[Echelon Form](LINALG%20NOTES/Echelon%20Form.md)|473|
+|1|[Linear System](LINALG%20NOTES/Linear%20System.md)|45|
+|2|[Span](LINALG%20NOTES/Span.md)|269|
+|2|[Vector Equation](LINALG%20NOTES/Vector%20Equation.md)|54|
+|3|[Homogeneous, Solution Set](LINALG%20NOTES/Homogeneous,%20Solution%20Set.md)|202|
+|3|[Parametric Vector form](LINALG%20NOTES/Parametric%20Vector%20form.md)|12|
+|3|[Linearly Independant](LINALG%20NOTES/Linearly%20Independant.md)|30|
+|4|[Matrix Transformations](LINALG%20NOTES/Matrix%20Transformations.md)|171|
+|5|[Transpose of a Matrix](LINALG%20NOTES/Transpose%20of%20a%20Matrix.md)|20|
+|5|[Matrix Vector Multiplication](LINALG%20NOTES/Matrix%20Vector%20Multiplication.md)|136|
+|5|[AB Row-Column Rule](LINALG%20NOTES/AB%20Row-Column%20Rule.md)|12|
+|5|[Powers of Matrix](LINALG%20NOTES/Powers%20of%20Matrix.md)|94|
+|5|[Determinant 1](LINALG%20NOTES/Determinant%201.md)|38|
+|5|[Matrix Addition & Scalar Multiplication](LINALG%20NOTES/Matrix%20Addition%20&%20Scalar%20Multiplication.md)|37|
+|5|[Special Matrices](LINALG%20NOTES/Special%20Matrices.md)|151|
+|5|[AB Column Rule](LINALG%20NOTES/AB%20Column%20Rule.md)|53|
+|6|[Inverse matrices](LINALG%20NOTES/Inverse%20matrices.md)|13|
+|8|[Subspaces](LINALG%20NOTES/Subspaces.md)|46|
+|9|[Coordinates and Dimension](LINALG%20NOTES/Coordinates%20and%20Dimension.md)|155|
+|10|[Determinant 2](LINALG%20NOTES/Determinant%202.md)|23|
+|11|[Eigen](LINALG%20NOTES/Eigen.md)|58|
+|12|[Diagonalization](LINALG%20NOTES/Diagonalization.md)|379|
+|13|[Complex Eigenvalue](LINALG%20NOTES/Complex%20Eigenvalue.md)|215|
+|14|[Discrete Dynamical System](LINALG%20NOTES/Discrete%20Dynamical%20System.md)|193|
+|15-16|[Inner product, Orthogonal Projection](LINALG%20NOTES/Inner%20product,%20Orthogonal%20Projection.md)|589|
+|17|[Academic Reasoning II](LINALG%20NOTES/Academic%20Reasoning%20II.md)|20|
+|18|[Gram-Schmidt Process](LINALG%20NOTES/Gram-Schmidt%20Process.md)|533|
+|19|[Least-Squares Problem](LINALG%20NOTES/Least-Squares%20Problem.md)|94|
+|20|[Symmetric Matrix](LINALG%20NOTES/Symmetric%20Matrix.md)|65|
   
   
 ### queue of failed exam questions
-[[Distance from y to W=span{v1,v2}]]
-[[Gram-Schmidt]]
-[[Invertible Matrix Theorem]]
-[[Least Squares, Design matrix, Observation vector]]
-[[Linear Combination]]
-[[Orthonormal rows and columns]]
+[Distance from y to W\=span{v1,v2}](Distance%20from%20y%20to%20W=span{v1,v2}/Distance%20from%20y%20to%20W=span{v1,v2}.md)
+[Gram-Schmidt](Gram-Schmidt/Gram-Schmidt.md)
+[Invertible Matrix Theorem](Invertible%20Matrix%20Theorem/Invertible%20Matrix%20Theorem.md)
+[Least Squares, Design matrix, Observation vector](Least%20Squares,%20Design%20matrix,%20Observation%20vector/Least%20Squares,%20Design%20matrix,%20Observation%20vector.md)
+[Linear Combination](Linear%20Combination/Linear%20Combination.md)
+[Orthonormal rows and columns](Orthonormal%20rows%20and%20columns/Orthonormal%20rows%20and%20columns.md)
 - Invertible Matrix Theorem
     
     > A square matrix can only be invertible if any (so all) of the following hold
@@ -982,8 +982,8 @@ Last edited time: 2024-09-20T20:35
 ### trace of matrix
 The trace of a matrix is the sum of all eigenvalues. this holds for all square matrices not just triangle/diagonal matrices
 given
-![[Untitled 98 2.png|Untitled 98 2.png]]
+![Untitled 98 2.png](../../attachments/Untitled%2098%202.png)
 with known eigenvalues 4, 4, ?, we can calculate ? = trace - 8. trace = -10. ? = -18
 $Col(A)^\perp=Nul(A^T)$
 an invertible matrix can be row reduced to I
-![[Untitled 99 2.png|Untitled 99 2.png]]
+![Untitled 99 2.png](../../attachments/Untitled%2099%202.png)

@@ -6,7 +6,7 @@ Volume: 177
 ---
 # ==Conditional Probability, Bayes Rule==
 ## Sum Rule, Complement Rule: $P(A\cup B), \space P(A^c)$
-![[Untitled 6.png]]
+![Untitled 6.png](../../../attachments/Untitled%206.png)
 
 > What is the probability that the union of an event occurs?
 > 
@@ -27,12 +27,12 @@ The chance that event A happens given C happens
 is the chance _**both**_ happen, _**divided by the chance the condition event happens**_
 (You can think of the denominator as restricting sample space to only where the condition holds, then simply computing the chance in this new perspective)
 ## Multiplication Rule: $P(A \cap B)$
-![[Untitled 7.png]]
+![Untitled 7.png](../../../attachments/Untitled%207.png)
 
 > What is the probability that the intersection of an event occurs?
 $P(A\space \cap \space C) = P( A \space | \space C) P(C)$
 ## Bayes’ Rule: $P(A|C) \rightarrow P(C|A)$
-![[Untitled 8 2.png|Untitled 8 2.png]]
+![Untitled 8 2.png](../../../attachments/Untitled%208%202.png)
 
 > What does the Law of Total Probability state?
 $P(A) = P( A \space | \space C) \space P(C) \space+ \space P( A \space | \space C^C \space ) \space P( \space C^C \space )$

@@ -1,1 +1,1 @@
-**Factory Method:** Provides an interface for creating objects in a superclass; allows subclasses to change the type of objects created.![[Pasted image 20241103125240.png|400]]![[Pasted image 20241103110650.png]]
+**Factory Method:** Provides an interface for creating objects in a superclass; allows subclasses to change the type of objects created.![400](../../attachments/Pasted%20image%2020241103125240.png)![Pasted image 20241103110650.png](../../attachments/Pasted%20image%2020241103110650.png)

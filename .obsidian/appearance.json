@@ -1,1 +1,7 @@
-{}
+{
+  "enabledCssSnippets": [
+    "big-math",
+    "bullet-point-indentatino",
+    "headingsizes"
+  ]
+}

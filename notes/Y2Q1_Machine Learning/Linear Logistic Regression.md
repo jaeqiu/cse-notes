@@ -8,7 +8,7 @@ Quality of solution $\theta$:
 	The first step is to convert our decision function $\theta^T x + bias$ into a function that returns probability of belonging to a class, the hypothesis function:  $h_{\theta;bias}(x) = \frac{1}{1 + e^{-(\theta^T x + bias)}}$
 	
 Hypothesis function $h_{\theta;bias}(x) = \frac{1}{1 + e^{-(\theta^T x + bias)}}$:
-	![[Pasted image 20241023164934.png|400]]
+	![400](../../attachments/Pasted%20image%2020241023164934.png)
 	To implement our hypothesis function we will use a logistic function $\sigma(z) = \frac{1}{1 + \exp(-z)}$ that maps real numbers to $(0,1)$
 	The hypothesis function has a decision boundary which is set at $0.5$. 
 	Now there is a distinction between a confident classification and an uncertain classification:
@@ -19,6 +19,6 @@ Hypothesis function $h_{\theta;bias}(x) = \frac{1}{1 + e^{-(\theta^T x + bias)}}
 		Unconfidently wrong => low loss
 		Confidently wrong => high loss
 	These values, that range from $(0,1)$ are much better usable; It is now possible to actually calculate the error of the predicted values, compared to the desired, true values.
-	![[Pasted image 20241023161515.png|400]]
-[[Gradient Descent]] is used:
-	![[Pasted image 20241023161531.png|400]]
+	![400](../../attachments/Pasted%20image%2020241023161515.png)
+[Gradient Descent](Gradient%20Descent.md) is used:
+	![400](../../attachments/Pasted%20image%2020241023161531.png)

@@ -6,4 +6,4 @@
 
 - **Higher complexity**: high abstraction high complexity
 - **Lower performance**: many layers much overhead
-![[Pasted image 20241103161111.png]]
+![Pasted image 20241103161111.png](../../attachments/Pasted%20image%2020241103161111.png)

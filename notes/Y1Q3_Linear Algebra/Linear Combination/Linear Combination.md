@@ -1,1 +1,1 @@
-![[Untitled 123.png|Untitled 123.png]]
+![Untitled 123.png](../../../attachments/Untitled%20123.png)

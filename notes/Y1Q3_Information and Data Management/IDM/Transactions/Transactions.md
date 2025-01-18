@@ -32,14 +32,14 @@ so: after executing the schedules the results of both should be exactly same →
 **conflict equivalent:**
 - same operations
 - same conflict relation (in the same order)
-![[Untitled 126.png|Untitled 126.png]]
+![Untitled 126.png](../../../../attachments/Untitled%20126.png)
 **conflict serializable:**
 - a schedule that has exactly the same conflicting operations (in the same order) as a serial schedule
 **conflict graph:**
 - Two schedules are conflict equivalent, if and only  
     if their conflict graphs are identical  
     
-![[Untitled 1 22.png|Untitled 1 22.png]]
+![Untitled 1 22.png](../../../../attachments/Untitled%201%2022.png)
 if non-conflict serializable schedule → contains cycle
 ---
 # 2 Phase Commit

@@ -19,7 +19,7 @@ let X and Y be some sets of attrbiutes
 if Y functionally depends on X, and two tuples agree on their X values,  
 then they also have to agree on their Y values
 
-![Exported image](Exported%20image%2020241209225236-0.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225236-0.png)  
 
 FD X -> Y  
 X = determinant  
@@ -37,11 +37,11 @@ Closure of F -> F+
  
 Armstrong's axioms:
 
-![Exported image](Exported%20image%2020241209225236-1.png)
+![Exported image](../../../attachments/Exported%20image%2020241209225236-1.png)
 
 and more additional derived rules:
 
-![Exported image](Exported%20image%2020241209225237-2.png)   
+![Exported image](../../../attachments/Exported%20image%2020241209225237-2.png)   
 How to come up with FDs?
 
 - Based on domain knowledge
@@ -64,7 +64,7 @@ Seven normal forms
 - 4NF
 - 5NF
 - 6NF
- ![Exported image](Exported%20image%2020241209225241-3.png)  
+ ![Exported image](../../../attachments/Exported%20image%2020241209225241-3.png)  
  
 higher number
 

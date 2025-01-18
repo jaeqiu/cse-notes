@@ -2,7 +2,7 @@ Map/Mapping similar to R&L functions
 
 - map some value (key) to some other value
 - in programming: variables
- ![Exported image](Exported%20image%2020241209225415-0.png)   
+ ![Exported image](../../../attachments/Exported%20image%2020241209225415-0.png)   
 //////////
  
 Hashing

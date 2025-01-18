@@ -1,5 +1,5 @@
 NEEDS MOST DATA ————————— LEAST DATA 
-[[QDA]]———————-[[LDA]]———————[[Nearest Mean Classifier]]
+[QDA](QDA.md)———————-[LDA](LDA.md)———————[Nearest Mean Classifier](Nearest%20Mean%20Classifier.md)
 
 Model each class as a multivariate gaussian distribution.
 	Own mean per class

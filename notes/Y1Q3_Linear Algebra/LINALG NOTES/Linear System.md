@@ -14,4 +14,4 @@ Linear system
     form by selecting the free variables and express the basic variables in  
     terms of such free variables?  
     
-![[Untitled 4.png]]
+![Untitled 4.png](../../../attachments/Untitled%204.png)

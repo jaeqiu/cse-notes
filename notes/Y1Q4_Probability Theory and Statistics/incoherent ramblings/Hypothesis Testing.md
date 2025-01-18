@@ -9,7 +9,7 @@ Created time: 2024-09-20T20:36
 
 > H0 bij geen verband, H1 bij verwacht verband
 > 
-> ![[Untitled 95.png]]
+> ![Untitled 95.png](../../../attachments/Untitled%2095.png)
 ### Test Statistic T
 
 > The Test Statistic T is used to compare the outcomes of two experiments==  
@@ -25,7 +25,7 @@ Created time: 2024-09-20T20:36
 - write out the expectation of the test statistic T to find out what the alternative tested hypothesis is
     - Here, the expectation of M, which takes the minimum of an exponential function, is 1/10lambda, therefore rejecting an M too large, is rejecting a lambda too small
         
-        ![[Untitled 96.png]]
+        ![Untitled 96.png](../../../attachments/Untitled%2096.png)
         
 ### p-value
 
@@ -34,10 +34,10 @@ Created time: 2024-09-20T20:36
 > p-value $\leq \alpha$ → reject $H_0$  
 > p-value $> \alpha$ → keep $H_0$
 > 
-> ![[Untitled 97.png]]
+> ![Untitled 97.png](../../../attachments/Untitled%2097.png)
 ### significance level $\alpha$, critical region
 
 > Significance level $\alpha$, is the largest acceptable probability of committing Type I error  
 >   
 > The critical region is the set of values for the Test Statistic T for which we reject $H_o$ in favour of $H_1$
-![[Untitled 99.png]]
+![Untitled 99.png](../../../attachments/Untitled%2099.png)

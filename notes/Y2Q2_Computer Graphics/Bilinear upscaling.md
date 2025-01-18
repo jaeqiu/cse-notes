@@ -1,1 +1,1 @@
-![[Bilinear upscaling 2024-12-09 20.05.56.excalidraw]]
+![Bilinear upscaling 2024-12-09 20.05.56.excalidraw](../../Excalidraw/Bilinear%20upscaling%202024-12-09%2020.05.56.excalidraw.md)

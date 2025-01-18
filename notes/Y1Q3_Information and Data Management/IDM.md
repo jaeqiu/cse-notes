@@ -112,17 +112,17 @@ assumes one match per record
 > Q: write log entries  
 > Q: fill in missing cells  
 ### steal-undoing, noforce-redoing 🥷
-![[Untitled 102.png|Untitled 102.png]]
+![Untitled 102.png](../../attachments/Untitled%20102.png)
 - steal: allow flush before commit.
 - steal-undo recovery: undo uncommitted transactions
 - noforce: no need to force flushing after a change in buffer
 - noforce-redo recovery: redo committed transactions
 ### steal-noforce-undo/redo log example
-![[Untitled 1 7.png|Untitled 1 7.png]]
+![Untitled 1 7.png](../../attachments/Untitled%201%207.png)
 ### steal-undo only log example
-![[Untitled 2 7.png|Untitled 2 7.png]]
+![Untitled 2 7.png](../../attachments/Untitled%202%207.png)
 ### noforce-redo only log example
-![[Untitled 3 7.png|Untitled 3 7.png]]
+![Untitled 3 7.png](../../attachments/Untitled%203%207.png)
 ### ❓how to read
 - INPUT(A) - A from disk → memory
 - OUTPUT(A) - A from memory → disk
@@ -184,7 +184,7 @@ ABORT undone transactions FLUSH log
 
 > multiple database nodes that are mirrors need to agree on commit/aborting a transaction, and need to be consistent (they should have the same values no matter who u ask)
 > 
-> ![[Untitled 4 7.png|Untitled 4 7.png]]
+> ![Untitled 4 7.png](../../attachments/Untitled%204%207.png)
 > 
 > > [!important] ==- User sends request to coordinator.<br>- Coordinator sends a prepare commit to all workers<br>- Workers process and write changes to LOG. → If success → ready, else Failure.<br>==
 > > 
@@ -196,7 +196,7 @@ ABORT undone transactions FLUSH log
 > 
 > - deadlock can still happen
 ## transaction schedule
-![[Untitled 5 7.png|Untitled 5 7.png]]
+![Untitled 5 7.png](../../attachments/Untitled%205%207.png)
 ### schedule (ooga booga)
 has every instruction of every transaction in the transaction-correct order, but with no mind for fucking things up
 ### serializable schedule (probably better for performance)
@@ -206,8 +206,8 @@ has every instruction of every transaction in the transaction-correct order, but
 
 > handles conflicts in the order serial schedules would.
 make precedence graph if u want to check conflict serializability
-![[Untitled 6 7.png|Untitled 6 7.png]]
-![[Untitled 7 7.png|Untitled 7 7.png]]
+![Untitled 6 7.png](../../attachments/Untitled%206%207.png)
+![Untitled 7 7.png](../../attachments/Untitled%207%207.png)
 go through the table chronologically, then for each change, search for conflict in other transactions.
 - cant have conflict with the past
 - cant have conflict with yourself
@@ -248,7 +248,7 @@ conflict equivalent if conflict graphs the same
 - Growing (locking) phase, shrinking (unlocking) phase
     - If you unlock something, you cannot lock anything anymore
 ### serial schedule (overkill)
-![[Untitled 8 6.png|Untitled 8 6.png]]
+![Untitled 8 6.png](../../attachments/Untitled%208%206.png)
 no intertwining of transactions allowed
 # 🫦Random Questions that make Lofi excited
 ## CAP-theorem for distributed systems
@@ -261,7 +261,7 @@ no intertwining of transactions allowed
 >   
 > **”nah u trippin, u might achieve two of them, but all three? It ain’t exist chigga”**
 > 
-> ![[Untitled 9 5.png|Untitled 9 5.png]]
+> ![Untitled 9 5.png](../../attachments/Untitled%209%205.png)
 ## NoSQL database
 
 > relational db’s evil twin  
@@ -273,14 +273,14 @@ no intertwining of transactions allowed
 > values can change over time  
 > **Eventual consistency;**  
 > no immediate consistency but we’ll get there
-![[Untitled 10 4.png|Untitled 10 4.png]]
+![Untitled 10 4.png](../../attachments/Untitled%2010%204.png)
 friends notes:
-[[notes/Y1Q3_Information and Data Management/IDM/IDM|IDM]]
+[IDM](IDM/IDM.md)
 #### take notes during lectures
 |Note|Chronological Lecture #|Legacy Lecture #|word count|
 |---|---|---|---|
-|[[Query Processing I]]||8|243|
-|[[Query Processing II]]||9||
-|[[Transactions & Currency control]]||10-11|320|
-|[[Recovery & Distributed Transaction]]||12|189|
-|[[notes/Y1Q3_Information and Data Management/take notes during lectures/Untitled\|Untitled]]||||
+|[Query Processing I](take%20notes%20during%20lectures/Query%20Processing%20I.md)||8|243|
+|[Query Processing II](take%20notes%20during%20lectures/Query%20Processing%20II/Query%20Processing%20II.md)||9||
+|[Transactions & Currency control](take%20notes%20during%20lectures/Transactions%20&%20Currency%20control.md)||10-11|320|
+|[Recovery & Distributed Transaction](take%20notes%20during%20lectures/Recovery%20&%20Distributed%20Transaction/Recovery%20&%20Distributed%20Transaction.md)||12|189|
+|[Untitled](take%20notes%20during%20lectures/Untitled.md)||||

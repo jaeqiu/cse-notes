@@ -5,4 +5,4 @@ Work is pulled as capacity allows, focus on value rewarding tasks
 2. Limit the amount of things that are WIP at the same time
 3. Manage and analyze the KanBan board's flow to spot bottlenecks
 4. Communicate work rules (task prioritisation, workload balance, criteria for moving to the next KanBan column)KanBan Board:
-![[Pasted image 20241101165152.png]]
+![Pasted image 20241101165152.png](../../attachments/Pasted%20image%2020241101165152.png)

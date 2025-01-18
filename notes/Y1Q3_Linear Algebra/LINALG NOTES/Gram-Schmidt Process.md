@@ -35,7 +35,7 @@ estimated value (word count): 533
 
 > Although a lower dimension vector can not fully describe a higher dimensional vector, the projection of that higher dimensional vector onto the lower-dimensional subspace is the closest approximation thereof in said lower dimension
 > 
-> ![[Untitled 88.png]]
+> ![Untitled 88.png](../../../attachments/Untitled%2088.png)
 > 
 > Allison is closer to the 3d ball than Bobertus, since the ball is perpendicular to Alice, not Bob. There is nowhere Bob can stand to be closer to the ball than Alice without being where Alice is, so Alice’s 2D position best-approximates the 3D ball.
 > 

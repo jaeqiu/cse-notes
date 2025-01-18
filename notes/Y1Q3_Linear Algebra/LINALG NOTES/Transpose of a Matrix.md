@@ -5,4 +5,4 @@ estimated value (word count): 20
 ---
 # The transpose A^T of a Matrix A is a matrix that has rows for  
 columns- and columns for rows in the original matrix A.  
-![[Untitled 27.png]]
+![Untitled 27.png](../../../attachments/Untitled%2027.png)

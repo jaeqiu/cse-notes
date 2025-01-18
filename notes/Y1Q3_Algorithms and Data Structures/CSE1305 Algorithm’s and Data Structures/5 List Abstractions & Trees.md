@@ -12,7 +12,7 @@ Position-based lists:
 - position abstraction = reference to node, prevents access to rest of list
  
 Define abstraction of node using interface Position<E>
- ![Exported image](Exported%20image%2020241209225332-0.png)   
+ ![Exported image](../../../attachments/Exported%20image%2020241209225332-0.png)   
 /////////
  
 Iterator: abstracts process of scanning through sequence, one element at a time  
@@ -42,7 +42,7 @@ Two implementations:
     - Space at construction: O(1)
     - Time at construction: O(1)
     - 'fail-fast' behaviour invalidates iterator if underlying collection is modified unexpectedly
- ![Exported image](Exported%20image%2020241209225333-1.png)   
+ ![Exported image](../../../attachments/Exported%20image%2020241209225333-1.png)   
 /////////
  
 Trees = data structures that store elements hierarchically
@@ -56,7 +56,7 @@ descendant = any node in a downward path to leaves, including self
 root = node without parent  
 internal node = node with at least one child  
 external node / leaves = node without children
- ![Exported image](Exported%20image%2020241209225333-2.png)  
+ ![Exported image](../../../attachments/Exported%20image%2020241209225333-2.png)  
 
 depth of node = number of ancestors, other than the node itself
 
@@ -82,13 +82,13 @@ Depth-first: Pre-order
 
 - node visited before children
 - **CURRENT** -> LEFT -> RIGHT
- ![Exported image](Exported%20image%2020241209225333-3.png)  
+ ![Exported image](../../../attachments/Exported%20image%2020241209225333-3.png)  
 
 Depth-first: Post-order
 
 - node visited after children
 - LEFT -> RIGHT -> **CURRENT**
- ![Exported image](Exported%20image%2020241209225334-4.png)  
+ ![Exported image](../../../attachments/Exported%20image%2020241209225334-4.png)  
 
 Depth-first: In-order
 
@@ -108,7 +108,7 @@ loop:
 - dequeue it
 - add all its children to queue
 - loop until queue is empty
- ![Exported image](Exported%20image%2020241209225334-5.png)  
+ ![Exported image](../../../attachments/Exported%20image%2020241209225334-5.png)  
 
 /////////
  
@@ -126,7 +126,7 @@ Depth-first: In-order
  
 Relationship between number of nodes n and height h
 
-![Exported image](Exported%20image%2020241209225335-6.png)   
+![Exported image](../../../attachments/Exported%20image%2020241209225335-6.png)   
 /////////
  
 Linked structure for trees
@@ -139,7 +139,7 @@ Tree node represented by
 
 root node = stored by linked tree
 
-![Exported image](Exported%20image%2020241209225338-7.png)  
+![Exported image](../../../attachments/Exported%20image%2020241209225338-7.png)  
 
 Linked structure for binary trees
 
@@ -154,11 +154,11 @@ Array-based binary trees
 |f(v) = 0|if v is root|
 |f(v) = 2 * f(p) + 1|if v is left child of p|
 |f(v) = 2 * f(p) + 2|if v is right child of p|
- ![Exported image](Exported%20image%2020241209225338-8.png)   
+ ![Exported image](../../../attachments/Exported%20image%2020241209225338-8.png)   
 |   |   |   |
 |---|---|---|
 ||Linked tree|Array-based|
 |space:|O(n)|O(2h) / O(n2)|
 |insertion/removal:|O(1)|may require changing entire array|
  
-![Exported image](Exported%20image%2020241209225339-9.png)
+![Exported image](../../../attachments/Exported%20image%2020241209225339-9.png)

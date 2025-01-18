@@ -15,16 +15,16 @@ estimated value (word count): 379
 ## **Diagonalization**
 - **Definition:** A matrix **A** is _diagonalizable_ if **A** is similar to **D**, in `A = PDP⁻¹` for a **diagonal D and invertible P**.
   
-![[Untitled 44.png]]
+![Untitled 44.png](../../../attachments/Untitled%2044.png)
 # Second Diagonalization Theorem
-![[Untitled 45.png]]
+![Untitled 45.png](../../../attachments/Untitled%2045.png)
 # Lecture
-![[Untitled 46.png]]
-![[Untitled 47.png]]
-![[Untitled 48.png]]
-![[Untitled 49.png]]
+![Untitled 46.png](../../../attachments/Untitled%2046.png)
+![Untitled 47.png](../../../attachments/Untitled%2047.png)
+![Untitled 48.png](../../../attachments/Untitled%2048.png)
+![Untitled 49.png](../../../attachments/Untitled%2049.png)
 # Example problem diagonalizability
-![[Untitled 50.png]]
+![Untitled 50.png](../../../attachments/Untitled%2050.png)
 Find $\alpha$ such that the following matrix is diagonalizable.
 $A = \begin{pmatrix} 5 & 4 & 9 & -8 \\ 0 & 1 & 3 & 9 \\ 0 & 0 & 5 & 4 \\ 0 & 0 & 0 & 3 \end{pmatrix}$
 The correct answer is $\alpha = -3$.
@@ -44,11 +44,11 @@ $dim(Nul(A - 5I)) = \begin{cases} 1 & \text{if } \alpha \neq -3 \\ 2 & \text{if 
 Since our 4×4 matrix is diagonalizable if the geometric multiplicities of its eigenvalues add up to four, we find that $A$ is diagonalizable if and only if $\alpha = -3$ .
   
 # Similarity
-![[Untitled 51.png]]
-![[Untitled 52.png]]
-![[Untitled 53.png]]
-![[Untitled 54.png]]
-![[Untitled 55.png]]
-![[Untitled 56.png]]
-![[Untitled 57.png]]
-![[Untitled 58.png]]
+![Untitled 51.png](../../../attachments/Untitled%2051.png)
+![Untitled 52.png](../../../attachments/Untitled%2052.png)
+![Untitled 53.png](../../../attachments/Untitled%2053.png)
+![Untitled 54.png](../../../attachments/Untitled%2054.png)
+![Untitled 55.png](../../../attachments/Untitled%2055.png)
+![Untitled 56.png](../../../attachments/Untitled%2056.png)
+![Untitled 57.png](../../../attachments/Untitled%2057.png)
+![Untitled 58.png](../../../attachments/Untitled%2058.png)

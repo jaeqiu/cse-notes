@@ -12,4 +12,4 @@
   - Ports of interfaces.
 
 
-![[UML Component diagram tutorial]]
+![UML Component diagram tutorial](../../Excalidraw/UML%20Component%20diagram%20tutorial.md)

@@ -6,9 +6,9 @@ estimated value (word count): 13
 > Summary: This section discusses the concept of inverse matrices, its properties, and how to find the inverse of a 3x3 matrix. Key aspects include the role of inverse matrices in undoing transformations, the impact of matrix transformations with a determinant of zero, and the significance of column space, rank, and null space in matrix transformations.
 # **Inverse Matrices**
 An **inverse matrix** represents the transformation that a matrix needs to undergo to undo the previous transformation. This process involves flipping the diagonal and negating both poles. The inverse of a matrix is the determinant of the original matrix times a new matrix where the diagonal is flipped and the poles are negated.
-![[Untitled 28.png]]
+![Untitled 28.png](../../../attachments/Untitled%2028.png)
 - _Note_: You can use the inverse matrix to solve a linear system, although inefficiently.
-![[Untitled 29.png]]
+![Untitled 29.png](../../../attachments/Untitled%2029.png)
 - _Important_: There is no inverse **function** to matrix transformations that have a determinant of zero, since mapping a higher dimension into a lower dimension cannot be reversed cleanly.
 ## **Matrix Transformation Properties**
 ### **Column Space**

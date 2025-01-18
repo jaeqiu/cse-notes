@@ -1,1 +1,1 @@
-![[Normal form of plane 2024-11-12 16.33.53.excalidraw]]![[x]]
+![Normal form of plane 2024-11-12 16.33.53.excalidraw](../../Excalidraw/Normal%20form%20of%20plane%202024-11-12%2016.33.53.excalidraw.md)![[x]]

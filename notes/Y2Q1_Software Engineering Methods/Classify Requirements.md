@@ -1,6 +1,6 @@
 Requirements are statements about a feature or constraint on the system
 
-![[Pasted image 20241025170156.png]]
+![Pasted image 20241025170156.png](../../attachments/Pasted%20image%2020241025170156.png)
 
 User requirements (end user yap):
 	what a user expects
@@ -12,7 +12,7 @@ System requirements (dev yap):
 			What services the system should provide
 			How the system reacts to particular inputs
 			What the system shouldn't do
-		[[Nonfunctional requirements]]:
+		[Nonfunctional requirements](Nonfunctional%20requirements.md):
 			Nonfunctional product requirements (how):
 				Constraints on how the system behaves (reliability, timing)
 			Nonfunctional organizational requirements:
@@ -33,4 +33,4 @@ SMART requirements:
 	time-related (optional, deadlines can be decided during a different stage of requirement analysis):
 		deadline for results
 
-Next: [[Prioritize requirements]]
+Next: [Prioritize requirements](Prioritize%20requirements.md)

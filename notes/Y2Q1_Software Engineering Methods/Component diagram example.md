@@ -1,4 +1,4 @@
-![[Pasted image 20241101171658.png]]
+![Pasted image 20241101171658.png](../../attachments/Pasted%20image%2020241101171658.png)
 ```plantuml
 ' Queue
 

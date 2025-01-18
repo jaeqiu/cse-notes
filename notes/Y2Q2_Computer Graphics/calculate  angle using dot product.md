@@ -1,1 +1,1 @@
-![[calculate  angle using dot product 2024-11-12 14.27.52.excalidraw]]
+![calculate  angle using dot product 2024-11-12 14.27.52.excalidraw](../../Excalidraw/calculate%20%20angle%20using%20dot%20product%202024-11-12%2014.27.52.excalidraw.md)

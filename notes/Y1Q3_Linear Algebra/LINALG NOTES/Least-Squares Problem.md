@@ -9,21 +9,21 @@ estimated value (word count): 94
 
 > solve $\hat{b}$, or set of solutions to normal equations $A^TAx=A^Tb$, or unique $x=(A^TA)^-A^Tb$ (when the square matrix $A^TA$ is invertible, it has a unique solution)
 > 
-> ![[Untitled 89.png]]
+> ![Untitled 89.png](../../../attachments/Untitled%2089.png)
 ## Linear Models
 
-> ![[Untitled 90.png]]
+> ![Untitled 90.png](../../../attachments/Untitled%2090.png)
 > 
 > What line best describes all these points, even if there is no line going through all of them?
 > 
-> ![[Untitled 91.png]]
+> ![Untitled 91.png](../../../attachments/Untitled%2091.png)
 > 
 > residual = observed - predicted
 > 
 > residuals = $y_i - (\beta_0 + \beta_1 x_i)$  
 >   
 > 
-> ![[Untitled 92.png]]
+> ![Untitled 92.png](../../../attachments/Untitled%2092.png)
 ## RSS = Residual Sum of Squares
 
 > A good Least Squares Solution minimizes RSS

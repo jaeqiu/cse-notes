@@ -7,7 +7,7 @@ Created time: 2024-09-20T20:36
 ## Subtopic based off example problem
 
 > Overal thoughts.
-![[Untitled 28.png]]
+![Untitled 28.png](../../../attachments/Untitled%2028.png)
 ## Quantile
 
 > splits data in equal parts

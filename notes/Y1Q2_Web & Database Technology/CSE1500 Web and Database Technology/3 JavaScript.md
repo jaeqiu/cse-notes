@@ -784,7 +784,7 @@ console.log(res);
 > [Function: x]  
 
 9
- ![Exported image](Exported%20image%2020241209225308-0.png)   
+ ![Exported image](../../../attachments/Exported%20image%2020241209225308-0.png)   
 //////////
  
 Document Object Model (DOM)
@@ -796,7 +796,7 @@ Document Object Model (DOM)
     2. Change all CSS styles
     3. Remove existing HTML elements
     4. React to existing HTML events or create new ones
- ![JavaScript HTML DOM](Exported%20image%2020241209225308-1.png)   
+ ![JavaScript HTML DOM](../../../attachments/Exported%20image%2020241209225308-1.png)   
 Getting access to elements in the DOM:
  
 letuserIdEle = getElementById("user-id");￼  
@@ -819,4 +819,4 @@ Misc methods/properties of DOM:
 |innerText|retreives and sets content in HTML format|
 |addEventListener(...)|attaches an event handler to a document|
 |appendChild(...)|adds a node to a parent node|
- ![Exported image](Exported%20image%2020241209225309-2.png)
+ ![Exported image](../../../attachments/Exported%20image%2020241209225309-2.png)

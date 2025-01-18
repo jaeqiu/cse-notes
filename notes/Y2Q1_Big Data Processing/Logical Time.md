@@ -7,4 +7,4 @@ Logical clocks:
 	
 - Vector clock
 
-[[Causal dependency, Vector Clock]]
+[Causal dependency, Vector Clock](../../Excalidraw/Causal%20dependency,%20Vector%20Clock.md)

@@ -1,17 +1,17 @@
-![[CSE_Overview.pdf]]
-![[Brochure_1._How_to_choose_your_study_BSc_CSE.pdf]]
-![[Brochure_2._Matching__Selection_CSE_2023-2024_1.pdf]]
-[[Delftse Foundations of Computation]]
-[[Calculus edX]]
-![[Academische_Jaarindeling_2022-2023_01.pdf]]
-![[Untitled 125.png|Untitled 125.png]]
-![[Untitled 1 21.png|Untitled 1 21.png]]
-![[Untitled 2 19.png|Untitled 2 19.png]]
-![[Untitled 3 15.png|Untitled 3 15.png]]
-![[Untitled 4 14.png|Untitled 4 14.png]]
-![[Untitled 5 14.png|Untitled 5 14.png]]
-![[Untitled 6 14.png|Untitled 6 14.png]]
-![[Untitled 7 14.png|Untitled 7 14.png]]
-![[Untitled 8 12.png|Untitled 8 12.png]]
-![[Untitled 9 10.png|Untitled 9 10.png]]
-![[Untitled 10 9.png|Untitled 10 9.png]]
+![CSE\_Overview.pdf](../../../attachments/CSE_Overview.pdf)
+![Brochure\_1.\_How\_to\_choose\_your\_study\_BSc\_CSE.pdf](../../../attachments/Brochure_1._How_to_choose_your_study_BSc_CSE.pdf)
+![Brochure\_2.\_Matching\_\_Selection\_CSE\_2023-2024\_1.pdf](../../../attachments/Brochure_2._Matching__Selection_CSE_2023-2024_1.pdf)
+[Delftse Foundations of Computation](Delftse%20Foundations%20of%20Computation/Delftse%20Foundations%20of%20Computation.md)
+[Calculus edX](Calculus%20edX/Calculus%20edX.md)
+![Academische\_Jaarindeling\_2022-2023\_01.pdf](../../../attachments/Academische_Jaarindeling_2022-2023_01.pdf)
+![Untitled 125.png](../../../attachments/Untitled%20125.png)
+![Untitled 1 21.png](../../../attachments/Untitled%201%2021.png)
+![Untitled 2 19.png](../../../attachments/Untitled%202%2019.png)
+![Untitled 3 15.png](../../../attachments/Untitled%203%2015.png)
+![Untitled 4 14.png](../../../attachments/Untitled%204%2014.png)
+![Untitled 5 14.png](../../../attachments/Untitled%205%2014.png)
+![Untitled 6 14.png](../../../attachments/Untitled%206%2014.png)
+![Untitled 7 14.png](../../../attachments/Untitled%207%2014.png)
+![Untitled 8 12.png](../../../attachments/Untitled%208%2012.png)
+![Untitled 9 10.png](../../../attachments/Untitled%209%2010.png)
+![Untitled 10 9.png](../../../attachments/Untitled%2010%209.png)

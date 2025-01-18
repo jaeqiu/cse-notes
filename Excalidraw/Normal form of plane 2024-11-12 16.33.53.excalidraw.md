@@ -16,7 +16,7 @@ normal to the plane ^Q402JlTU
 plane ^f49Zxk8q
 
 ## Embedded Files
-3f749dc4296491e71adca8c2579cee3a61a73538: [[image_0 1.png]]
+3f749dc4296491e71adca8c2579cee3a61a73538: [image\_0 1.png](../attachments/image_0%201.png)
 
 %%
 ## Drawing

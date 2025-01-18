@@ -13,4 +13,4 @@ inverted.
 # Going from the  
 matrix A to its Determinant det(A).  
 sequel:
-[[Determinant 2]]
+[Determinant 2](Determinant%202.md)

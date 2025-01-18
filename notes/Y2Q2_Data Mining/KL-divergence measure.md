@@ -1,1 +1,1 @@
-![[Pasted image 20241118150730.png]]
+![Pasted image 20241118150730.png](../../attachments/Pasted%20image%2020241118150730.png)

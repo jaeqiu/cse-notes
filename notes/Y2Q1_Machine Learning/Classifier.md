@@ -8,7 +8,7 @@ Class Prior: p(y)
 Class Distribution: p(x|y)
 Posterior: p(y|x)
 Dataset
-	![[Pasted image 20241023135524.png|450]]
+	![450](../../attachments/Pasted%20image%2020241023135524.png)
 	Object: 
 		The true underlying object is represented as a feature vector, dissimilarity or structural pattern
 	Feature: 
@@ -29,7 +29,7 @@ Probability Theory Rules
 		$p(X, Y) = p(Y\mid X) \space p(X)$
 		Joint = conditional * marginal 
 ##### Misclassification
-![[Pasted image 20241023135739.png|800]]
+![800](../../attachments/Pasted%20image%2020241023135739.png)
 False negative error: $\varepsilon_1$
 	$\varepsilon_1 = \int_{\mathcal{R}_2} p(\mathbf{x} | y_1) d\mathbf{x}$
 False positive error: $\varepsilon_2$
@@ -58,10 +58,10 @@ Average risk of a decision region
 	$r = \sum_{i=1}^C r^i = \sum_{i=1}^C \int_{R_i} \sum_{j=1}^C \lambda_{ji} p(y_j|\mathbf{x}) p(\mathbf{x}) \, dx$the total risk of a model, is the sum of average risks of each decision region
 	
 ##### Classifier Construction using Empirical Risk Minimisation
-![[Pasted image 20241023165318.png|400]]
+![400](../../attachments/Pasted%20image%2020241023165318.png)
 Minimise the average cost, varying the hypotheses functions, when they are evaluated in the training set
 ##### Hypothesis function (linear model):
-![[Pasted image 20241023165331	.png|400]]![[Pasted image 20241023165340.png|400]]
+![[Pasted image 20241023165331	.png|400]]![400](../../attachments/Pasted%20image%2020241023165340.png)
 By varying the weights $w_1, \dots, w_D$, we obtain the general class, of possible functions for this hypothesis model.
 some h(x) map feature sets to continuous values (regressor)
 some h(x) maps feature sets to a single value (classifier)

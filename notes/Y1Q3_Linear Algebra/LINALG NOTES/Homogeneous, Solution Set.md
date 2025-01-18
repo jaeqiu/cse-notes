@@ -6,7 +6,7 @@ estimated value (word count): 202
 > Main Takeaway: A homogeneous linear system, where constants are set to 0, can have either one or infinitely many solutions. The solution set of a consistent nonhomogeneous linear system parallels that of its corresponding homogeneous linear system.
 # Homogeneous Linear Systems
 A **homogeneous** linear system has an augmented matrix with strictly zeroes in the constants column. The constants are set to 0.
-![[Untitled 13.png]]
+![Untitled 13.png](../../../attachments/Untitled%2013.png)
 ## Solutions
 The **trivial solution** is for every unknown (`X1, X2,…`) to be zero, since `0 + 0 = 0`. A homogeneous linear system has either one or infinitely many solutions.
 - If the number of unknowns exceeds the number of equations (more columns than rows), there are **infinitely many solutions**. Each row can at most express one unknown entirely out of other unknowns.

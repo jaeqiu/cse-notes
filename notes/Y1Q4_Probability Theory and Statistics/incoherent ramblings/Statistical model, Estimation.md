@@ -24,17 +24,17 @@ Created time: 2024-09-20T20:36
 ## Estimate, Estimator
 
 > Overal thoughts.
-![[Untitled 47.png]]
+![Untitled 47.png](../../../attachments/Untitled%2047.png)
 ## Sampling Distribution
 
 > Overal thoughts
-![[Untitled 48.png]]
+![Untitled 48.png](../../../attachments/Untitled%2048.png)
 ### Bias
-![[Untitled 46.png]]
+![Untitled 46.png](../../../attachments/Untitled%2046.png)
 ### Unbiased Estimator (mean and variance)
-![[Untitled 49.png]]
+![Untitled 49.png](../../../attachments/Untitled%2049.png)
 ### Sample Standard Deviation
-![[Untitled 50.png]]
+![Untitled 50.png](../../../attachments/Untitled%2050.png)
 ### Variability Measures
 Sample Variance  
 Sample Standard Deviation  
