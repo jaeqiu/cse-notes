@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"c314eec5963e8013","type":"file","file":"attachments/Pasted image 20250120161007.png","x":-1180,"y":-6760,"width":174,"height":160},
+		{"id":"c314eec5963e8013","type":"file","file":"attachments/Pasted image 20250120161007.png","x":-1180,"y":-6760,"width":160,"height":160},
 		{"id":"5638eb86c506b802","type":"text","text":"Data dredging:\nYou will expect to find correlations (From any data set)\nyou will find what you want to find if you try hard enough\nthe data will confess to anything if tortured long enough\n\nAVOID USING CROSS VALIDATION (FIND OUT MEANINGLESSNESS)\n\nhow tf we gon do cross validation if we have no ground truth","x":-960,"y":-6580,"width":174,"height":160},
 		{"id":"676912ea3dce1a91","type":"text","text":"Prosecutor's fallacy:\nP(A|B) != P(B|A)\n","x":-1400,"y":-6560,"width":174,"height":160},
 		{"id":"0ae807517dc89449","type":"file","file":"notes/Y2Q2_Data Mining/Jaccard Similarity Distance.md","x":-940,"y":-6380,"width":174,"height":160},
@@ -9,7 +9,7 @@
 		{"id":"db293a934e8563cf","type":"link","url":"https://mattermost.tudelft.nl/select_team","x":-1420,"y":-6760,"width":174,"height":160},
 		{"id":"5a7918f5086a14d7","type":"link","url":"https://peer.tudelft.nl/courses","x":-940,"y":-6780,"width":174,"height":160},
 		{"id":"1b1f6396f89c969c","type":"text","text":"SPearman Correlation vs Pearson Correlation\n\nspearman's rho is used for measuring the monotonocity of two variables, while the pearsson correlation will mearsure only the linear correlations.\n\n","x":-1180,"y":-6980,"width":174,"height":160},
-		{"id":"769da6e3f6455734","type":"file","file":"attachments/Pasted image 20241216224525.png","x":-940,"y":-6980,"width":174,"height":160},
+		{"id":"769da6e3f6455734","type":"file","file":"attachments/Pasted image 20241216224525.png","x":-940,"y":-6980,"width":174,"height":107},
 		{"id":"60f05963dba5701b","type":"link","url":"https://www.kdnuggets.com/","x":-700,"y":-6860,"width":174,"height":160},
 		{"id":"94d21923cd9f50c3","type":"text","text":"Redlining effect:\n\nremoving the sensitive feature does not remove the ability to discriminate => other attributes can be correlated and therefore infer them.","x":-700,"y":-6680,"width":174,"height":160},
 		{"id":"61d149e11a923374","type":"file","file":"notes/Y2Q2_Data Mining/KL-divergence measure.md","x":-700,"y":-6460,"width":174,"height":160},
@@ -17,7 +17,7 @@
 		{"id":"a6a9566eb9948406","type":"link","url":"https://queue.tudelft.nl/","x":-900,"y":-6140,"width":174,"height":160},
 		{"id":"d64d0d7c8016e259","type":"file","file":"notes/Y2Q2_Data Mining/Distance Metric.md","x":-1134,"y":-6020,"width":174,"height":160},
 		{"id":"3faa3b7cc7a42ce2","type":"text","text":"# Cross entropy\n\n![[Pasted image 20241118150757.png]]","x":-1374,"y":-6060,"width":174,"height":160},
-		{"id":"5c383bdcb82e0faa","type":"file","file":"attachments/Pasted image 20241118144734.png","x":-1594,"y":-6180,"width":174,"height":160},
+		{"id":"5c383bdcb82e0faa","type":"file","file":"attachments/Pasted image 20241118144734.png","x":-1594,"y":-6180,"width":159,"height":160},
 		{"id":"a8026b68cca84ea5","type":"file","file":"notes/Y2Q2_Data Mining/NOT ON EXAM.md","x":-1640,"y":-6460,"width":174,"height":160},
 		{"id":"d6074c54ce077a12","type":"link","url":"https://weblab.tudelft.nl/","x":-1640,"y":-6920,"width":174,"height":160},
 		{"id":"fb63a8b0cd20e223","type":"text","text":"Cross validation for recommender systems\nlarge data -> leave on out \nSpaprse data  -> k-fold with small k \n","x":-1400,"y":-7000,"width":174,"height":160},
@@ -33,7 +33,9 @@
 		{"id":"de1e65ac6c972ebc","type":"file","file":"attachments/Pasted image 20250120161129.png","x":-2080,"y":-6740,"width":399,"height":180},
 		{"id":"4db3fb6011aace3c","type":"file","file":"attachments/Pasted image 20250120161237.png","x":-2080,"y":-6520,"width":399,"height":144},
 		{"id":"cfe0fe62cd6849ab","type":"file","file":"attachments/Pasted image 20250120161305.png","x":-2080,"y":-6312,"width":398,"height":92},
-		{"id":"ea03c54d00a9d7f7","type":"file","file":"attachments/Pasted image 20250120161312.png","x":-2080,"y":-6152,"width":399,"height":104}
+		{"id":"ea03c54d00a9d7f7","type":"file","file":"attachments/Pasted image 20250120161312.png","x":-2080,"y":-6152,"width":399,"height":104},
+		{"id":"f814da75bb682d07","x":-1403,"y":-7210,"width":197,"height":170,"type":"link","url":"https://giorgi.tech/blog/minhashing/"},
+		{"id":"34a2e3a6fda2f2ab","x":-1682,"y":-7160,"width":216,"height":200,"type":"link","url":"https://giorgi.tech/blog/locality-sensitive-hashing/"}
 	],
 	"edges":[]
 }
