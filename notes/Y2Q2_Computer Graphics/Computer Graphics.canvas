@@ -36,7 +36,7 @@
 		{"id":"bbb4b2c74918da2a","type":"file","file":"attachments/Pasted image 20241210000955.png","x":-6281,"y":-4127,"width":323,"height":136},
 		{"id":"b30f9fb15ad14c4d","type":"file","file":"attachments/Pasted image 20241215201906.png","x":-6644,"y":-3818,"width":322,"height":197},
 		{"id":"93a48057d8872217","type":"file","file":"Excalidraw/Bilinear upscaling 2024-12-09 20.05.56.excalidraw.md","x":-6301,"y":-3818,"width":323,"height":269},
-		{"id":"09ffcc86f3dbd197","x":-7460,"y":-4730,"width":400,"height":242,"type":"file","file":"attachments/Pasted image 20250120225409.png"}
+		{"id":"09ffcc86f3dbd197","type":"file","file":"attachments/Pasted image 20250120225409.png","x":-7460,"y":-4730,"width":400,"height":242}
 	],
 	"edges":[]
 }
