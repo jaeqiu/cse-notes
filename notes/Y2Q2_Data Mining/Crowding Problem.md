@@ -1,0 +1,4 @@
+In low-dimensional spaces, there is less room. Embedding high-dimensional data with inherent structures to lower dimensions causes crowding. More points can be equi-distant to a central point in higher dimensions, compared to lower dimensions, where equi-distant points crowd in the lower amount of equi-distant locations.
+
+![](../../attachments/image/Crowding%20Problem-1737834414627.jpeg)![](../../attachments/image/Crowding%20Problem-1737834455460.jpeg)
+Here you there is more space for points to be equi-distant to the red point in 2 dimensions rather than 1 dimension. By embedding in 1-dimension, the blue points crowd together.
