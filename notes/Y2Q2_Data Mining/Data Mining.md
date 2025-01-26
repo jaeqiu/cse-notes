@@ -1,4 +1,4 @@
-Extracting useful information into an undestandable way from a large amount of data
+Extracting useful information into an understandable way from a large amount of data
 
 ![Data Mining 2024-11-11 14.28.41.excalidraw](../../Excalidraw/Data%20Mining%202024-11-11%2014.28.41.excalidraw.md)
 
@@ -53,3 +53,4 @@ learn a model form the obtained data table
 
 Distances with sequential Orders:
 ??????????
+[Distances](Distances.md)

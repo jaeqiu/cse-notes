@@ -18,3 +18,7 @@ The choice of nearest neighbor k defines how connected the graph is
 ![](../../attachments/image/Uniform%20Manifold%20Approximation%20&%20Projection-1737837498007.jpeg)
 (high k, low k)
 ![](../../attachments/image/Uniform%20Manifold%20Approximation%20&%20Projection-1737837549663.jpeg)
+Both t-SNE and UMAP typically do _not_ preserve the absolute orientation or exact distances in a straightforward manner. They can freely _rotate, flip, or translate_ the embedding.
+
+
+**UMAP** explicitly chooses _k_ nearest neighbors to construct a graph.

@@ -1,0 +1,1 @@
+Longest Common Subsequence (LCS) distance is a type of edit distance that only computes the number of character inserts and deletions (not substitutions) needed to convert one string into another. LCS distance is a metric.

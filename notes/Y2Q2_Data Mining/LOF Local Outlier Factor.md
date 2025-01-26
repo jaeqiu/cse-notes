@@ -1,0 +1,1 @@
+The distance to my furthest neighbor divided over the average distance, for each of my neighbors, to their furthest neighbor.![](../../attachments/image/LOF%20Local%20Outlier%20Factor-1737906936156.jpeg)![](../../attachments/image/LOF%20Local%20Outlier%20Factor-1737906953000.jpeg)
