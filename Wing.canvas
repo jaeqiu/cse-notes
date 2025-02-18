@@ -8,13 +8,22 @@
 		{"id":"7d0d9a853520b00b","type":"file","file":"notes/skateboarding.md","x":-1020,"y":-930,"width":820,"height":889},
 		{"id":"efaf4479cdc994b1","type":"file","file":"notes/Y2Q4_Software Project/Software Project.canvas","x":-60,"y":-901,"width":300,"height":50},
 		{"id":"1d061256208982fa","type":"file","file":"notes/Y3Q1_Minor/Minor.canvas","x":-60,"y":-810,"width":300,"height":50},
+<<<<<<< HEAD
+=======
+		{"id":"59d518ba0e5cef63","type":"file","file":"notes/Y2Q1_Big Data Processing/Big Data Processing.canvas","x":-60,"y":-275,"width":300,"height":50},
+		{"id":"1de40b5f3548f095","type":"file","file":"notes/Y2Q2_Computer Graphics/Computer Graphics.canvas","x":-60,"y":-205,"width":300,"height":50},
+		{"id":"8542d3396d77bff7","type":"file","file":"notes/Y2Q2_Data Mining/Data Mining.canvas","x":-60,"y":-115,"width":300,"height":50},
+>>>>>>> 90ab739da3cd7206659aa37935b05a4b7ac7eaa9
 		{"id":"7caa9da354c80e82","type":"text","text":"Computer Science","x":360,"y":-1060,"width":260,"height":50},
 		{"id":"d48e67a02192e681","type":"file","file":"notes/Y1Q2_Web & Database Technology/Web & Database Technology.canvas","x":720,"y":-360,"width":300,"height":50},
 		{"id":"aa4ba7274b88b078","type":"file","file":"notes/Y1Q1_Introduction to Programming/Introduction to Programming.canvas","x":720,"y":-270,"width":300,"height":50},
 		{"id":"10543a9005edfc1d","type":"file","file":"notes/Y1Q3_Linear Algebra/Linear Algebra.canvas","x":720,"y":-180,"width":300,"height":50},
 		{"id":"9dd4c5d2ee70887c","type":"file","file":"notes/Y1Q1_Computer Organisation/Computer Organisation.canvas","x":720,"y":-90,"width":300,"height":50},
 		{"id":"461d390984b45b66","type":"file","file":"notes/Y1Q4_Software Quality and Testing/Software Quality and Testing.canvas","x":720,"y":-630,"width":300,"height":50},
+<<<<<<< HEAD
 		{"id":"7373db4a475f9c4a","type":"file","file":"notes/Y1Q3_Algorithms and Data Structures/Algorithms and Data Structures.canvas","x":320,"y":-912,"width":300,"height":50},
+=======
+>>>>>>> 90ab739da3cd7206659aa37935b05a4b7ac7eaa9
 		{"id":"9c9a74ed8a264180","type":"file","file":"notes/Y2Q3_Automata, Computability and Complexity/Automata, Computability and Complexity.canvas","x":320,"y":-834,"width":300,"height":50},
 		{"id":"33435a4d309dcb1d","type":"file","file":"notes/Y2Q3_Computational Intelligence/Computational Intelligence.canvas","x":320,"y":-678,"width":300,"height":50},
 		{"id":"b874d61d0dc02fd6","type":"file","file":"notes/Y2Q3_Concepts of Programming Languages/Concepts of Programming Languages.canvas","x":320,"y":-754,"width":300,"height":50},
@@ -22,6 +31,10 @@
 		{"id":"215c4971e2c9fc8a","type":"file","file":"notes/Y1Q3_Information and Data Management/Information and Data Management.canvas","x":720,"y":-540,"width":300,"height":50},
 		{"id":"1bb5f47a607022d4","type":"file","file":"notes/Y1Q4_Computer Networks/Computer Networks.canvas","x":720,"y":-450,"width":300,"height":50},
 		{"id":"e48e6b7552ed4200","type":"file","file":"notes/Y1Q2_CSE Project/CSE Project.canvas","x":720,"y":0,"width":300,"height":50},
+<<<<<<< HEAD
+=======
+		{"id":"11c04b21396f4a95","type":"file","file":"notes/Y2Q2_Algorithm Design/Algorithm Design.canvas","x":-60,"y":-365,"width":300,"height":50},
+>>>>>>> 90ab739da3cd7206659aa37935b05a4b7ac7eaa9
 		{"id":"c2ae002339634ea4","type":"file","file":"notes/Y3Q3_Elective 1/Elective 1.canvas","x":-60,"y":-719,"width":300,"height":50},
 		{"id":"f603bb300eaa8f78","type":"file","file":"notes/Y3Q3_Elective 2/Elective 2.canvas","x":-60,"y":-628,"width":300,"height":50},
 		{"id":"59c06568b15e004e","type":"file","file":"notes/Y3Q3_Elective 3/Elective 3.canvas","x":-60,"y":-537,"width":300,"height":50},
@@ -30,10 +43,14 @@
 		{"id":"d96e83cae33f63cc","type":"file","file":"notes/Y2Q1_Software Engineering Methods/Software Engineering Methods.canvas","x":720,"y":-810,"width":300,"height":50},
 		{"id":"802e0b54e040ee36","type":"file","file":"notes/Y1Q1_Reasoning & Logic/Reasoning & Logic.canvas","x":720,"y":90,"width":300,"height":50},
 		{"id":"202686475043dac6","type":"file","file":"notes/Y1Q2_Calculus/Calculus.canvas","x":720,"y":180,"width":300,"height":50},
+<<<<<<< HEAD
 		{"id":"59d518ba0e5cef63","type":"file","file":"notes/Y2Q1_Big Data Processing/Big Data Processing.canvas","x":-60,"y":-360,"width":300,"height":50},
 		{"id":"11c04b21396f4a95","type":"file","file":"notes/Y2Q2_Algorithm Design/Algorithm Design.canvas","x":-60,"y":-288,"width":300,"height":50},
 		{"id":"1de40b5f3548f095","type":"file","file":"notes/Y2Q2_Computer Graphics/Computer Graphics.canvas","x":-60,"y":-220,"width":300,"height":50},
 		{"id":"8542d3396d77bff7","type":"file","file":"notes/Y2Q2_Data Mining/Data Mining.canvas","x":-60,"y":-130,"width":300,"height":50}
+=======
+		{"id":"7373db4a475f9c4a","type":"file","file":"notes/Y1Q3_Algorithms and Data Structures/Algorithms and Data Structures.canvas","x":320,"y":-901,"width":300,"height":50}
+>>>>>>> 90ab739da3cd7206659aa37935b05a4b7ac7eaa9
 	],
 	"edges":[]
 }

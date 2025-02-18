@@ -3,7 +3,8 @@
 		{"id":"57a2faa97f45e98b","type":"link","url":"https://the-algorithms.com/","x":-642,"y":-185,"width":400,"height":400},
 		{"id":"f4039f8fe6849695","type":"link","url":"https://visualgo.net/en","x":-211,"y":-327,"width":400,"height":400},
 		{"id":"633ed854022e3523","type":"link","url":"https://www.coursera.org/learn/algorithms-part1","x":-1020,"y":-527,"width":400,"height":400},
-		{"id":"70a6b0d988f54738","x":-520,"y":-635,"width":400,"height":217,"type":"file","file":"attachments/Pasted image 20250217155719.png"}
+		{"id":"70a6b0d988f54738","type":"file","file":"attachments/Pasted image 20250217155719.png","x":-520,"y":-635,"width":400,"height":217},
+		{"id":"90a05a4e29ff9126","x":-1120,"y":-938,"width":400,"height":303,"type":"file","file":"attachments/Pasted image 20250218085819.png"}
 	],
 	"edges":[]
 }
