@@ -3,6 +3,7 @@
 		{"id":"2c414d3565cef205","type":"group","x":680,"y":-940,"width":440,"height":1260,"color":"4","label":"ACCOMPLISHED"},
 		{"id":"bccd370eec7c8502","type":"group","x":-120,"y":-940,"width":400,"height":1260,"color":"2","label":"PENDING"},
 		{"id":"e1409f8aa6391892","type":"group","x":280,"y":-940,"width":400,"height":1260,"color":"1","label":"CONTESTING"},
+		{"id":"1c0770643d89bf9b","x":574,"y":-1221,"width":250,"height":60,"type":"text","text":""},
 		{"id":"4102d856642157a1","type":"text","text":"Blender","x":-240,"y":-1640,"width":250,"height":60},
 		{"id":"8e329d785a210d03","type":"file","file":"attachments/Blender Shortcuts.pdf","x":-360,"y":-1570,"width":560,"height":560},
 		{"id":"7d0d9a853520b00b","type":"file","file":"notes/skateboarding.md","x":-1020,"y":-930,"width":820,"height":889},
@@ -34,7 +35,7 @@
 		{"id":"11c04b21396f4a95","type":"file","file":"notes/Y2Q2_Algorithm Design/Algorithm Design.canvas","x":-60,"y":-288,"width":300,"height":50},
 		{"id":"1de40b5f3548f095","type":"file","file":"notes/Y2Q2_Computer Graphics/Computer Graphics.canvas","x":-60,"y":-220,"width":300,"height":50},
 		{"id":"8542d3396d77bff7","type":"file","file":"notes/Y2Q2_Data Mining/Data Mining.canvas","x":-60,"y":-130,"width":300,"height":50},
-		{"id":"f7f03f77d7df2c30","x":1020,"y":-1690,"width":625,"height":630,"type":"file","file":"attachments/Pasted image 20250223230651.png"}
+		{"id":"f7f03f77d7df2c30","type":"file","file":"attachments/Pasted image 20250223230651.png","x":1020,"y":-1690,"width":625,"height":630}
 	],
 	"edges":[]
 }
