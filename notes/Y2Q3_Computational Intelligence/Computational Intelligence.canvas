@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"05dc4c50500a6b0d","type":"file","file":"attachments/Pasted image 20250217155639.png","x":-340,"y":-380,"width":520,"height":653},
-		{"id":"6107b4eb54e3109a","x":239,"y":-287,"width":250,"height":60,"type":"file","file":"notes/Y2Q3_Computational Intelligence/ciiiiiiiiii.md"},
-		{"id":"4b054bfadc44d4bd","x":239,"y":20,"width":1081,"height":720,"type":"file","file":"attachments/ant colony optimization.md"}
+		{"id":"6107b4eb54e3109a","type":"file","file":"notes/Y2Q3_Computational Intelligence/ciiiiiiiiii.md","x":239,"y":-287,"width":250,"height":60},
+		{"id":"4b054bfadc44d4bd","type":"file","file":"attachments/ant colony optimization.md","x":239,"y":20,"width":1081,"height":720}
 	],
 	"edges":[]
 }
