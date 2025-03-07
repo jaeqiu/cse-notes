@@ -44,19 +44,19 @@
 - Width: the full width of the wheel
 - NARROW <-------------------------------------------------------------> WIDE
 - DOESNT MATTER, CONTACT PATCH MATTERS
-
+- 
 - Contact patch: the part that actually rolls (touches the ground)
 - NARROW <-------------------------------------------------------------> WIDE
 - rough   <------------------------------------------------------------->  smooth
-
+- 
 - Size: the height of the wheel
 - LOW <-------------------------------------------------------------> HIGH
 - low ride, high speed <------------------------------------>high ride, high acceleration
-
+- 
 - Durometer: the hardness of the wheel (100=hard, 0=soft)
 - SOFT <-------------------------------------------------------------> HARD
 - smooth, high acceleration<----------------------------> rough, high speed 
-
+- 
 # Reasoning behind recommendations
 Cruiser:
 Cruiser boards are preferred to be low, smooth and fast (slow accell)
