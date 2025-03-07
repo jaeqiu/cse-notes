@@ -10,7 +10,7 @@
 	- low (54-60mm)
 		- Keep this on the lower end to avoid wheelbite (and to avoid a high board)
 	- wide (contact patch: 40-50mm)
-## Landyachtz Fatty Hawgs
+## Landyachtz Fatty Hawgs (leon en ik hebben deze op cruiser setup)
 
 
 - longboard ->
