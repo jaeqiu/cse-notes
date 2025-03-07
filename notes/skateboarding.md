@@ -1,16 +1,25 @@
-common setups:
+# common setups:
 - park skateboard -> 
 	- high (98a-101a)
 	- low (54mm)
+## Powell Peralta Nano Cubics
+
+
 - cruiser ->
 	- soft (78a)
 	- low (54-60mm)
 		- Keep this on the lower end to avoid wheelbite (and to avoid a high board)
 	- wide (contact patch: 40-50mm)
+## Landyachtz Fatty Hawgs
+
+
 - longboard ->
 	- soft (under 90a)
 	- high (above 70mm)
 	- wide (contact patch: above 40mm)
+## Orangatang Stimulus
+
+# Wheels Spreadsheet
 
 | Brand          | Name                             | Image                                                        | Size      | patch     | width  | Durometer |     |
 | -------------- | -------------------------------- | ------------------------------------------------------------ | --------- | --------- | ------ | --------- | --- |
