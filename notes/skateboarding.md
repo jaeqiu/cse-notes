@@ -2,7 +2,7 @@
 - park skateboard -> 
 	- high (98a-101a)
 	- low (54mm)
-## Powell Peralta Nano Cubics (double durometer formula maakt viable voor park en iets comfortabeler voor cruise dan park wheel)
+Example: Powell Peralta Nano Cubics (double durometer formula maakt viable voor park en iets comfortabeler voor cruise dan park wheel)
 
 
 - cruiser ->
@@ -10,14 +10,14 @@
 	- low (54-60mm)
 		- Keep this on the lower end to avoid wheelbite (and to avoid a high board)
 	- wide (contact patch: 40-50mm)
-## Landyachtz Fatty Hawgs (leon en ik hebben deze op cruiser setup)
+Example: Landyachtz Fatty Hawgs (leon en ik hebben deze op cruiser setup)
 
 
 - longboard ->
 	- soft (under 90a)
 	- high (above 70mm)
 	- wide (contact patch: above 40mm)
-## Orangatang Stimulus
+Example: Orangatang Stimulus
 
 # Wheels Spreadsheet
 
