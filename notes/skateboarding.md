@@ -42,20 +42,28 @@
 # Wheel Properties
 ![](../attachments/image/skateboarding-1741371182946.jpeg)
 - Width: the full width of the wheel
+NARROW <-------------------------------------------------------------> WIDE
+DOESNT MATTER, CONTACT PATCH MATTERS
 - Contact patch: the part that actually rolls (touches the ground)
+NARROW <-------------------------------------------------------------> WIDE
+rough                                                                                                   smooth
 	- wide patches reduce the feeling of rough terrain
 - Size: the height of the wheel
-	- large wheels sacrifice speed for acceleration
+LOW <-------------------------------------------------------------> HIGH
+low ride, high speed                                                                 high ride, high acceleration
+
 - Durometer: the hardness of the wheel (100=hard, 0=soft)
+SOFT <-------------------------------------------------------------> HARD
+smooth, high acceleration                                                 rough, high speed 
 	- soft wheels absorb the feeling of rough terrain
 # Reasoning behind recommendations
 Cruiser:
 Cruiser boards are preferred to be low, smooth and fast
 - small size
-- low durometer
+- low durometer 
 - wide but small (speed matters more than acceleration. The first push gives you speed immediately)
 Park board:
 Park boards are preferred to be low, rough on street, fast
 - small size
 - high durometer (+ speed, -smoothness )
-- wide but small (+ speed, -acceleration. The first push gives you speed immediately)
+- not wide, also small (+ speed, -acceleration. The first push gives you speed immediately)
