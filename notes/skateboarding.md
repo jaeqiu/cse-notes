@@ -37,3 +37,11 @@
 | Landyachtz    Plow King GT                     | ![250](../attachments/Pasted%20image%2020250108160502.png)    | 74mm high | 66.5/66.5mm | 76a       | ☆☆☆☆☆       | ⭐⭐⭐⭐☆          | ⭐⭐⭐⭐⭐            |
 | OJ Wheels     Plain Jane                       | ![250](../attachments/image/skateboarding-1737166749755.jpeg) | 54mm high | 22/35mm     | 87a       | ⭐⭐☆☆☆       | ⭐⭐⭐⭐⭐          | ☆☆☆☆☆            |
 |                                                |                                                               |           |             |           |             |                |                  |
+
+
+# Wheel Properties
+![](../attachments/image/skateboarding-1741371182946.jpeg)
+- Width: the full width of the wheel
+- Contact patch: the part that actually rolls (touches the ground)
+- Size: the height of the wheel
+- Durometer: the hardness of the wheel (100=hard, 0=soft)
