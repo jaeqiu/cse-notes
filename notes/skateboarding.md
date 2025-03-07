@@ -43,5 +43,14 @@
 ![](../attachments/image/skateboarding-1741371182946.jpeg)
 - Width: the full width of the wheel
 - Contact patch: the part that actually rolls (touches the ground)
+	- wide patches reduce the feeling of rough terrain
 - Size: the height of the wheel
+	- large wheels sacrifice speed for acceleration
 - Durometer: the hardness of the wheel (100=hard, 0=soft)
+	- soft wheels absorb the feeling of rough terrain
+# Reasoning behind recommendations
+Cruiser:
+Cruiser decks are preferred to be low, smooth and fast
+- small size
+- low durometer
+- wide but small (speed matters more than acceleration. The first push gives you speed immediately)
