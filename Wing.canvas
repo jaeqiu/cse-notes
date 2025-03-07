@@ -7,7 +7,6 @@
 		{"id":"8e329d785a210d03","type":"file","file":"attachments/Blender Shortcuts.pdf","x":-360,"y":-1570,"width":560,"height":560},
 		{"id":"7373db4a475f9c4a","type":"file","file":"notes/Y1Q3_Algorithms and Data Structures/Algorithms and Data Structures.canvas","x":320,"y":-912,"width":300,"height":50},
 		{"id":"7caa9da354c80e82","type":"text","text":"Computer Science","x":360,"y":-1060,"width":260,"height":50},
-		{"id":"7d0d9a853520b00b","type":"file","file":"notes/skateboarding.md","x":-1020,"y":-930,"width":820,"height":889},
 		{"id":"efaf4479cdc994b1","type":"file","file":"notes/Y2Q4_Software Project/Software Project.canvas","x":-60,"y":-901,"width":300,"height":50},
 		{"id":"1d061256208982fa","type":"file","file":"notes/Y3Q1_Minor/Minor.canvas","x":-60,"y":-810,"width":300,"height":50},
 		{"id":"9c9a74ed8a264180","type":"file","file":"notes/Y2Q3_Automata, Computability and Complexity/Automata, Computability and Complexity.canvas","x":320,"y":-834,"width":300,"height":50},
@@ -37,7 +36,9 @@
 		{"id":"e48e6b7552ed4200","type":"file","file":"notes/Y1Q2_CSE Project/CSE Project.canvas","x":720,"y":0,"width":300,"height":50},
 		{"id":"802e0b54e040ee36","type":"file","file":"notes/Y1Q1_Reasoning & Logic/Reasoning & Logic.canvas","x":720,"y":90,"width":300,"height":50},
 		{"id":"202686475043dac6","type":"file","file":"notes/Y1Q2_Calculus/Calculus.canvas","x":720,"y":180,"width":300,"height":50},
-		{"id":"a2c8959740c5f712","type":"file","file":"attachments/Pasted image 20250304202511.png","x":1400,"y":230,"width":1679,"height":1008}
+		{"id":"a2c8959740c5f712","type":"file","file":"attachments/Pasted image 20250304202511.png","x":1400,"y":230,"width":1679,"height":1008},
+		{"id":"7d0d9a853520b00b","type":"file","file":"notes/skateboarding.md","x":-1020,"y":-930,"width":820,"height":889},
+		{"id":"7bfd1286de1f3772","type":"file","file":"notes/skateboarding.md","x":-1020,"y":-929,"width":820,"height":889}
 	],
 	"edges":[]
 }
