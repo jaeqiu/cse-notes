@@ -50,7 +50,12 @@
 	- soft wheels absorb the feeling of rough terrain
 # Reasoning behind recommendations
 Cruiser:
-Cruiser decks are preferred to be low, smooth and fast
+Cruiser boards are preferred to be low, smooth and fast
 - small size
 - low durometer
 - wide but small (speed matters more than acceleration. The first push gives you speed immediately)
+Park board:
+Park boards are preferred to be low, rough on street, fast
+- small size
+- high durometer (+ speed, -smoothness )
+- wide but small (+ speed, -acceleration. The first push gives you speed immediately)
