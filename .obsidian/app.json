@@ -6,5 +6,11 @@
   "attachmentFolderPath": "attachments",
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
