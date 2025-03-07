@@ -42,20 +42,20 @@
 # Wheel Properties
 ![](../attachments/image/skateboarding-1741371182946.jpeg)
 - Width: the full width of the wheel
-NARROW <-------------------------------------------------------------> WIDE
-           DOESNT MATTER, CONTACT PATCH MATTERS
+- NARROW <-------------------------------------------------------------> WIDE
+- DOESNT MATTER, CONTACT PATCH MATTERS
 
 - Contact patch: the part that actually rolls (touches the ground)
-NARROW <-------------------------------------------------------------> WIDE
-rough   <------------------------------------------------------------->  smooth
+- NARROW <-------------------------------------------------------------> WIDE
+- rough   <------------------------------------------------------------->  smooth
 
 - Size: the height of the wheel
-LOW <-------------------------------------------------------------> HIGH
-low ride, high speed <------------------------------------>high ride, high acceleration
+- LOW <-------------------------------------------------------------> HIGH
+- low ride, high speed <------------------------------------>high ride, high acceleration
 
 - Durometer: the hardness of the wheel (100=hard, 0=soft)
-SOFT <-------------------------------------------------------------> HARD
-smooth, high acceleration<----------------------------> rough, high speed 
+- SOFT <-------------------------------------------------------------> HARD
+- smooth, high acceleration<----------------------------> rough, high speed 
 
 # Reasoning behind recommendations
 Cruiser:
