@@ -35,5 +35,5 @@
 | Landyachtz     | Fatty Hawgs                      | ![250](../attachments/Pasted%20image%2020250108154934.png)    | 63mm high | 48/54mm     | 78a       | 0/5                | 5/5                   | 0/5                     |
 | Landyachtz     | Doozies                          | ![250](../attachments/Pasted%20image%2020250108160127.png)    | 63mm high | 58/64mm     | 78a       | 0/5                | 4/5                   | 0/5                     |
 | Landyachtz     | Plow King GT                     | ![250](../attachments/Pasted%20image%2020250108160502.png)    | 74mm high | 66.5/66.5mm | 76a       | 0/5                | 4/5                   | 5/5                     |
-|                |                                  | ![250](../attachments/image/skateboarding-1737166749755.jpeg) | 54mm high | 22/35mm     | 87a       | 2/5                | 5/5                   | 0/5                     |
+| OJ Wheels      | Plain Jane                       | ![250](../attachments/image/skateboarding-1737166749755.jpeg) | 54mm high | 22/35mm     | 87a       | 2/5                | 5/5                   | 0/5                     |
 |                |                                  |                                                               |           |             |           |                    |                       |                         |
