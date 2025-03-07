@@ -60,18 +60,18 @@
 # Reasoning behind recommendations
 Cruiser:
 Cruiser boards are preferred to be low, smooth and fast (slow accell)
-- small size
-- low durometer 
+- small
+- hard
 - wide
 
 Park board:
 Park boards are preferred to be low, rough on street, fast (slow accell)
-- small size
-- high durometer
+- small
+- hard
 - narrow
 
 Longboard:
 Longboards are preferred to be high, smooth everywhere, slow (fast accell)
-- high size
-- high durometer
+- high
+- soft
 - wide 
