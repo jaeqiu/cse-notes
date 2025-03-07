@@ -1,6 +1,6 @@
 # common setups:
 - park skateboard -> 
-	- high (98a-101a)
+	- hard (98a-101a)
 	- low (54mm)
 	- Example: Powell Peralta Nano Cubics (double durometer formula maakt viable voor park en iets comfortabeler voor cruise dan park wheel)
 
