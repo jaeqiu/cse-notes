@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"67bbc3fa56fcf66d","x":-40,"y":-400,"width":400,"height":26,"type":"file","file":"attachments/Pasted image 20250217160031.png"},
-		{"id":"b2fba5564bb4f773","x":-20,"y":155,"width":400,"height":76,"type":"file","file":"attachments/Pasted image 20250217160048.png"},
-		{"id":"bbb6da7849fd6786","x":-60,"y":-320,"width":400,"height":385,"type":"file","file":"attachments/Pasted image 20250217160039.png"}
+		{"id":"67bbc3fa56fcf66d","type":"file","file":"attachments/Pasted image 20250217160031.png","x":-40,"y":-400,"width":400,"height":26},
+		{"id":"b2fba5564bb4f773","type":"file","file":"attachments/Pasted image 20250217160048.png","x":-20,"y":155,"width":400,"height":76},
+		{"id":"bbb6da7849fd6786","type":"file","file":"attachments/Pasted image 20250217160039.png","x":-60,"y":-320,"width":400,"height":385}
 	],
 	"edges":[]
 }
