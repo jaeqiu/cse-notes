@@ -1,1 +1,7 @@
-{}
+{
+	"nodes":[
+		{"id":"dbb6b183a690f898","x":-236,"y":163,"width":400,"height":400,"type":"file","file":"notes/Y1Q3_Information and Data Management/idm_redo_recovery_slides.pdf"},
+		{"id":"6a59b00362f32cfa","type":"link","url":"https://courses.cs.washington.edu/courses/cse444/10au/lectures/lecture09-10.pdf","x":-200,"y":-200,"width":400,"height":400}
+	],
+	"edges":[]
+}

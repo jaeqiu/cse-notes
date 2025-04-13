@@ -1,9 +1,5 @@
 {
 	"nodes":[
-		{"id":"f38403c7eb27ac58","x":2060,"y":-480,"width":1660,"height":1163,"type":"group","label":"Data Structure"},
-		{"id":"702956ac7615d0db","x":766,"y":-479,"width":1234,"height":1162,"type":"group","label":"Abstract Data Type"},
-		{"id":"4a999b36af4e3041","type":"group","x":2780,"y":0,"width":920,"height":240,"label":"Binary Tree: 0, 1, 2 children"},
-		{"id":"e194ac26fa58a4c7","type":"group","x":2080,"y":400,"width":300,"height":100,"label":"Partial Order Relation"},
 		{"id":"57a2faa97f45e98b","type":"link","url":"https://the-algorithms.com/","x":-642,"y":-185,"width":400,"height":400},
 		{"id":"f4039f8fe6849695","type":"link","url":"https://visualgo.net/en","x":-211,"y":-327,"width":400,"height":400},
 		{"id":"633ed854022e3523","type":"link","url":"https://www.coursera.org/learn/algorithms-part1","x":-1020,"y":-527,"width":400,"height":400},
@@ -11,30 +7,7 @@
 		{"id":"90a05a4e29ff9126","type":"file","file":"attachments/Pasted image 20250218085819.png","x":-1120,"y":-938,"width":400,"height":303},
 		{"id":"5a7d7a5568bed74c","type":"file","file":"attachments/Pasted image 20250311162928.png","x":3120,"y":-1620,"width":640,"height":400},
 		{"id":"7db4fbc6ac74aa2a","type":"file","file":"attachments/Pasted image 20250311161834.png","x":314,"y":-1420,"width":604,"height":400},
-		{"id":"96acb18a08e2f38d","type":"text","text":"heap (most commonly binary-heaps)\nheap invariant","x":2510,"y":-184,"width":250,"height":148},
-		{"id":"1a8add12803363ea","type":"text","text":"B+ Tree","x":3070,"y":-170,"width":250,"height":60},
-		{"id":"4aa7870929760abd","type":"text","text":"Complete Binary Tree\nfilled from left\n-levels 0 until h-1 are completely full\n-level h is left-most","x":2795,"y":52,"width":250,"height":148},
-		{"id":"d5837947451b7667","type":"text","text":"Full Binary Tree\n0 or 2 children","x":3105,"y":56,"width":250,"height":148},
-		{"id":"114d3ceba2b1344a","type":"text","text":"Perfect Binary Tree\nfilled layers","x":3425,"y":56,"width":250,"height":168},
-		{"id":"997285cc170158c6","type":"text","text":"binary-heap","x":2420,"y":224,"width":250,"height":60},
-		{"id":"074ca4f4edaad1cc","type":"text","text":"Binary Search tree\nThe rightmost child of the left child is smaller than the leftmost child of the right child","x":3115,"y":322,"width":250,"height":158},
-		{"id":"26d0be780b8e46cd","type":"text","text":"RB-tree","x":3060,"y":582,"width":250,"height":60},
-		{"id":"2fe0c07e55a485e8","type":"text","text":"max-heap\n\n\n\nThe keys stored at each node of the tree must be comparable according to a total order relations of comparability, antisymmetry, and transitivity.\n\n- binary tree\n- parent element is max value of its subtree\n- complete.","x":2499,"y":401,"width":272,"height":262},
-		{"id":"314f566b286605f7","type":"text","text":"Total Order Relation (Linear)","x":2106,"y":414,"width":250,"height":68},
-		{"id":"8d951a0787d20efb","type":"text","text":"tree\nroot and children","x":2795,"y":-314,"width":250,"height":60},
-		{"id":"04d0f204668a10c1","type":"text","text":"graph\nnodes and edges","x":2545,"y":-460,"width":250,"height":60},
-		{"id":"774c163a1d844358","type":"file","file":"attachments/Pasted image 20250311162916.png","x":-920,"y":370,"width":871,"height":424},
-		{"id":"98d4aebef82c17b8","type":"file","file":"attachments/Pasted image 20250311162459.png","x":2159,"y":198,"width":144,"height":124}
+		{"id":"774c163a1d844358","type":"file","file":"attachments/Pasted image 20250311162916.png","x":-920,"y":370,"width":871,"height":424}
 	],
-	"edges":[
-		{"id":"3cadd85ede0c8b16","fromNode":"04d0f204668a10c1","fromSide":"bottom","toNode":"8d951a0787d20efb","toSide":"left"},
-		{"id":"6c4c78f9b45105d1","fromNode":"8d951a0787d20efb","fromSide":"bottom","toNode":"96acb18a08e2f38d","toSide":"top"},
-		{"id":"4b883708ecd9eab6","fromNode":"997285cc170158c6","fromSide":"bottom","toNode":"2fe0c07e55a485e8","toSide":"top"},
-		{"id":"3ee4e27278e24e78","fromNode":"96acb18a08e2f38d","fromSide":"bottom","toNode":"997285cc170158c6","toSide":"top"},
-		{"id":"7be2fbdec479ad65","fromNode":"4aa7870929760abd","fromSide":"bottom","toNode":"997285cc170158c6","toSide":"top"},
-		{"id":"e7b91fa0bc342aaa","fromNode":"8d951a0787d20efb","fromSide":"bottom","toNode":"4a999b36af4e3041","toSide":"top"},
-		{"id":"2e36d29d86bcab6a","fromNode":"4a999b36af4e3041","fromSide":"bottom","toNode":"074ca4f4edaad1cc","toSide":"top"},
-		{"id":"20d097f632124cb2","fromNode":"074ca4f4edaad1cc","fromSide":"bottom","toNode":"26d0be780b8e46cd","toSide":"top"},
-		{"id":"4404838f78b02dc6","fromNode":"8d951a0787d20efb","fromSide":"bottom","toNode":"1a8add12803363ea","toSide":"top"}
-	]
+	"edges":[]
 }
