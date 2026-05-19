@@ -1,7 +1,7 @@
-Synchronized [PI](PI.md) planning, and [Lean portfolio management](Lean%20portfolio%20management.md)to manage dependencies across (multiple) large teams.
+Synchronized [PI](PI.md) planning, and to manage dependencies across (multiple) large teams.
 
 + Value stream management 
-+ [Lean portfolio management](Lean%20portfolio%20management.md)
++ 
 + Continuous delivery pipeline
 + Incorporates [CLC continuous learning culture](CLC%20continuous%20learning%20culture.md)
 

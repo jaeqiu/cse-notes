@@ -6,4 +6,4 @@ solution
 + Adaptable frameworks (steering)
 
 solved by:
-[AGILE methodology](AGILE%20methodology.md)
+

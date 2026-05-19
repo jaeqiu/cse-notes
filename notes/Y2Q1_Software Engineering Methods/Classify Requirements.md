@@ -33,4 +33,4 @@ SMART requirements:
 	time-related (optional, deadlines can be decided during a different stage of requirement analysis):
 		deadline for results
 
-Next: [Prioritize requirements](Prioritize%20requirements.md)
+Next: 

@@ -17,7 +17,7 @@
 		{"id":"70b212345ea08bac","type":"link","url":"https://skills.ewi.tudelft.nl/edition/736?view=circuit","x":-1973,"y":-810,"width":467,"height":272},
 		{"id":"374152b5100ab589","type":"file","file":"attachments/lecture62.pdf","x":-1189,"y":-590,"width":189,"height":280},
 		{"id":"66dd5de6f29d2f41","type":"text","text":"# Greedy stays ahead\nchoose optimal at each decision","x":-309,"y":-962,"width":453,"height":372},
-		{"id":"2dad53d7a2bad283","type":"file","file":"attachments/lecture63.pdf","x":-1466,"y":-590,"width":189,"height":280}
+		{"id":"2dad53d7a2bad283","type":"file","file":"attachments/lecture63.pdf","x":-1400,"y":-590,"width":189,"height":280}
 	],
 	"edges":[
 		{"id":"792a168f2ead73f6","fromNode":"983065da52a5b7de","fromSide":"right","toNode":"bb10645b7a9f526d","toSide":"left"},

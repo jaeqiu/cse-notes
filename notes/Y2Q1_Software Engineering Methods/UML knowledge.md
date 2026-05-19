@@ -42,7 +42,7 @@ plantuml syntax and various uml diagrams
 | ![Pasted image 20241102212920.png](../../attachments/Pasted%20image%2020241102212920.png) | many execution paths sync to one      | Sync        |
 | ![Pasted image 20241102212922.png](../../attachments/Pasted%20image%2020241102212922.png) | dot in circle                         | Final node  |
 
-# [UML Class Diagram](UML%20Class%20Diagram.md)
+# 
 
 |                                      | Looks like           | Class                                                                          |
 | ------------------------------------ | -------------------- | ------------------------------------------------------------------------------ |

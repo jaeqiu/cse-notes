@@ -24,7 +24,7 @@ Choosing an architectural pattern is a tradeoff. Each pattern differs in the fol
 
 ### Pipe-and-Filter
 
-[Pipe and Filter](Pipe%20and%20Filter.md)
+
 
 ### Microservices
 
